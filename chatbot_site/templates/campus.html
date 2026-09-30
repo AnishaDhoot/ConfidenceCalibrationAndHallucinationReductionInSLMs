@@ -1,0 +1,98 @@
+{% extends "base.html" %}
+{% block title %}Campus Life &mdash; VIT Q&amp;A Demo{% endblock %}
+
+{% block content %}
+<section class="hero" style="padding:44px 0 50px">
+  <div class="wrap">
+    <p class="eyebrow" style="color:#ffd46b">Campus Life</p>
+    <h1>Hostels, clubs &amp; fests</h1>
+    <p>Fees, rules and student life at the Vellore campus. Ask the assistant for details.</p>
+  </div>
+</section>
+
+<section class="section" id="hostels">
+  <div class="wrap">
+    <div class="section-head">
+      <p class="eyebrow">Hostels</p>
+      <h2>Men&rsquo;s hostel fee structure &mdash; senior students</h2>
+      <p>Vellore campus, Fall &amp; Winter semester 2025&ndash;26, Indian category. A sample of the room types from the published fee structure.</p>
+    </div>
+
+    <div class="table-scroll">
+      <table>
+        <caption>Amounts in &#8377;. Total = room &amp; mess fee + admission fee (non-refundable) + caution deposit (refundable).</caption>
+        <thead>
+          <tr><th>Room type &amp; mess</th><th class="num">Room &amp; mess fee</th><th class="num">Admission fee</th><th class="num">Caution deposit</th><th class="num">Total</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>6 NAC &amp; Veg Mess</td><td class="num">112,400</td><td class="num">15,000</td><td class="num">15,000</td><td class="num">142,400</td></tr>
+          <tr><td>6 NAC &amp; Non-Veg Mess</td><td class="num">121,900</td><td class="num">15,000</td><td class="num">15,000</td><td class="num">151,900</td></tr>
+          <tr><td>6 AC &amp; Veg Mess</td><td class="num">136,800</td><td class="num">15,000</td><td class="num">15,000</td><td class="num">166,800</td></tr>
+          <tr><td>4 AC &amp; Veg Mess</td><td class="num">145,300</td><td class="num">15,000</td><td class="num">15,000</td><td class="num">175,300</td></tr>
+          <tr><td>2 AC &amp; Veg Mess</td><td class="num">165,000</td><td class="num">15,000</td><td class="num">15,000</td><td class="num">195,000</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="fineprint">NAC = non-air-conditioned, AC = air-conditioned; the number is students per room. Ladies&rsquo; hostel and first-year fees differ &mdash; see the official fee PDFs on vit.ac.in.</p>
+
+    <div class="grid cols-2" style="margin-top:28px">
+      <article class="card">
+        <h3>Code of conduct highlights</h3>
+        <ul class="facts">
+          <li>Silence must be kept in the hostel from <strong>9:00 PM to 6:00 AM</strong>.</li>
+          <li>Entering the campus or hostel gate without an ID card: <strong>Rs.100</strong> the first time, Rs.1000 on repetition.</li>
+          <li>Electrical appliances in a hostel room: <strong>Rs.500</strong> fine and confiscation.</li>
+          <li>Giving false information during a misconduct enquiry: <strong>Rs.3,000</strong>.</li>
+        </ul>
+      </article>
+      <article class="card">
+        <h3>Ask about hostels</h3>
+        <p>Try one of these, or type your own question.</p>
+        <p>
+          <button type="button" class="btn btn-navy" data-ask="What is the penalty at VIT for a first-time offense of entering the campus/hostel gate without an ID card?">Gate ID penalty</button>
+          <button type="button" class="btn btn-navy" data-ask="What combined penalty applies at VIT for a first-time smoking offense inside the hostel?">Smoking penalty</button>
+        </p>
+        <p>
+          <button type="button" class="btn btn-gold" data-ask="Is cooking food inside a hostel room permitted under any circumstances?">Cooking in rooms?</button>
+          <button type="button" class="btn btn-gold" data-ask="Within what radius of the campus must a student reside to register as a day scholar instead of a hostel resident?">Day scholar radius</button>
+        </p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section alt" id="clubs">
+  <div class="wrap">
+    <div class="section-head">
+      <p class="eyebrow">Student life</p>
+      <h2>Clubs, chapters &amp; fests</h2>
+      <p>Student organisations are grouped into technical, social outreach, recreational (arts &amp; culture) and literary clubs, alongside professional chapters and special teams.</p>
+    </div>
+    <div class="grid cols-3">
+      <article class="card">
+        <h3>Clubs</h3>
+        <p>Technical, Social (Outreach), Recreational (Arts &amp; Cultural) and Literary.</p>
+        <button type="button" class="btn btn-navy" data-ask="What are the four broad categories VIT organises its clubs into?">Ask about categories</button>
+      </article>
+      <article class="card">
+        <h3>Chapters &amp; teams</h3>
+        <p>Professional chapters such as IEEE and ACM, plus special teams like Formula, Baja and Aero.</p>
+        <button type="button" class="btn btn-navy" data-ask="What is the formal distinction between a chapter and a club at VIT?">Chapter vs club</button>
+      </article>
+      <article class="card">
+        <h3>Fests</h3>
+        <p>graVITas and Riviera are the big annual events, run jointly by many clubs and chapters.</p>
+        <button type="button" class="btn btn-navy" data-ask="Which student clubs and chapters are listed as graVITas's core organizing/sponsoring bodies?">Who runs graVITas?</button>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band">
+  <div class="wrap">
+    <h2>Have a different question?</h2>
+    <p>Ask about anything covered by VIT&rsquo;s public documents. If the answer is not there, the assistant will tell you.</p>
+    <button type="button" class="btn btn-gold" data-open-chat>Open the assistant</button>
+  </div>
+</section>
+{% endblock %}

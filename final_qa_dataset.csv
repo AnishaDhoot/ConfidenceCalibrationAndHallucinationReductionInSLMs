@@ -808,7 +808,6 @@ What is the credit value and L-T-P-C structure of 'Materials in Healthcare' (BAH
 What is the credit value and L-T-P-C structure of 'Manufacturing Processes' (BAMEE101) under Programme Core?,"4 credits, with an L-T-P-C structure of 3-0-2-4."
 What is the pre-requisite for 'Precision Engineering and Metrology' (BAMEE331)?,BAMEE101 (Manufacturing Processes).
 "How many advanced academic laboratories does the programme claim access to, and name two of the industry-relevant ones mentioned.","40+ advanced academic laboratories, including examples like the Battery Testing Lab and the Charger Testing Lab (among others such as Motor Drive Testing Lab and Vehicle/Motor Test Bed)."
-Which four companies/organizations are named as partners in the programme's Industry-sponsored Centres of Excellence?,"Valeo, Rane NSK, Autodesk, and the Bajaj Auto Foundation."
 What is the credit value and L-T-P-C structure of 'Internship II / Capstone Project' (BAMEE499) under University Core?,"6 credits, with an L-T-P-C structure of 0-0-12-6."
 What are the five courses that make up the 'Aeronautical Engineering' Open Elective sub-track?,"Introduction to Aeronautics, Aircraft Structures, Propulsion Systems, Aerodynamics, and Flight Mechanics."
 "'Aircraft Structures' (BAMEE339) and 'Propulsion Systems' (BAMEE340) each list a Programme Core course as their prerequisite. What are they, and do the prerequisite subjects logically match the elective topics?","'Aircraft Structures' requires BAMEE201 (Mechanics of Materials), and 'Propulsion Systems' requires BAMEE203 (Thermodynamics and Thermal Systems) — both prerequisites are topically consistent with their electives, since structural analysis builds on mechanics of materials, and propulsion builds on thermodynamics."
@@ -843,7 +842,6 @@ What investment figure and date are given for the Bajaj Engineering Skills Train
 What four training focus areas does the BEST Centre cover?,"EV Fundamentals, Battery Technology, Battery Management Systems, and EV Charging Systems."
 What is the credit value and L-T-P-C structure of 'Engineering Innovation and Modelling' (BAMEE205) under Programme Core?,"4 credits, with an L-T-P-C structure of 1-1-4-4."
 What are the five courses that make up the 'Product Design and Development' concentration?,"Human-Centered Design and Innovation, Materials Selection in Design, Design for Excellence, Product Lifecycle Management, and Intellectual Property and Technology Commercialization."
-What companies/organizations are named as Industry-sponsored Centres of Excellence partners?,"Valeo, Rane NSK, Autodesk, and the Bajaj Auto Foundation."
 What is the prerequisite for 'Precision Engineering and Metrology' (BAMEE331) in the Mechanical Engineering Core Concentration?,BAMEE101 (Manufacturing Processes).
 What is the credit value and prerequisite of 'Aircraft Structures' (BAMEE339) under the Aeronautical Engineering concentration?,4 credits (L-T-P-C = 3-1-0-4); its prerequisite is BAMEE201 (Mechanics of Materials).
 "How many total concentration/specialization tracks are available under Open Electives, beyond the mandatory Mechanical Engineering Core Concentration?","8 optional tracks: the 7 listed concentrations (Product Design and Development, Smart Manufacturing, Mechatronics and Robotics, Green Energy Technologies and Sustainability, Electric Vehicles, Industrial Systems Engineering, Aeronautical Engineering) plus the separate Industry Concentration Courses (E-Mobility) track."
@@ -973,7 +971,6 @@ What are the L-T-P-J-C (Lecture-Tutorial-Practical-Project-Credit) values for ME
 "If a student has already completed MEE5028 (Mechatronics and Cyber-Physical Systems) and wants to further specialize in the security aspects of cyber-physical manufacturing systems, which Programme Elective course should they choose next?","They should choose MEE6066 (Cyber-Security in Design and Manufacturing), a Programme Elective focused specifically on securing industrial control systems and cyber-physical manufacturing environments."
 "Besides the standard communication skills track (ENG5001/ENG5002), what are the two foreign language alternatives offered under University Core category 2 in M.Tech (CPS)?","The two foreign language alternatives are FRE5001 (Francais Fonctionnel) and GER5001 (Deutsch fuer Anfänger), each carrying 2 credits."
 "What is the combined credit value of SET5001 and SET5002 (Science, Engineering and Technology Projects I & II) in the M.Tech (CPS) University Core?",SET5001 and SET5002 together carry a combined credit value of 4 credits.
-"Which module of MAT5005 (Advanced Mathematical Methods) covers Calculus of Variations, and how many lecture hours are allotted to it?","Module 3 of MAT5005 covers Calculus of Variations (including Euler-Lagrange's equation, Isoperimetric problems, Rayleigh-Ritz method, and Galerkin method), and it is allotted 9 hours."
 "According to the Course Objectives of MEE5028 (Mechatronics and Cyber-Physical Systems), what are the two main goals of the course?","The two main objectives are: (1) to acquire knowledge and skills on hardware and software design aspects of Cyber Physical Systems (CPS) including modeling, analysis, and design, and (2) to develop an exposition of the challenges in implementing a cyber-physical system from a computational perspective based on principles of automated control."
 A student is comparing MEE6065 (Hybrid and Electric Automotive Vehicle Systems) and MEE6067 (Transportation Cyber Physical Systems) as Programme Electives. How do their L-T-P-J-C structures compare?,"MEE6065 has 3-0-0-4-4 (3 lecture hours, 0 tutorial, 0 practical, 4 project hours, 4 credits), while MEE6067 has 3-0-0-0-3 (3 lecture hours, 0 tutorial, 0 practical, 0 project hours, 3 credits). MEE6065 carries one more credit due to its project component (J=4), whereas MEE6067 has no project hours."
 What is the mode of evaluation listed for MAT5005 (Advanced Mathematical Methods)?,"The mode of evaluation for MAT5005 includes Continuous Assessment Tests, Final Assessment Test, Digital Assignments, and Quizzes."
@@ -1011,11 +1008,9 @@ Which three courses appear as Professional Core courses in M.Tech Smart Manufact
 "What is the L-T-P-C structure of MAMHA607 (Wireless Sensor Networks) as a Professional Elective in M.Tech Mechatronics, and how does it compare to MAMHA604 (Fluid Power System Design)?","MAMHA607 (Wireless Sensor Networks) has an L-T-P-C of 3-0-0-3 (3 credits, no practical component), while MAMHA604 (Fluid Power System Design) has an L-T-P-C of 3-0-2-4 (4 credits, includes a 2-hour practical component). MAMHA604 carries one more credit due to its practical hours."
 Is a valid passport mandatory for Nepal and Bhutan candidates applying under the FOREIGN category?,"No. For Nepal and Bhutan candidates, a passport is not mandatory, unlike other foreign nationals."
 Are GRE and TOEFL scores compulsory for international applicants to VIT's Ph.D. programmes?,"No, submission of GRE and TOEFL scores is not a compulsory requirement, although valid scores are preferred as evidence of English proficiency."
-"Under the NRI category, whose employment status determines a student's eligibility to apply?",The student must be an Indian national whose parent (father or mother) is currently working abroad on a valid work VISA.
 "What is the NRI application fee, and in which currency must it be paid?","The NRI application fee is 50 USD (non-refundable), and it must be paid in USD only."
 Does an Aadhaar Card count as proof of citizenship for NRI category applicants?,"No, the brochure explicitly states that an Aadhaar Card is not proof of citizenship."
 What are the four main steps in VIT's selection procedure for international research admissions?,"Apply online on the portal, select the specific programme/area and VIT campus of interest, undergo application screening and shortlisting with a possible online interview, and then receive the final consolidated result based on preferences submitted."
-"A prospective NRI applicant's mother works abroad on a valid work visa, but only the father is willing to provide a sponsorship letter. Does this satisfy VIT's NRI eligibility requirements?","Yes. The brochure specifies the sponsorship letter and employer certificate must come from the parent (father OR mother) working abroad, so if either parent provides these documents along with proof of their valid work VISA, the requirement is satisfied."
 "If a foreign applicant graduated from a university outside India, what verification step might the admissions team require regarding their degree, and is this always mandatory?","The admissions team may require an equivalent certificate from the Association of Indian Universities (AIU) during verification, but the brochure notes this 'may be necessary,' meaning it is assessed case-by-case rather than mandatory for every applicant."
 "What is the annual tuition fee for Ph.D./Direct Ph.D. research programmes under the international admissions brochure, and in what currency is it charged?",The tuition fee is $1000 (USD) per annum.
 "When is the one-time thesis fee of ₹10,000 required to be paid?","The thesis fee (₹10,000 INR, one-time) is to be paid only at the time of thesis submission, not at admission."
@@ -1167,7 +1162,6 @@ What are the three Program Educational Objectives (PEOs) of the M.Tech VLSI Desi
 "Which professional elective course requires MAVLD501 as a prerequisite, and which two require MAVLD504?",'Nano Scale Devices and Circuit Design' (MAVLD607) requires MAVLD501 (VLSI Devices and Technology); 'Mixed Signal IC Design' (MAVLD604) and 'RF IC Design' (MAVLD609) both require MAVLD504 (Analog IC Design).
 "A student has completed all Professional Core courses and now wants to take 'Nano Scale Devices and Circuit Design', 'RF IC Design', and 'Mixed Signal IC Design' as their three electives. Which prerequisite course(s) must they already have cleared to be eligible for all three combined?","They need both MAVLD501 (VLSI Devices and Technology) — required for Nano Scale Devices — and MAVLD504 (Analog IC Design) — required for both RF IC Design and Mixed Signal IC Design. Since all Professional Core courses are completed by that point, both prerequisites are already satisfied, but a student choosing only these three from a partial core completion would specifically need MAVLD501 and MAVLD504 cleared."
 "A student needs exactly 14 credits of Professional Electives. If they first pick 'VLSI Verification Methodologies' (4 credits) and 'System-on-Chip Design' (4 credits), how many credits remain, and name one valid combination of remaining electives to reach exactly 14?","8 credits remain. A valid combination is 'CAD for VLSI' (4 credits) plus any 4-credit elective such as 'Embedded System Design' or 'Machine Learning and Deep Learning'; alternatively, two 3-credit courses plus one more elective, e.g. 'Low Power IC Design' (3) and 'RF IC Design' (3), leaving 2 credits short, so a 4-credit pairing like CAD for VLSI (4) and Embedded System Design (4) exactly completes the remaining 8 credits."
-"Within the University Core basket, 'Project Work' and 'Internship I/Dissertation I' each carry 10 credits. Based on the credit-structure table versus the detailed course description, how do their listed practical (P) hour figures differ?","In the summary credit-structure table, Project Work is listed as 0-0-0-10 (P hours shown as 0), whereas the detailed course description for Internship I/Dissertation I (MAVLD698) and Internship II/Dissertation II (MAVLD699) explicitly lists an L-T-P-C of 0-0-20-10, showing 20 practical hours — even though both are 10-credit, one-semester engagements."
 "List every Professional Elective course in the M.Tech VLSI Design curriculum that has a stated prerequisite, along with that prerequisite.","Five electives have prerequisites: 'Low Power IC Design' (MAVLD602) requires MAVLD502 (Digital IC Design); 'VLSI Verification Methodologies' (MAVLD603) requires MAVLD503 (Digital System Design with FPGA); 'Mixed Signal IC Design' (MAVLD604) requires MAVLD504 (Analog IC Design); 'Nano Scale Devices and Circuit Design' (MAVLD607) requires MAVLD501 (VLSI Devices and Technology); and 'RF IC Design' (MAVLD609) requires MAVLD504 (Analog IC Design). The remaining electives (System-on-Chip Design, VLSI Digital Signal Processing, Advanced Computer Architecture, Neuromorphic Computing, EMI and Compatibility, Embedded System Design, Machine Learning and Deep Learning, CAD for VLSI) list no prerequisite."
 Compare 'Digital IC Design' and 'CAD for VLSI' in terms of their weekly contact structure — do they have identical total lecture-plus-tutorial hours despite being different subjects?,"Yes. Both courses share an L-T-P-C pattern of 3-1-0-4, and both run for 45 total lecture hours plus 15 total tutorial hours, giving each course 60 combined contact hours, even though their subject matter (digital circuit design vs. computer-aided design algorithms) is entirely different."
 "Which Professional Core course is the only one without any tutorial (T) hours but also without any laboratory (P) hours, based on its L-T-P-C listing?","None of the six Professional Core courses fit that description — five (VLSI Devices and Technology, Digital System Design with FPGA, Analog IC Design, ASIC Design, VLSI Testing and Testability) have practical hours (P=2) with no tutorials, while 'Digital IC Design' is the only one with tutorial hours (T=1) and no practicals (P=0)."
@@ -1631,7 +1625,6 @@ Can students choose Cloud Computing as an elective in the MCA (2025–2026) prog
 Does the MCA (2025–2026) programme include Artificial Intelligence topics?,Yes. The curriculum includes AI-related subjects through core and elective courses.
 Which course develops technical report writing skills in the MCA (2025–2026) programme?,"The curriculum includes Technical Report Writing with practical sessions on report drafting, bibliography preparation, and presentations."
 Does the MCA (2025–2026) programme include presentation skills training?,Yes. Students practice individual and group presentations as part of Technical Report Writing.
-How many credits are allocated to Internship II or Dissertation II in the MCA (2025–2026) programme?,Internship II / Dissertation II is included as the major final-semester project component.
 Does the MCA (2025–2026) programme include Open Elective courses?,Yes. Students complete Open Elective credits as part of the curriculum.
 Which admission batch does the MCA curriculum apply to?,It applies to students admitted from the 2025–2026 academic year onwards.
 How many total credits are required to complete the Master of Architecture (M.Arch) programme?,"The M.Arch programme follows a structured postgraduate curriculum with studio, theory, electives, and project components."
@@ -1795,905 +1788,17 @@ Which project carries the highest credit weight in the Integrated M.Sc. Biotechn
 Does the Integrated M.Sc. Biotechnology programme include a Summer Industrial Internship?,Yes. TBIT399J Summer Industrial Internship is a compulsory 2-credit Project and Internship component.
 Does the Integrated M.Sc. Biotechnology programme include Gene Editing as a Skill Enhancement course?,Yes. TBIT404E Gene Editing is offered as a 2-credit embedded theory-and-lab Skill Enhancement course.
 Which Skill Enhancement courses are available in the Integrated M.Sc. Biotechnology programme?,"Students can choose Plant Tissue Culture, Animal Cell Culture, Histopathology and Cytology, Gene Editing, Cytogenetics and Karyotyping, and Animal Breeding and Handling, each worth 2 credits."
-What is the CTC offered by Stellantis for the GET role in the upcoming placement drive?,"INR 6,00,000"
-Which branches are eligible for the Intern / Graduate Engineering Trainee position at Stellantis in the 2027 batch?,"B. Tech (Electronics & Communication Engg), B. Tech (Electronics and Communication Engineering with specialization in Embedded systems), M. Tech (Automotive Electronics), M.Tech Electronics and Communication Engineering (Intelligent Communication Systems), M. Tech (Embedded Systems), B. Tech (Electrical & Electronics Engg), M.Tech. Electric Mobility, B. Tech (Mechanical Engg), B.Tech - Mechanical Engineering (with specialization in Electric Vehicles), B.Tech. Mechanical Engineering with specialization in Automotive, B.Tech. – Mechatronics and Automation, M. Tech (Mechatronics), M. Tech Smart Mobility, B. Tech (Chemical Engineering)"
-What is the CGPA requirement for the Intern / Graduate Engineering Trainee position at Stellantis?,"70% or 7.0 CGPA (in X, XII, and Pursuing Degree)"
-What is the stipend offered for the Intern / Graduate Engineering Trainee position at Stellantis for B.Tech students?,"INR 20,000"
-What is the stipend offered for the Intern / Graduate Engineering Trainee position at Stellantis for M.Tech students?,"INR 25,000"
-In which cities will the placement drive for the Intern / Graduate Engineering Trainee role at Stellantis take place?,Chennai/ Pune/ Bangalore
-What is the CTC offered by Stellantis for a Graduate Engineering Trainee role?,"INR 6,00,000"
-Which branches are eligible for the Intern / Graduate Engineering Trainee role at Stellantis?,"B. Tech (Electronics & Communication Engg), B. Tech (Electronics and Communication Engineering with specialization in Embedded systems), M. Tech (Automotive Electronics), M.Tech Electronics and Communication Engineering (Intelligent Communication Systems), M. Tech (Embedded Systems), B. Tech (Electrical & Electronics Engg), M.Tech. Electric Mobility, B. Tech (Mechanical Engg), B.Tech - Mechanical Engineering (with specialization in Electric Vehicles), B.Tech. Mechanical Engineering with specialization in Automotive, B.Tech. – Mechatronics and Automation, M. Tech (Mechatronics), M. Tech Smart Mobility, B. Tech (Chemical Engineering)"
-What is the CTC offered by Stellantis for a Postgraduate role?,"INR 7,65,000"
-What is the stipend offered by Stellantis for B.Tech and M.Tech students?,"B.Tech-20000, M.Tech-25000"
-What is the CGPA requirement for eligibility in Stellantis's placement drive?,"70% or 7.0 CGPA (in X, XII, and Pursuing Degree)"
-For which batches is Stellantis's placement drive open?,2027
-Where can the candidates for Stellantis's placement drive expect to work?,Chennai/ Pune/ Bangalore
-When is the registration deadline for Stellantis's placement drive?,28th Aug 2026 (9.00 am)
-What is the minimum CGPA requirement for the Software Engineer Intern role at Palo Alto?,7.0
-Which branches are eligible for the Software Engineer Intern role offered by Palo Alto?,"Computer Science Engineering, Cyber Security, and Cyber-Related branches."
-What is the batch (year of graduation) eligible for the Software Engineer Intern role at Palo Alto?,2027
-Where can one apply for the Software Engineer Intern role offered by Palo Alto?,Pan India
-What is the timeline or deadline for applying to the Software Engineer Intern role at Palo Alto in 2027?,Jan - July 2027
-What is the monthly stipend for the Internship program at ALE India Private Limited?,25K
-Which branches are eligible for the Internship program offered by ALE India Private Limited for the batch of 2026-2027?,"CSE, IT, Electronics, Communication"
-Where is the location of the ALE Chennai Office where the Internship program will be held?,Perungudi
-"What is the CTC offered by Sidana Innovations Lab Pvt. Ltd. for the Digital Marketing, Web Development, Technology & Innovation role?",5 LPA
-What is the stipend provided by Sidana Innovations Lab Pvt. Ltd. for the Internship+PPO in Gurgaon?,10000
-What is the minimum CGPA requirement for the Internship+PPO at Sidana Innovations Lab Pvt. Ltd.?,60% or 6.0 CGPA
-Which branches are eligible for the Internship+PPO offered by Sidana Innovations Lab Pvt. Ltd. in Gurgaon?,"M.Tech 2yrs CSE/IT related, M.Tech 5yrs CSE/IT, MCA, MSC 2yrs CSE/IT, MSC 5yrs CSE/IT"
-What is the eligible batch for the Internship+PPO offered by Sidana Innovations Lab Pvt. Ltd. in Gurgaon?,2027
-What is the CTC offered by Epsilon for the PS Associate Software Engineer role?,12 LPA
-What is the stipend offered by Epsilon for the Associate Software Engineer internship?,30000
-What is the CGPA requirement to apply for any of the roles at Epsilon?,7.0
-Which branches are eligible for the internship+PPO positions at Epsilon?,"CSE, IT, ISE, AIML, Data Science"
-What is the eligibility batch for the internship+PPO roles at Epsilon?,2027
-Where will the internship+PPO positions at Epsilon be located?,Bangalore
-When is the registration deadline for the internship+PPO roles at Epsilon?,28th Aug 2026 (3.00 pm)
-When will the online test and PPT for the internship+PPO roles at Epsilon take place?,29th August 2026
-When are the interviews for the internship+PPO roles at Epsilon scheduled?,31st August 2026
-What is the CTC offered by Workday India Private Limited for the Software Developer Engineer Intern role?,"21,91,860"
-What is the stipend for the Software Developer Engineer Intern role at Workday India Private Limited?,65400
-What is the minimum CGPA requirement for the Software Developer Engineer Intern role at Workday India Private Limited?,90% or 9.0 CGPA
-Which branches are eligible for the Software Developer Engineer Intern role at Workday India Private Limited?,"B- Tech Computer Science, B-Tech Information Technology"
-In which batch is the Software Developer Engineer Intern role at Workday India Private Limited open for?,2027
-Where is the Software Developer Engineer Intern role at Workday India Private Limited located?,Chennai
-When is the online test for the Software Developer Engineer Intern role at Workday India Private Limited?,30.08.2026
-When will the interviews for the Software Developer Engineer Intern role at Workday India Private Limited take place?,From 6.09.2026 to 8.09.2026
-What is the registration deadline for the Software Developer Engineer Intern role at Workday India Private Limited?,27th Aug 2026 (2.00 pm)
-What is the CTC range for the AI-Intern position at Schmersal India?,The CTC range for the AI-Intern position at Schmersal India is between 5 LPA and 8 LPA.
-What is the stipend offered for the AI-Intern role at Schmersal India?,The stipend offered for the AI-Intern role at Schmersal India is between INR 20000 and INR 25000.
-What is the CGPA requirement for the AI-Intern position at Schmersal India?,The CGPA requirement for the AI-Intern position at Schmersal India is 6.0 CGPA or 60%.
-Which branches are eligible for the AI-Intern role at Schmersal India?,M.Tech CSE/IT related branches and MCA are eligible for the AI-Intern role at Schmersal India.
-In which batch can students apply for the AI-Intern position at Schmersal India?,Students from the 2027 batch can apply for the AI-Intern position at Schmersal India.
-Where will the AI-Intern position at Schmersal India be located?,The location for the AI-Intern position at Schmersal India is Pune.
-What is the CTC for the Software Engineer Internship at Societe Generale Global Solution Centre?,"12,21,255"
-What is the stipend offered for the Software Engineer Internship at Societe Generale Global Solution Centre?,32500
-What is the minimum CGPA requirement for the Software Engineer Internship at Societe Generale Global Solution Centre?,7.0
-Which branches are eligible for the Software Engineer Internship at Societe Generale Global Solution Centre?,"CS, IT, ECE, EEE, MCA"
-What is the eligible batch for the Software Engineer Internship at Societe Generale Global Solution Centre?,2027
-Where are the locations for the Software Engineer Internship at Societe Generale Global Solution Centre?,Bangalore / Chennai
-When is the online test for the Software Engineer Internship at Societe Generale Global Solution Centre?,31.08.2026
-When are the interviews for the Software Engineer Internship at Societe Generale Global Solution Centre?,07th Sep 2026
-What is the CTC for the Software Engineer role at Natwest for the batch of 2027?,15 LPA
-Which branch or branches are eligible for the Software Engineer position at Natwest?,The details regarding the specific branches eligible for the Software Engineer role at Natwest were not provided in the given text.
-What is the deadline for Aditya Birla Group's placement registration?,"Registration closes on 30th August 2026, 11:59 PM."
-Which years (batches) are eligible for Aditya Birla Group's placement drive?,The 3rd year and 4th year batches are eligible.
-"What is the CTC offered by Fastenal for the Developer role, if converted?",1700000
-What is the stipend provided by Fastenal for the Developer internship?,45000
-What is the CGPA requirement for pursuing a degree to be eligible for the Fastenal Developer role?,85% or 8.5 CGPA
-What is the CGPA requirement for students in X and XII to be eligible for the Fastenal Developer role?,90% or 9.0 CGPA
-Which branches are considered eligible for the Fastenal Developer internship?,B. Tech (CSE / IT) related branches
-What is the batch eligible for the Fastenal Developer internship in 2027?,2027
-Where will the Fastenal Developer internship be located?,Bangalore
-What is the CTC offered by Futures First for the Financial Market Intern role if converted?,"18,87,846"
-What is the stipend provided by Futures First for the Financial Market Intern role?,40000
-What is the CGPA requirement for the Financial Market Intern role at Futures First?,7.5 CGPA
-Which branches are eligible for the Financial Market Intern role at Futures First?,All B. Tech
-What is the last date for registration for the Financial Market Intern role at Futures First?,31st Aug 2026 (06.00 pm)
-Where are the locations available for the Financial Market Intern role at Futures First?,"Bangalore, Kolkata"
-What is the CTC offered by Bruhat Logistics Private Limited for the Sales / Pricing / Operations internship?,5 LPA
-"Is there a stipend provided for the internship at Bruhat Logistics Private Limited? If yes, what is the amount?",10000
-What is the minimum CGPA requirement for the Sales / Pricing / Operations internship at Bruhat Logistics Private Limited?,6.0
-Which branches are eligible for the Sales / Pricing / Operations internship at Bruhat Logistics Private Limited?,"MBA (Marketing), MBA (Operations)"
-What is the batch to which this Sales / Pricing / Operations internship is eligible at Bruhat Logistics Private Limited?,2027
-Where is the Sales / Pricing / Operations internship located at Bruhat Logistics Private Limited?,Chennai
 "What is the approximate CTC for Discipline Engineer, Data Analyst, Sales Account Manager, or Market developer roles in ExxonMobil?",14.81 LPA
 What is the minimum CGPA requirement for pursuing a degree to be eligible for roles in ExxonMobil?,7.0 CGPA
 What are the eligible branches for roles in ExxonMobil?,"CSE, IT, ECE, EEE, MECH, CHEMICAL"
 Which year batch is eligible for roles in ExxonMobil as of the provided data?,2027
 What are the eligibile locations for roles in ExxonMobil?,"Bangalore, Mumbai and Gurgaon"
-What is the CTC range offered by Spritle Software for the Robotics Manipulation Intern position?,3.5 - 4.5 LPA
-"What is the stipend offered by Spritle Software for the Computer Vision, 3D Perception & VLM Intern role and can it be increased based on performance?",8000 (stipend) and upto 13k (increased based on performance)
-What is the CGPA requirement for the internships offered by Spritle Software?,6.0
-Which branches are eligible for the internships offered by Spritle Software?,"M.Tech 2yrs and 5 yrs CSE/IT related branches, MCA, M. Tech. Control and Automation, M. Tech Mechatronics, M. Tech Smart Mobility, M. Tech Smart Manufacturing"
-What is the eligible batch for the internships offered by Spritle Software?,2027
-Where are the internships offered by Spritle Software located?,Chennai
-What is the stipend offered by Apple for the Operations Reliability Intern role?,"1,05,000 INR per month (+ 35,100 INR Monthly Housing Stipend)"
-Which branches are eligible for the internships offered by Apple in Hyderabad and Bangalore?,"B.Tech, B.E."
-What is the CGPA requirement for the internships offered by Apple?,> 7
-In which cities are the internships offered by Apple located?,"Hyderabad, Bangalore"
-What is the CTC range for the Regular Internship + Placement role at Cloud Brite Systems India Private Limited?,4 - 6 LPA
-What is the stipend offered by Cloud Brite Systems India Private Limited for the Regular Internship + Placement role?,"15,000 INR"
-What are the eligible branches for the Regular Internship + Placement role at Cloud Brite Systems India Private Limited?,M.B.A Sales & Marketing
-In which location(s) is the Regular Internship + Placement role offered by Cloud Brite Systems India Private Limited?,Chennai / Hybrid
-What is the CGPA requirement for the Regular Internship + Placement role at Cloud Brite Systems India Private Limited?,60 % or 6.0 CGPA
-What is the location for the Zluri Internship in 2027 batch?,"Vellore, India"
-Is there a specified deadline for applying to the Zluri Internship for the 2027 Batch?,Not specified (according to provided information)
-What is the CGPA requirement for the Summer Internship at VISA Super Dream?,7.0
-For which batch is the Summer Internship at VISA Super Dream open?,2027
-What type of employment opportunity does the Summer Internship at VISA Super Dream offer?,Internship+PPO
-Is there a specific CTC mentioned for the Summer Internship at VISA Super Dream?,"Not specified, it offers 2x CTC full time offers."
-What is the CTC offered by MUFG for the Super Dream Internship if converted?,20 LPA
-What is the stipend for the Super Dream Internship at MUFG?,"INR 65,000 + Travel"
-What is the CGPA requirement for the Super Dream Internship at MUFG?,75% or 7.5 CGPA
-Which branches are eligible for the Super Dream Internship at MUFG?,"B. Tech (Computer Science & Engg), B.Tech (CSE with specialization in information technology), B.Tech (CSE with specialization in information Security), B.Tech (CSE with specialization in Data Science), B.Tech (CSE with specialization in AI & ML), B.Tech (CSE with specialization in Cyber Security & Digital Forensics), B.Tech (CSE with specialization in AI & Robotics), B.Tech (CSE with specialization in cloud computing and Automation)"
-What is the batch for which the Super Dream Internship at MUFG is open?,2027 Batch
-Where is the Super Dream Internship at MUFG located?,Bengaluru
-What is the deadline for applying to the Super Dream Internship at MUFG?,07th August 2026 (06**.00 p**m)
-What is the CTC offered for the Financial Advisory Executive Internship role at Fynro Advisory Services?,7 LPA
-What is the stipend range for the Financial Advisory Executive Internship role at Fynro Advisory Services?,"15,000 - 20,000"
-What is the CGPA requirement for the Financial Advisory Executive Internship role at Fynro Advisory Services?,70 % or 7.0 CGPA
-Which branches are eligible for the Financial Advisory Executive Internship role at Fynro Advisory Services?,M.B.A Finance
-What is the eligibility batch for the Financial Advisory Executive Internship role at Fynro Advisory Services?,2027 Batch
-Where will the Financial Advisory Executive Internship role at Fynro Advisory Services be located?,Chennai
-When is the deadline for applying to the Financial Advisory Executive Internship role at Fynro Advisory Services?,This information was not provided. Please check their official website or contact them directly.
-What is the CTC range offered by Wakefit dream core for the Internship role?,4 to 6 LPA
-Which batch is eligible for the Wakefit dream core Internship in the year 2027?,2027 batch -SET3
-"What is the CTC offered by BluBridge Technologies Pvt. Ltd. for the AI & ML Engineer (Freshers) role, including ESOP eligibility?",₹6 + ESOP Eligibility
-What are the eligible branches for the AI & ML Engineer (Freshers) role at BluBridge Technologies Pvt. Ltd.?,"M.Tech 2 year and M.Tech 5 year AI & ML, AI & DS, CSE"
-What is the stipend offered for the AI & ML Engineer (Freshers) role at BluBridge Technologies Pvt. Ltd.?,"₹20,000 per month"
-For which batch is the AI & ML Engineer (Freshers) role at BluBridge Technologies Pvt. Ltd. open?,2027
-Where will the AI & ML Engineer (Freshers) role at BluBridge Technologies Pvt. Ltd. be based?,Chennai (On-site)
-What is the CTC offered by Ameliorate Biotech Pvt. Ltd for the Dream Core Internship?,To be announced later
-What is the stipend offered by Ameliorate Biotech Pvt. Ltd for the Dream Core Internship?,"20,000-25,000"
-What is the CGPA requirement for the Dream Core Internship at Ameliorate Biotech Pvt. Ltd?,60 % or 6.0 CGPA
-Which branches are eligible for the Dream Core Internship at Ameliorate Biotech Pvt. Ltd?,M.Tech biotech
-What is the eligible batch for the Dream Core Internship at Ameliorate Biotech Pvt. Ltd?,2027 Batch
-Where will the Dream Core Internship at Ameliorate Biotech Pvt. Ltd be located?,Bangalore
-When is the joining timeline for the Dream Core Internship at Ameliorate Biotech Pvt. Ltd?,"Joining will be from 1st week of September, 2026"
-"What is the CTC for the Regular Internship role at Fidas Ventura automation in Vellore, India?",2x CTC
-"Is there a specified deadline for the Regular Internship at Fidas Ventura automation in Vellore, India?",Not specified
-What is the minimum CGPA requirement for interns or FTEs at EY Global Delivery Services?,60% and above
-Which branches are eligible for internships or full-time employment at EY Global Delivery Services?,AI/ML/CS/IT
-What is the CTC range for the Wakefit dream core Internship for the 2027 batch - SET2?,4 to 6 LPA
-Which batch is eligible for the Wakefit dream core Internship as mentioned in the text?,2027 batch -SET2
-What is the CTC for Marvell Super Dream's Summer Internship PPO for the batch of 2027?,2x CTC (mentioned in note)
-Which branch is eligible for Marvell Super Dream's Summer Internship PPO for the batch of 2027?,The eligibility batch is not specified.
-What is the CTC range for the Internship role at Zavity?,₹4–6 LPA
-What is the monthly stipend offered for the Internship role at Zavity?,"₹5,000 - ₹8,000 per month"
-What CGPA requirement does a student need to meet to be eligible for an Internship role at Zavity?,60% or 6.0 CGPA
-Which branches are eligible for the Internship role at Zavity?,"B.Tech Aerospace, M.Tech (ECE, Mech & EEE related programs)"
-For which batch is the Internship role at Zavity open?,2027 Batch
-Where is the location of the Internship role at Zavity?,Bangalore
-What type of role is being offered by Cisco for the spring internship and full-time position?,The role offered by Cisco is Internship+PPO
-Where will the Cisco internship be located in India?,"Vellore, India"
-Is the CTC for the Cisco internship specified in the provided text?,"No, the CTC is not specified in the provided text."
-Is a stipend offered for the Cisco internship according to the provided information?,"No, a stipend is not specified in the provided text."
-What is the CGPA requirement for the Cisco internship as per the given details?,The CGPA Requirement is Not specified in the provided text.
-"Which batches are eligible for the Cisco internship, according to the information given?",The eligible batch is not specified in the provided text.
-What is the CTC offered by Play Simple Games for the Software Engineering Intern role?,14+1 +(RB -2+3+4) LPA
-What is the stipend provided by Play Simple Games for the Business Analyst Intern role?,30000
-What is the minimum CGPA requirement for applying to the internships at Play Simple Games?,65% or 6.5 CGPA
-Which branches are eligible for the internship positions at Play Simple Games?,"B.Tech CSE, IT, ECE Related branches"
-What is the batch to which the internships at Play Simple Games are open?,2027 Batch
-Where will the internships offered by Play Simple Games be based?,Bangalore
-When is the deadline for applying to the internships at Play Simple Games?,6th August 2026
-What is the CTC offered by WorkIndia for the unknown role in a virtual setting?,Not specified
-Is there any specific CGPA requirement for the WorkIndia placement drive?,Not specified
-What branches are eligible for the WorkIndia placement drive if the role and eligibility details are not provided?,Not specified
-What is the deadline for the WorkIndia placement drive happening on a virtual platform on 5th August 2026?,Not specified
-What is the CGPA requirement for the Dream Core Internship – Quality Control Executive role at WAFA Biological Laboratory?,60 % or 6.0 CGPA
-Which branches are eligible for the Dream Core Internship – Quality Control Executive role at WAFA Biological Laboratory?,"M.Sc. 5-year ( Biotechnology), M.sc Biotechnology, M.sc Biomedical genetics, M.sc Applied Microbiology, M.Sc. Biomedical Genetics, B.Tech Biotech, M.Tech biotech, M.sc food science"
-Is there a stipend for the Dream Core Internship – Quality Control Executive role at WAFA Biological Laboratory?,"Yes, INR 15,000"
-Where is the Dream Core Internship – Quality Control Executive role at WAFA Biological Laboratory located?,Work from home (Remote)
-When will the timeline/deadline for the Dream Core Internship – Quality Control Executive role at WAFA Biological Laboratory be announced?,To be announced later
-What is the CGPA requirement for the Amazon Internship?,60% or 6.0 CGPA
-Which branches are eligible for the Amazon Internship?,B.Tech (CSE & IT Related branches)
-Where will the Amazon Internship be held?,Pan India
-What is the CTC for a full-time position at BlackRock after completing the Intern - Software Engineering or Intern - Aladdin Data internship?,"15,00,000 (TCC on Conversion)"
-What is the stipend offered by BlackRock for the Intern - Software Engineering and Intern - Aladdin Data roles?,"50,000"
-Which batch is eligible to apply for the internships at BlackRock in 2027?,2027
-Where can one expect to work if selected for an internship at BlackRock in Software Engineering or Aladdin Data?,"Bangalore, Mumbai, or Gurgaon"
-What is the type of internship offered by WorkIndia?,The type of internship offered by WorkIndia is Internship+PPO.
-Where will the WorkIndia internship be held?,The location for the WorkIndia internship is Virtual.
-When is the deadline for applications to WorkIndia's internship drive?,The deadline for applications to WorkIndia's internship drive is 5th August 2026.
-What is the CTC offered by Euler motors for the Software Intern role?,10 LPA (Including variable)
-What is the CTC offered by Euler motors for other branches (except Software) in their Intern program?,8 LPA
-What is the monthly stipend provided during the internship at Euler motors?,"30,000 per month"
-Which branches are eligible for an Intern position at Euler motors?,B.Tech (CSE / IT / ECE / EEE / MECH) related branches
-What is the CGPA requirement for applying to an internship at Euler motors?,60% or 6.0 CGPA
-Which batch (graduating year) of students are eligible for internships at Euler motors in 2027?,2027 Batch
-Where will the internship at Euler motors take place in terms of location?,Delhi / Palwal
-When is the online test for the Euler motors' internship program scheduled?,11.08.2026 @ Respective campus labs
-When will the interviews for the Euler motors' internship program take place?,21.08.2026 @ VIT Vellore campus
-"What is the CTC offered by Foodhub for the internship role, in rupees per month?",14 LPA (If converted)
-What is the stipend provided by Foodhub for their internship program?,"22,000"
-What is the minimum CGPA requirement to be eligible for the Foodhub internship?,60% or 6.0 CGPA
-Which branches are eligible for the Foodhub internship?,All B.Tech
-What is the batch of graduates eligible for the Foodhub internship?,2027 Graduates
-Where will the Foodhub internship be located?,Chennai / Pan India
-When is the last date for registration for the Foodhub internship?,05th Aug 2026 (10.00 am)
-What is the CTC offered by Gnani.ai for the Internship role?,12 LPA (if converted)
-What is the monthly stipend for the Internship role at Gnani.ai?,60-70k per month
-What is the minimum CGPA requirement for the Internship role at Gnani.ai?,8.5 or above
-Which branches are eligible for the Internship role at Gnani.ai?,"B.Tech Computer Science and Engineering, B.Tech IT"
-What is the CTC offered by Gnani.ai after the completion of their internship?,12LPA
-What is the stipend provided by Gnani.ai during their internship?,60-70k per month
-What is the minimum CGPA requirement for applying to Gnani.ai's internship program?,8.5 or above
-Which branches are eligible for Gnani.ai's internship program?,"B.Tech Computer Science and Engineering, B.Tech IT"
-For which batch is Gnani.ai's internship program open?,2028 Batch
-Where will the internship by Gnani.ai be conducted?,Onsite
-When is the registration deadline for Gnani.ai's internship program?,04-08-2026 9am
-What is the minimum CGPA requirement for the Intern role at Cummins India?,60% or 6.0 CGPA
-Which branches are eligible for the Internship at Cummins India?,B.Tech (CSE / IT / ECE / EEE / MECH) related branches only
-For which batch is the Internship at Cummins India open?,2027 Batch
-Where will the Internship at Cummins India be located?,Pan India
-When is the deadline for applying to the Internship at Cummins India?,04th Aug 2026 (10.00 am)
-What is the CTC and stipend offered for the Intern role at Cummins India?,The CTC and stipend will be announced later.
-What is the CTC for the Assistant Manager – NEEV role at Flipkart?,14.53 LPA
-Which branches are eligible for the Assistant Manager – NEEV role at Flipkart?,"CIVIL, EEE, ECE, MECH, CHEMICAL, BIOLOGY, BIOENGINEERING"
-What is the minimum CGPA requirement for the Assistant Manager – NEEV role at Flipkart?,60% or 6.0 CGPA
-For which batch is the Assistant Manager – NEEV role at Flipkart open?,2027
-Where can candidates apply for the Assistant Manager – NEEV role at Flipkart?,Pan India
-When is the application deadline for the Assistant Manager – NEEV role at Flipkart?,"12th August 2026, 17th & 18th August 2026, 19th & 20th August 2026"
-What is the CTC for the AI Engineer Internship by Chargepoint?,10 LPA (If converted)
-What are the eligible branches for the AI Engineer Internship by Chargepoint?,"B.Tech (Computer Science & Engg. with spec. in Artificial Intelligence and Machine learning), B.Tech. Computer Science and Engineering (Cyber Security), B. Tech-Computer Science and Engineering with specialisation in Cyber Security & Digital Forensics, B. Tech. (Computer Science and Engineering with Specialization in Artificial Intelligence and Robotics), M. Tech (CSE with Specialization in Artificial Intelligence and Machine Learning), M. Tech (CSE with Specialization in Artificial Intelligence and Data Science), M. Tech 5 year Integrated - (CSE in Artificial Intelligence and Machine Learning), M. Tech (CSE specialization in Cyber Security and Digital Forensics), M.Tech Integrated CSE (Cyber Security), M. Tech 5 year Integrated - (CSE in Artificial Intelligence)"
-What is the stipend for the AI Engineer Internship by Chargepoint?,30000 per month
-What is the CGPA requirement for the AI Engineer Internship by Chargepoint?,65% or 6.5 CGPA
-Which batches are eligible for the AI Engineer Internship by Chargepoint?,2027 Batch
-Where can I apply for the AI Engineer Internship by Chargepoint?,Bangalore/Gurgaon
-What is the eligibility batch for the Assistant Manager – NEEV role at Flipkart?,2027 Batch
-In which locations will the Assistant Manager – NEEV role at Flipkart be available?,Pan India
-What is the CTC for the Assistant Manager – NEEV role offered by Flipkart?,14.53 LPA
-In which batch is the Assistant Manager – NEEV role at Flipkart open for?,2027 Batch
-Where are the positions for the Assistant Manager – NEEV role at Flipkart located?,Pan India
-What is the CTC offered by Blackrock for the Intern role in INR?,"18,40,000"
-What is the stipend provided by Blackrock for the Intern role?,"50,000"
-What is the CGPA requirement for the Intern role at Blackrock?,60% or 6.0 CGPA
-Which branches are eligible for the Intern role at Blackrock?,All B.Tech
-For which batch is the Intern role at Blackrock open?,2027 Batch
-Where are the locations for the Intern role at Blackrock?,Pan India
-What is the last date and time for registration for the Intern role at Blackrock?,"04th Aug 2026, 10.00 am"
-"What is the CTC for the internship at Rhogenites Biotech in Vellore, India?","The CTC for the internship at Rhogenites Biotech in Vellore, India is not specified."
-What type of role is being offered by Rhogenites Biotech for their internship?,The type of role offered by Rhogenites Biotech for their internship is an Internship.
-Where is the internship at Rhogenites Biotech located?,"The location of the internship at Rhogenites Biotech is Vellore, India."
-What type of employment opportunity does Marvell Super Dream offer for the Summer Internship in 2027?,Internship+PPO
-How many times is the CTC for the full-time offers by Marvell Super Dream for the Summer Internship in 2027?,2x
-What is the deadline for applying to Altair Engineering India Pvt Ltd's placement drive?,31-07-2026 by 6pm
-Is there any specified role or type for Altair Engineering India Pvt Ltd's placement drive?,Not specified
-What is the location for Altair Engineering India Pvt Ltd's placement drive?,Own location
-What is the CTC offered by Omnicloud for the Dream Internship role?,8 LPA (if converted)
-What are the eligible branches for the Dream Internship at Omnicloud?,"M. Tech (Software Engineering (5 Year Integrated Programme)), M. Tech 5 year Integrated - (computer science Engineering), M.Tech 5 year Integrated- (Computer science Engineering with data science), M.Integrated CSE (Cyber Security), M. Tech 5 year Integrated - (CSE in Artificial Intelligence and Machine Learning), M.Tech Integrated Computer Science & Engineering (Computational and Data Science), M.Tech 5 year Integrated - (CSE with Specialization in Business Analytics), M. Tech (Computer Science & Engg), M. Tech CSE (with Big Data Analytics), M. Tech (CSE with Specialization in Artificial Intelligence and Data Science), M. Tech (CSE specialization in Cyber Security and Digital Forensics), M. Tech Computer Science and Engineering (Cyber Security) - 2 Year"
-What is the stipend for the Dream Internship at Omnicloud?,25000
-What is the CGPA requirement for the Dream Internship at Omnicloud?,8.5 or above
-Where does the Dream Internship at Omnicloud take place?,Hyderabad
-What is the CTC for Tekion Super dream internship?,Less than 10 LPA (stipend for interns)
-For which batch is Tekion Super dream internship open?,2027 Batch
-Is the location of Tekion Super dream internship specified?,"No, the location is not specified"
-What is the deadline for applying to Tekion Super dream internship?,The timeline/deadline is not specified
-Which branches are eligible for Tekion Super dream internship?,Eligible Branches: Not specified
-What is the stipend for the Dream Core Internship at Nyork Foods?,"₹12,000 per month"
-Which branches are eligible for the Dream Core Internship at Nyork Foods?,Food Science
-What is the batch eligible for the Dream Core Internship at Nyork Foods?,27 Batch
-Where will the Dream Core Internship at Nyork Foods take place?,"Nyork Foods Office, Chennai"
-What is the CTC offered by Q2 Software for the Super dream internship/placement?,15 LPA
-What is the stipend offered by Q2 Software for the Super dream internship/placement?,50000
-What is the CGPA requirement for the Super dream internship/placement at Q2 Software?,70% or 7.0 CGPA
-Which branches are eligible for the Super dream internship/placement offered by Q2 Software?,B.Tech (Computer science engineering) & IT Related branches
-Where is the location of the Super dream internship/placement offered by Q2 Software?,Bangalore
-When is the last date for registration for the Super dream internship/placement offered by Q2 Software?,1st August 2026
-What is the minimum CGPA requirement for the Business Technology Solutions Associate (BTSA) and Decision Analytics Associate (DAA) roles at ZS Associates?,7 CGPA / 70% aggregate
-Which branches are eligible for the Business Technology Solutions Associate (BTSA) and Decision Analytics Associate (DAA) roles at ZS Associates?,"CS/IT/ECE/EEE and it’s associated branches, All B. Tech and B.E. branches"
-For which batch is ZS Associates recruiting for the Business Technology Solutions Associate (BTSA) and Decision Analytics Associate (DAA) roles?,2027 Batch
-What is the deadline for the pre-placement talk and online test for the Business Technology Solutions Associate (BTSA) and Decision Analytics Associate (DAA) roles at ZS Associates?,"30th July, 2026"
-Is there any specified CTC or stipend for the Business Technology Solutions Associate (BTSA) and Decision Analytics Associate (DAA) roles at ZS Associates?,Not specified in the text
-Where will the Business Technology Solutions Associate (BTSA) and Decision Analytics Associate (DAA) roles at ZS Associates be located?,Not specified in the text
-What is the CGPA requirement for the Business Technology Solutions Associate and Decision Analytics Associate roles in ZS Associates?,7 CGPA / 70% aggregate
-Which branches are eligible for the Business Technology Solutions Associate and Decision Analytics Associate roles in ZS Associates?,"CS/IT/ECE/EEE and it’s associated branches, All B. Tech and B.E. branches"
-In which location will the interviews for the Business Technology Solutions Associate and Decision Analytics Associate roles in ZS Associates be conducted?,Online
-What is the application deadline for the Business Technology Solutions Associate and Decision Analytics Associate roles in ZS Associates?,"30th July, 2026"
-Is there any specified CTC or stipend offered by ZS Associates for the Business Technology Solutions Associate and Decision Analytics Associate roles?,Not specified / Not applicable
-What is the CGPA requirement for the Business Technology Solutions Associate (BTSA) and Decision Analytics Associate (DAA) roles at ZS Associates?,7 CGPA / 70% aggregate
-Where will the pre-placement talk and online tests for the Business Technology Solutions Associate (BTSA) and Decision Analytics Associate (DAA) roles at ZS Associates take place?,On Campus
-What is the timeline or deadline for the pre-placement talk and online tests for the Business Technology Solutions Associate (BTSA) and Decision Analytics Associate (DAA) roles at ZS Associates?,"30th July, 2026"
-Is there a specified CTC for the Business Technology Solutions Associate (BTSA) and Decision Analytics Associate (DAA) roles at ZS Associates?,Not specified
-Are stipends provided for the Business Technology Solutions Associate (BTSA) and Decision Analytics Associate (DAA) roles at ZS Associates?,Not applicable
-What is the role offered by BNP Paribas India COE?,Internship with potential for full-time employment
-What is the eligibility criteria for the internship at BNP Paribas India COE?,Not specified in the provided text
-What is the duration of the internship at BNP Paribas India COE?,Not specified in the provided text
-Is there any stipend provided during the internship at BNP Paribas India COE?,Not specified in the provided text
-Does BNP Paribas India COE offer full-time employment after the internship?,"Yes, there is a potential for full-time employment"
-What is the CTC offered by Saviynt for the Associate Engineer / Associate Engineer (SRE) Internship?,"21,00,000 INR"
-What is the monthly stipend provided by Saviynt for the Associate Engineer / Associate Engineer (SRE) Internship?,50000 INR per month
-What is the CGPA requirement for the Associate Engineer / Associate Engineer (SRE) Internship at Saviynt?,90% or 9.0 CGPA
-Which branches are eligible for the Associate Engineer / Associate Engineer (SRE) Internship at Saviynt?,"B.Tech (CSE, IT & ECE related courses)"
-What is the eligibility batch for the Associate Engineer / Associate Engineer (SRE) Internship at Saviynt?,2027 Batch
-Where will the Associate Engineer / Associate Engineer (SRE) Internship at Saviynt be located?,Bengaluru
-When is the deadline for PPT & Online test for the Associate Engineer / Associate Engineer (SRE) Internship at Saviynt?,4th August 2026
-When is the interview for the Associate Engineer / Associate Engineer (SRE) Internship at Saviynt?,5th August 2026
-What is the CTC offered by ProcDNA Analytics Pvt. Ltd for the Business Analyst/Associate Data Scientist role?,16.74 LPA
-Which branches are eligible for the Business Analyst/Associate Data Scientist role offered by ProcDNA Analytics Pvt. Ltd?,"B.Tech (all branches), B.Tech CSE (Artificial Intelligence, AI/ML, Data Science), Computer Science & Technology, IT"
-What is the minimum required CGPA for the Business Analyst/Associate Data Scientist role offered by ProcDNA Analytics Pvt. Ltd?,8 or above
-In which locations does ProcDNA Analytics Pvt. Ltd have positions available for the Business Analyst/Associate Data Scientist role?,Pune/Gurgaon
-What is the eligibility batch for the Business Analyst/Associate Data Scientist role offered by ProcDNA Analytics Pvt. Ltd?,2027
-Which branches are eligible for the BTSA and DAA roles at ZS Associates?,"CS/IT/ECE/EEE and it’s associated branches, All B. Tech and B.E. branches"
-When is the application period for the BTSA and DAA roles at ZS Associates in 2026?,"30th July, 2026 to 17th August, 2026"
-Is there any specified CTC or stipend for the BTSA and DAA roles at ZS Associates?,Not specified in the text
-In which locations are these roles available at ZS Associates?,Not specified in the text
-What is the CTC offered by Pallav Technologies for the Data Analyst Intern role?,30 LPA
-What is the stipend provided by Pallav Technologies for the Data Analyst Intern role?,35000
-What is the CGPA requirement for the Data Analyst Intern role at Pallav Technologies?,75% or 7.5 CGPA
-Which branches are eligible for the Data Analyst Intern role at Pallav Technologies?,M.Tech Cse and IT related
-Where is the location of the Data Analyst Intern position offered by Pallav Technologies?,Gurgaon
-What is the deadline for applications to the Data Analyst Intern role at Pallav Technologies?,30th July 2026 (5.00 pm)
-"What is the CTC offered by Zanskar Tech Pvt Ltd for the Full Stack Developer / Product Analyst Internship role, if converted?",2500000
-What is the stipend provided for the Full Stack Developer / Product Analyst Internship role at Zanskar Tech Pvt Ltd?,90000
-What is the CGPA requirement for the Full Stack Developer / Product Analyst Internship role at Zanskar Tech Pvt Ltd?,85% or 8.5 CGPA
-Which branches are eligible for the Full Stack Developer / Product Analyst Internship role at Zanskar Tech Pvt Ltd?,All B.Tech
-Where can one find the Full Stack Developer / Product Analyst Internship role offered by Zanskar Tech Pvt Ltd?,Bangalore / GIFT City
-When is the deadline for applying to the Full Stack Developer / Product Analyst Internship role at Zanskar Tech Pvt Ltd?,30th July 2026 (12 Noon)
-What is the CTC range offered by Altair Engineering India Pvt Ltd for the QA intern role?,The CTC range offered by Altair Engineering India Pvt Ltd for the QA intern role is 11.5 to 12 LPA.
-What is the eligibility criteria for the QA intern role at Altair Engineering India Pvt Ltd?,"The eligibility criteria for the QA intern role at Altair Engineering India Pvt Ltd include M. Tech (CSE / IT) related branches, a CGPA of 60% or 6.0, and the 2027 batch."
-What is the deadline for applying to the QA intern role at Altair Engineering India Pvt Ltd?,The deadline for applying to the QA intern role at Altair Engineering India Pvt Ltd is 30th July 2026 (12 Noon).
-Where are the locations available for the QA intern role at Altair Engineering India Pvt Ltd?,The locations available for the QA intern role at Altair Engineering India Pvt Ltd are Pan India.
-What is the stipend offered by Altair Engineering India Pvt Ltd for the QA intern role?,"The stipend offered by Altair Engineering India Pvt Ltd for the QA intern role is 40,000."
-What is the CTC range for the Application Developer – Internship role at Divum Corporate Services pvt ltd?,3.6 to 5 LPA (If converted)
-What is the stipend offered for the Application Developer – Internship role at Divum Corporate Services pvt ltd?,15k
-What CGPA requirement does a student need to meet to be eligible for the Application Developer – Internship role at Divum Corporate Services pvt ltd?,85% or 8.5 CGPA
-Which branches are eligible for the Application Developer – Internship role at Divum Corporate Services pvt ltd?,"M.Tech 5 Year Integrated - (Software Engineering), M.Tech 5 year Integrated - (computer science Engineering), Integrated M.Tech AI, Integrated M.Tech Computer Science & Engineering (Computational and Data Science), M.Tech. Computer Science and Engineering (Artificial Intelligence and Machine Learning), M.Tech. CSE (Big Data Analytics), M. Tech (CSE - Specialization in Artificial Intelligence & Data Science), M.Tech. Computer Science and Engineering, M. Tech (Not specified)"
-What is the batch for which the Application Developer – Internship role at Divum Corporate Services pvt ltd is open?,2027 Batch
-Where will the Application Developer – Internship role at Divum Corporate Services pvt ltd be based?,Bangalore
-When is the deadline for the Application Developer – Internship role at Divum Corporate Services pvt ltд?,30th July 2026 (03.00 pm)
 "What is the purpose of the IDFC Leadership Talk & PPT Session at Vellore Auditorium, VIT, Vellore, India?",The purpose of the IDFC Leadership Talk & PPT Session is to provide insights about the company and career opportunities.
 "Who can attend the IDFC Leadership Talk & PPT Session at Vellore Auditorium, VIT, Vellore, India?",Students from various branches and academic years are invited to attend the IDFC Leadership Talk & PPT Session.
-What is the CTC offered by Intel India Ltd for the Hardware & Software Intern role?,The CTC has not been announced.
-What is the stipend for the Hardware & Software Intern role at Intel India Ltd?,40000
-What is the CGPA requirement for the Hardware & Software Intern role at Intel India Ltd?,75% or 7.5 CGPA
-Which branches are eligible for the Hardware & Software Intern role at Intel India Ltd?,All B.Tech & M.Tech CSE Branches.
-What is the estimated CTC range for Wakefit's internship?,4 to 6 LPA
-By when should applications be submitted for Wakefit's internship?,Before 29th July 2026
-What is the stipend offered by AXA Global Business Services for the Dream Internship role?,35k per month
-What are the eligible branches for the Dream Internship role at AXA Global Business Services?,M. Tech (CSE / IT) related branches only
-What is the CGPA requirement for the Dream Internship at AXA Global Business Services?,60% or 6.0 CGPA
-Where is the Dream Internship by AXA Global Business Services located?,Bangalore
-When does the application process for the Dream Internship at AXA Global Business Services start or end?,Not specified as the timeline/deadline will be announced later
-What is the CTC for the Regular Internship role at Averixis Solutions Pvt. Ltd?,8 LPA
-What is the stipend structure for the Regular Internship role at Averixis Solutions Pvt. Ltd?,18k + 18k variable - 36k
-What is the CGPA requirement for the Regular Internship role at Averixis Solutions Pvt. Ltd?,60% or 6.0 CGPA
-Which branches are eligible for the Regular Internship at Averixis Solutions Pvt. Ltd?,"M.Tech, MCA, MSC"
-What batch is eligible for the Regular Internship at Averixis Solutions Pvt. Ltd?,2027 Batch
-Where will the Regular Internship role at Averixis Solutions Pvt. Ltd be located?,Bengaluru
-What is the stipend for the Dream Core Internship offered by Hindustan Unilever?,<6 LPA>
-In which locations in India is the Dream Core Internship offered by Hindustan Unilever available?,India (location not specified in the provided text)
-What is the CTC offered by Danfoss Industries Pvt Ltd for the Super Dream Internship role?,9.7 LPA
-What is the stipend provided by Danfoss Industries Pvt Ltd for the Super Dream Internship role?,30 to 40k
-What is the CGPA requirement for applying to the Super Dream Internship role at Danfoss Industries Pvt Ltd?,"75% or 7.5 CGPA in X and XII, 70% or 7.0 CGPA in Pursuing Degree, 75% or 7.5 CGPA in UG (for PGs)"
-What are the eligible branches for the Super Dream Internship role at Danfoss Industries Pvt Ltd?,M. Tech (ECE / EEE)
-What is the batch eligible for the Super Dream Internship role at Danfoss Industries Pvt Ltd?,2027 Batch
-Where will the Super Dream Internship role at Danfoss Industries Pvt Ltd be located?,Pan India
-What is the deadline for applying to the Super Dream Internship role at Danfoss Industries Pvt Ltd?,29th July 2026 (10.00 am)
-What is the CTC offered by Visteon for the Software Engineer / Product Development role if it is converted to a permanent position?,7 LPA
-What is the stipend provided by Visteon for the Software Engineer / Product Development internship?,25000
-What is the CGPA requirement for the Visteon Software Engineer / Product Development role for candidates in the 2027 batch?,"70% or 7.0 CGPA in X and XII, 75% or 7.5 CGPA in Pursuing Degree"
-Which branches are eligible for the Visteon Software Engineer / Product Development internship?,B.Tech Mechatronics Related branches
-What is the location of the Visteon Software Engineer / Product Development internship?,Chennai
-When is the last date for registration for the Visteon Software Engineer / Product Development internship?,29th July 2026 9.00 am
-What is the estimated CTC for the Early Career Graduate Hire role by LSEG for the 2027 batch?,The information about the CTC for the Early Career Graduate Hire role by LSEG for the 2027 batch was not provided.
-What are the eligible branches for the Early Career Graduate Hire role by LSEG?,The information about the eligible branches for the Early Career Graduate Hire role by LSEG was not provided.
-What is the CTC offered by Eternal (Zomato) for the SDE internship?,The CTC for the SDE internship at Eternal (Zomato) is not specified in the provided text.
-Is there a PPO opportunity after completing the SDE internship at Eternal (Zomato)?,"Yes, the SDE internship at Eternal (Zomato) includes a PPO opportunity."
-Where is the SDE internship at Eternal (Zomato) located?,"The location for the SDE internship at Eternal (Zomato) is Vellore, India."
-What is the CTC offered for the Software Engineer Internship at Prodapt?,"Profile 1 - 8 LPA, Profile 2 - 10 LPA"
-What is the stipend for each profile of the Software Engineer Internship at Prodapt?,"Profile 1 - 15 k, Profile 2 - 20k"
-What is the minimum CGPA requirement for the Software Engineer Internship at Prodapt?,75% or 7.5 CGPA
-Which branches are eligible for the Software Engineer Internship at Prodapt?,"B.Tech (Computer science engineering), B. Tech.(Information Technology), B.Tech Computer Science and Engineering (Software Engineering), B. Tech- Computer Science and Engineering with specialization in Data Analytics, B. Tech. Computer Science and Engineering and Business Systems, B. Tech. Computer Science and Engineering with Specialization in IoT, B.Tech (Computer Science & Engg. with spec. in Artificial Intelligence and  Machine learning), B. Tech. (Computer Science and Engineering with Specialization in Artificial Intelligence and Robotics)"
-Which batch is eligible for the Software Engineer Internship at Prodapt?,2027 Batch
-Where are the locations for the Software Engineer Internship at Prodapt?,"Chennai, Bangalore, Hyderabad and Pune"
-What is the CTC for the Dream Core Internship at Mondelez International?,TBD
-What is the stipend for the Dream Core Internship at Mondelez International?,"20,000"
-What is the CGPA requirement for the Dream Core Internship at Mondelez International?,60% or 6.0 CGPA
-Which branches are eligible for the Dream Core Internship at Mondelez International?,"M.Sc Food Science, M.Sc Applied Microbiology, M.Sc Microbiology, B.Tech Biotechnology, B.Tech Bio Engineering, M.Sc., [5-year Integrated] Biotechnology"
-What is the batch eligible for the Dream Core Internship at Mondelez International?,2027 Batch
-Where will the Dream Core Internship at Mondelez International be located?,TADA
-When is the deadline for applying to the Dream Core Internship at Mondelez International?,Will be announced later
-What is the CTC for Mondelez International's Dream Core Internship?,TBD
-What is the stipend offered by Mondelez International for the Dream Core Internship?,"20,000"
-What is the CGPA requirement for Mondelez International's Dream Core Internship?,60% or 6.0 CGPA
-Which branches are eligible for Mondelez International's Dream Core Internship?,"M.Sc Food Science, M.Sc Applied Microbiology, B.Tech Biotechnology"
-What is the deadline for applying to Mondelez International's Dream Core Internship?,26th July 2026 (02.00 pm)
-Where will the internship for Mondelez International's Dream Core Internship take place?,TADA
-What is the CTC for a full-time offer at KLA Super Dream after completing the Summer Internship?,2x CTC of a full-time offer
-Which batch is eligible to apply for the Summer Internship at KLA Super Dream?,2027 batch
-What is the minimum CGPA requirement for the Dream Core Internship at Uniqcore Construction?,60% or 6.0 CGPA
-Which branches are eligible for the Dream Core Internship offered by Uniqcore Construction?,M.Tech Civil and related branches
-Where is the location of the Dream Core Internship provided by Uniqcore Construction?,Chennai
-Does Uniqcore Construction provide a stipend for the Dream Core Internship?,"Yes, the stipend will be discussed during the interview"
-Is the CTC for the Dream Core Internship at Uniqcore Construction already announced?,"No, the CTC will be announced later"
-What is the CTC offered by IDFC FIRST Bank for the Super Dream Internship role in 2027?,"Unfortunately, the provided text does not contain specific information about the CTC for the Super Dream Internship role in 2027."
-What are the eligible branches for the Super Dream Internship at IDFC FIRST Bank?,The provided text does not specify the eligible branches for the Super Dream Internship at IDFC FIRST Bank.
-When is the application deadline for the Super Dream Internship at IDFC FIRST Bank?,"Unfortunately, the provided text does not contain specific information about the application deadline for the Super Dream Internship at IDFC FIRST Bank."
-Is there any specific GPA requirement for the Super Dream Internship at IDFC FIRST Bank?,The provided text does not specify a GPA requirement for the Super Dream Internship at IDFC FIRST Bank.
-What is the Consolidated Total Compensation (CTC) offered by IDFC FIRST Bank for the Application Engineer Internship?,Rs. 14 LPA + 2 Lac JB + 15% Variable
-What is the stipend offered for the Application Engineer Internship at IDFC FIRST Bank?,"40,000"
-What are the minimum academic requirements (CGPA) to apply for the Application Engineer Internship at IDFC FIRST Bank?,60% or 6.0 CGPA
-Which branches are eligible for the Application Engineer Internship at IDFC FIRST Bank?,"B.Tech IT, B.Tech CSE"
-Where can candidates apply for the Application Engineer Internship at IDFC FIRST Bank?,pan india
-What is the deadline for applying to the Application Engineer Internship at IDFC FIRST Bank?,25-07-2026 11am
-"What is the CTC for the Super Dream Internship at Nutanix, excluding benefits?","31,15,000"
-What is the stipend offered for the Super Dream Internship at Nutanix?,"50,000"
-What is the CGPA requirement for the Super Dream Internship at Nutanix?,75% or 7.5 CGPA
-Which branches are eligible for the Super Dream Internship at Nutanix?,B.Tech (CSE/IT/ECE) related branches
-What is the eligibility batch for the Super Dream Internship at Nutanix?,2027
-Where are the locations for the Super Dream Internship at Nutanix?,Bengaluru/Pune
-What is the deadline for applying to the Super Dream Internship at Nutanix?,3rd August 2026
-"What is the CTC for a full-time offer at Valeo in Vellore, India?","The CTC for a full-time offer at Valeo in Vellore, India is twice the CTC of the internship."
-"What is the CTC offered by Valeo for their internship role in Vellore, India?","The CTC offered by Valeo for their internship role in Vellore, India is twice the CTC of the full-time offer."
-"What is the CTC for Valeo's internship program in Vellore, India?","The CTC for Valeo's internship program in Vellore, India is twice the CTC of the full-time offer."
-"What is the remuneration for the internship position at Valeo's location in Vellore, India?","The remuneration for the internship position at Valeo's location in Vellore, India is twice the CTC of the full-time offer."
-What is the eligibility criteria for internships at Tekion India Pvt Ltd for the batch of 2027?,The eligibility criteria for internships at Tekion India Pvt Ltd for the batch of 2027 is not specified in the provided text.
-What is the CTC offered by Tekion India Pvt Ltd for the Internship role?,The CTC offered by Tekion India Pvt Ltd for the Internship role is not specified in the provided text.
-When does the application process for internships at Tekion India Pvt Ltd begin for the batch of 2027?,The application process timeline for internships at Tekion India Pvt Ltd for the batch of 2027 is not specified in the provided text.
-What is the CTC offered by MCare for the Business Development Executive Internship?,"2,40,000"
-What is the stipend provided per month for the Business Development Executive Internship at MCare?,6000
-Which branches are eligible for the Business Development Executive Internship at MCare?,"M.Sc Microbiology, M.sc Chemistry"
-Where is the Business Development Executive Internship at MCare located?,"Vellore Institute of Technology, Vellore"
-What is the deadline for registering for the Business Development Executive Internship at MCare?,Before 9 am tomorrow
-What is the location of the Hindustan Unilever STEM Internship?,"VIT, Vellore"
-Which branches are eligible for the Hindustan Unilever STEM Internship?,Biotechnology
-What type of position is the Hindustan Unilever STEM Internship?,Internship
-What is the CGPA requirement for the ResMed Technology Pvt Ltd Internship in the 2027 Batch?,Less than 10 LPA
-When is the deadline for applying to the ResMed Technology Pvt Ltd Internship in Hyderabad?,10th or 11th August 2026
-What is the deadline for applying to Walmart's Summer Internship?,The deadline for Walmart's Summer Internship is 27th or 28th July 2026.
-Is the location specified for Walmart's Summer Internship?,"No, the location for Walmart's Summer Internship is not specified."
-What is the deadline for applying to the placement drive by Human Resocia co. Ltd.?,23-07-2026 By 11AM
-Is there any specified role or type for the placement drive conducted by Human Resocia co. Ltd.?,Not specified
-What is the monthly CTC offered by Ejadah Asset Management Group LLC for the unknown role?,5000 AED per month
-What is the CGPA requirement for the unknown role in Ejadah Asset Management Group LLC?,60% or 6.0 CGPA
-Which branches are eligible for the unknown role at Ejadah Asset Management Group LLC?,"B.Tech (Mech, Civil & EEE related courses)"
-Where is the unknown role at Ejadah Asset Management Group LLC located?,Dubai
-When is the deadline for applying to the unknown role at Ejadah Asset Management Group LLC?,"22nd July 2026, 5.00 p.m."
-What is the CTC offered by Intain for the Full Stack Developer Intern role?,The provided text does not mention the CTC for the Full Stack Developer Intern role.
-What is the CTC offered by Intain for the AI Engineer Intern role?,The provided text does not mention the CTC for the AI Engineer Intern role.
-Which branch is eligible for the Full Stack Developer Intern role at Intain?,Engineering branches are eligible for the Full Stack Developer Intern role at Intain.
-Which branch is eligible for the AI Engineer Intern role at Intain?,The provided text does not specify which branch is eligible for the AI Engineer Intern role.
-What year batch is eligible for the internships at Intain in 2027?,The eligible batch for internships at Intain in 2027 is 2027.
-Where will the internships by Intain take place in India?,The provided text does not specify the location of the internships offered by Intain in India.
-What companies are participating in the placement drive for the final year batch of 2027?,"TCS, Zomato, Infosys, Sabre, Deloitte, PWC, Work India, Tekion, ZS, Nutanix"
 What are the eligible branches for the upcoming placement drive?,"B.Tech (all branches), M.Tech 2 year (all branches), M.Tech 5 year (all branches), MCA"
-By when should the students complete their applications for this placement drive?,Before 25th July 2026
-Are there any specified roles or types for the upcoming placement drive?,Not specified
-What is the CGPA requirement for this placement drive?,Not specified
-Is there any mentioned stipend for the upcoming placement drive?,Not specified
-What is the CTC offered for the upcoming placement drive?,Not specified
-"What is the CTC for the internship role at Rhogenites Biotech in Vellore, India?","The CTC for the internship role at Rhogenites Biotech in Vellore, India is not specified."
-"What branches are eligible for the internship role at Rhogenites Biotech in Vellore, India?","The eligibility details for the internship role at Rhogenites Biotech in Vellore, India were not specified."
-What is the CTC for the AI intern position at Pepagora in Coimbatore?,5 LPA (if converted)
-What are the eligible branches for the AI intern position at Pepagora?,"M.Tech 2 year & 5 year CSE related branches, M.sc Data science"
-What is the stipend for the AI intern position at Pepagora?,15000
-What is the CGPA requirement for the AI intern position at Pepagora?,60% or 6.0 CGPA
-Where will the AI intern position at Pepagora be located?,Coimbatore
-By when is the deadline for applying to the AI intern position at Pepagora?,22nd July 2026 (11.00 am)
-What is the CTC offered by Fischer Jordan for a Data Analyst or SWE Internship if it gets converted?,30 - 31 LPA
-What is the stipend provided by Fischer Jordan for their Data Analyst or SWE Internship?,50000
-What is the CGPA requirement for a student to be eligible for Fischer Jordan's Data Analyst or SWE Internship?,"75% or 7.5 CGPA in X and XII, 60% or 6.0 CGPA in Pursuing Degree, UG (for PGs), No Standing Arrears"
-Which branches are eligible for Fischer Jordan's Data Analyst or SWE Internship?,B.Tech (CSE / IT) related branches only
-What is the eligibility batch for Fischer Jordan's Data Analyst or SWE Internship?,2027 Batch
-Where does Fischer Jordan's Data Analyst or SWE Internship take place?,Remote
-What type of placement opportunity is available at Infosys in the Vellore campus?,The placement opportunity at Infosys in the Vellore campus is for an Internship+PPO.
-Is the CTC or stipend specified for the placement opportunity at Infosys in the Vellore campus?,The CTC and stipend are not specified for the placement opportunity at Infosys in the Vellore campus.
-Which branches are eligible for the Infosys internship+PPO placement opportunity at the Vellore campus?,The eligibility of branches for the Infosys internship+PPO placement opportunity at the Vellore campus is not specified.
-What is the CGPA requirement for the Infosys internship+PPO placement opportunity at the Vellore campus?,The CGPA requirement for the Infosys internship+PPO placement opportunity at the Vellore campus is not specified.
-What is the timeline or deadline for the Infosys internship+PPO placement opportunity at the Vellore campus?,The timeline or deadline for the Infosys internship+PPO placement opportunity at the Vellore campus is not specified.
-What is the CTC offered by Work India for the Software Development Engineer Intern role?,16 LPA (If converted)
-What is the stipend provided by Work India for the Software Development Engineer Intern role?,"40,000"
-What are the CGPA requirements for the Software Development Engineer Intern role at Work India?,"60% or 6.0 CGPA in X and XII, 80% or 8.0 CGPA in Pursuing Degree"
-Which branches are eligible for the Software Development Engineer Intern role at Work India?,B.Tech (CS/IT related Branches)
-What is the batch eligibility for the Software Development Engineer Intern role at Work India?,2027 Batch
-Where does Work India offer the Software Development Engineer Intern role?,Bangalore
-When is the deadline for applying to the Software Development Engineer Intern role at Work India?,31st July 2026
-What is the CTC offered by UBS for the internship role?,INR 13 LPA
-What is the stipend per month for the UBS internship?,60000
-What is the minimum CGPA requirement for the UBS internship?,70% or 7.0 CGPA
-Which branches are eligible for the UBS internship?,CS & IT related branches only
-What is the eligible batch for the UBS internship?,2027 Batch
-Where are the UBS internships located?,Pune / Hyderabad
-When is the deadline for applying to the UBS internship?,21-07-2026 (2.00 p.m)
-"What is the stipend offered by Wakefit for a 6-month internship in the 2027 Batch at VIT, India?","The stipend offered by Wakefit for a 6-month internship in the 2027 Batch at VIT, India is 20k."
-"What is the stipend offered by Wakefit for an 11-month internship in the 2027 Batch at VIT, India?","The stipend offered by Wakefit for an 11-month internship in the 2027 Batch at VIT, India is 25K."
-What is the CTC offered by UBS for the Super Dream Internship?,"If converted, the CTC offered is 13 LPA."
-What is the stipend offered for the Super Dream Internship at UBS?,"The stipend offered per month is 60,000."
-What is the minimum CGPA requirement to be eligible for the Super Dream Internship at UBS?,The CGPA requirement is 70% or 7.0 CGPA.
-Which branches are eligible for the Super Dream Internship at UBS?,B.Tech branches CS & IT related branches only.
-What is the eligibility batch for the Super Dream Internship at UBS?,The eligible batch is 2027 Batch.
-Where are the locations for the Super Dream Internship at UBS?,The locations are Pune / Hyderabad.
-What is the last date and time for registration for the Super Dream Internship at UBS?,The last date for Registration is 21-07-2026 (2.00 p.m).
-Which batch is eligible for the Dream Core Internship at Nyork Foods?,27 Batch
-What are the eligible branches for the Pre Placement Offer - FTE role at ZS Associates?,"DAA, BTSA"
-For which batch is the Pre Placement Offer - FTE role at ZS Associates intended?,2027 Batch
-What is the deadline for applying to the ResMed Technology Pvt Ltd Internship for the 2027 batch in India?,3 August 2026
-What is the location for the ResMed Technology Pvt Ltd Internship for the 2027 batch?,India
-What are the requirements to appear for the online test conducted by ION Group?,The details regarding eligibility and requirements will be communicated via email after you register.
-Is there a specific date for the ION Group online test?,The exact date for the online test is not specified in the provided text.
-What is the deadline for submitting the application for the Online Test by ION Group?,The deadline for submitting the application for the Online Test by ION Group is not specified in the provided text.
-Is there any specific eligibility criteria for the Online Test by ION Group?,The specific eligibility criteria for the Online Test by ION Group are not specified in the provided text.
-What is the selection process for the Online Test by ION Group?,The selection process for the Online Test by ION Group is not specified in the provided text.
-What is the required CGPA for the Honeywell Technologies Internship?,"60% or 6 cgpa in 10th,12th,ug."
-Which branches are eligible for the Honeywell Technologies Internship?,"B.Tech CSE, B.Tech IT"
-In which batch is the Honeywell Technologies Internship open for?,2027
-"What is the CGPA requirement for the ION Group's Internship + Full Time role in Vellore, India?",The CGPA requirement for the ION Group's Internship + Full Time role is 7.5 to 8.0.
-"What type of role does ION Group offer in Vellore, India?","ION Group offers an Internship+PPO role in Vellore, India."
-What is the minimum CGPA requirement for eligibility in the placement drive of Multiple company for the year 2027?,60%
-Can you provide the CTC range for the Full Time/Internship roles offered by Multiple company for the 2027 Batch?,"1.5X CTC offer and above, 2X CTC offer and above, more than 6 LPA, more than 10 LPA"
-Is there any specified location for the placement drive by Multiple company for the year 2027?,Not specified
-Are there any specific timelines or deadlines mentioned for the placement drive by Multiple company for the year 2027?,Not specified
-What is the CTC offered by Eternal (Zomato) for the Software Development Engineer Internship?,59 LPA
-What is the stipend provided per month for the Software Development Engineer Internship by Eternal (Zomato)?,1L per month
-What is the minimum CGPA requirement to be eligible for the Software Development Engineer Internship at Eternal (Zomato)?,70% or 7.0 CGPA
-Which branches are eligible for the Software Development Engineer Internship offered by Eternal (Zomato)?,All B.Tech branches
-What is the batch for which the Software Development Engineer Internship at Eternal (Zomato) is open?,2027 Batch
-Where is the location of the Software Development Engineer Internship by Eternal (Zomato)?,Gurugram
-When is the deadline for applying to the Software Development Engineer Internship at Eternal (Zomato)?,27-07-2026
-What is the CTC offered by Juspay for the Software Development Engineer role?,"INR 27,00,000 per annum"
-What is the stipend provided by Juspay for the Software Development Engineer role?,"40,000"
-What is the CGPA requirement to be eligible for the Software Development Engineer role at Juspay?,60% or 6.0 CGPA
-Which branches are eligible for the Software Development Engineer role at Juspay?,"M.Tech CSE branches, B.Tech CSE branches"
-What is the batch for which the Software Development Engineer role at Juspay is open?,2027 Batch
-Where can I find the Software Development Engineer role at Juspay - Vellore campus or Bangalore?,Vellore campus and Bangalore
-What is the minimum CGPA requirement for the TCS full-time placement drive in 2027?,9 and above
-What batch is TCS recruiting for their full-time role in 2026?,2027 Batch
-What is the minimum CGPA requirement for the full-time role at TCS in the 2027 batch?,9 and above
-Is there a specific CTC or stipend mentioned for the full-time role at TCS for the 2027 batch?,Not mentioned
-What is the CTC offered by Pixel Compute Technologies Pvt Ltd for the Super Dream Placement / Internship - 2027 Batch?,20 LPA
-What is the stipend for the Super Dream Placement / Internship - 2027 Batch at Pixel Compute Technologies Pvt Ltd?,42000
-What is the CGPA requirement for the Super Dream Placement / Internship - 2027 Batch at Pixel Compute Technologies Pvt Ltd?,80% or 8.0 CGPA
-Which branches are eligible for the Super Dream Placement / Internship - 2027 Batch at Pixel Compute Technologies Pvt Ltd?,B.Tech (CSE/IT)-related branches
-What is the eligibility batch for the Super Dream Placement / Internship - 2027 Batch at Pixel Compute Technologies Pvt Ltd?,2027 Batch
-Where will the Super Dream Placement / Internship - 2027 Batch at Pixel Compute Technologies Pvt Ltd be located?,Bhubaneswar
-What is the last date for registration for the Super Dream Placement / Internship - 2027 Batch at Pixel Compute Technologies Pvt Ltd?,17th July 2026 (9.00 am)
-"What is the CTC offered by Sabre Corporation for the AI Engineer internship+PPO role, if converted?","20,72,160"
-What is the stipend provided by Sabre Corporation for the AI Engineer internship?,40000 per month
-What is the minimum CGPA requirement to apply for the AI Engineer internship at Sabre Corporation?,70% or 7.0 CGPA
-Which branches are eligible for the AI Engineer internship at Sabre Corporation?,"B.Tech (CSE, IT & related courses)"
-What is the eligibility batch for the AI Engineer internship at Sabre Corporation?,2027
-Where is the location of the AI Engineer internship offered by Sabre Corporation?,Bengaluru
-When is the deadline for applying to the AI Engineer internship at Sabre Corporation?,18-07-2026 (3.00 p.m)
-What is the stipend offered by Wakefit for the Graduate Engineering Trainee role?,25000
-What are the eligible branches for the Graduate Engineering Trainee internship in Wakefit?,"MECH, EEE"
-For which batch is the Graduate Engineering Trainee internship at Wakefit open?,2027
-What is the location of the Graduate Engineering Trainee internship in Wakefit?,"Hosur, Tamil Nadu"
-Does Wakefit specify a CTC for the Graduate Engineering Trainee role?,No
-What is the CGPA requirement for the Graduate Engineering Trainee internship in Wakefit?,60% or 6.0 CGPA
-When is the deadline for applying to the Graduate Engineering Trainee internship at Wakefit?,17th July 2026 (10.00 am)
-Which CGPA requirement must a candidate meet to be eligible for the Graduate Engineering Trainee role at Wakefit?,60% or 6.0 CGPA
-What are the eligible branches for the Graduate Engineering Trainee role at Wakefit?,"MECH, EEE"
-What is the eligibility batch for the Graduate Engineering Trainee role at Wakefit?,2027
-Where is the location of the Graduate Engineering Trainee internship offered by Wakefit?,"Hosur, Tamil Nadu"
-When is the deadline for the Graduate Engineering Trainee role at Wakefit?,17th July 2026 (10.00 am)
-What are the eligible branches for the placement drive at Valuelabs?,"B.Tech. Computer Science Engineering (CSE), Information Technology (IT), related branches."
-Where is the location of the Valuelabs placement drive?,Pearl Research Park (PRP) - VIT Vellore campus.
-What are the timeline and deadline for the Valuelabs placement drive?,16th and 17th July 2026 by 8.30 am.
-Is there any specified role or CTC details available for the Valuelabs placement drive?,Not specified
-What is the CTC for the Super Dream offer role by Human Resocia co. Ltd?,24 lakhs INR per annum
-Which branches are eligible for the Super Dream offer role in Human Resocia co. Ltd?,"CSE, IT and its related departments, EEE"
-What is the CGPA requirement for the Super Dream offer role by Human Resocia co. Ltd?,8.8 or above
-Where is the location of the Super Dream offer role by Human Resocia co. Ltd?,Japan
-What is the CTC offered for the Super Dream Internship by Inflection.io if it gets converted?,"If converted, the CTC offered by Inflection.io for the Super Dream Internship is 20LPA"
-What is the stipend provided for the Super Dream Internship by Inflection.io?,"₹50,000"
-What is the CGPA requirement for the Super Dream Internship by Inflection.io?,60% or 6.0 CGPA
-Which branches are eligible for the Super Dream Internship by Inflection.io?,All M.Tech 5yr Integrated CSE branches
-What is the batch to which the Super Dream Internship by Inflection.io is applicable?,2027 Batch
-Where are the locations for the Super Dream Internship by Inflection.io?,pan india
-What is the timeline or deadline for applying to the Super Dream Internship by Inflection.io?,16-07-2026  10Am
-What is the CTC offered by Prescience (A part of Movate) for the Backend / Data Engineer internship upon completion and subject to performance?,INR 10 LPA
-What is the stipend provided during the Internship - Frontend / Full stack Engineer role by Prescience (A part of Movate)?,INR 25000 Per month
-Which branches are eligible for the internships offered by Prescience (A part of Movate)?,"M.Tech 5 years ( CSE, IT) related"
-What is the eligible batch for the internships offered by Prescience (A part of Movate)?,2027 Batch
-Where are the internships offered by Presciance (A part of Movate) located?,Bangalore
-When is the virtual drive for the internships offered by Presciance (A part of Movate) planned?,The first week of September
-"What is the CTC range offered by Zetta Tech Hospitality LLP for the internship role, if converted?",6 to 9 LPA
-What is the stipend provided by Zetta Tech Hospitality LLP for their internship program?,20000
-What is the minimum CGPA requirement for students applying to the Zetta Tech Hospitality LLP internship?,60% or 6.0 CGPA
-Which branches are eligible for the internship opportunity offered by Zetta Tech Hospitality LLP?,"M. Tech 2 year & 5 year ( CSE / IT ) related branches, M.Sc - Data Science, M.Sc. Artificial Intelligence & Machine Learning"
-Which batch is eligible to apply for the internship at Zetta Tech Hospitality LLP?,2027 Batch
-Where will the internship at Zetta Tech Hospitality LLP take place?,Chennai
-"What is the CTC offered by Lakshmi Machine Works Limited for the Dream Core Internship, if converted?",4 LPA
-What is the stipend provided for the Dream Core Internship at Lakshmi Machine Works Limited?,20000
-What is the CGPA requirement for the Dream Core Internship at Lakshmi Machine Works Limited?,70% or 7.0 CGPA
-Which branches are eligible for the Dream Core Internship offered by Lakshmi Machine Works Limited?,M.Tech mechanical related branches
-For which batch is the Dream Core Internship at Lakshmi Machine Works Limited intended?,2027 Batch
-"Where does the Dream Core Internship at Lakshmi Machine Works Limited take place, according to the provided text?",Not specified in the text
-When is the deadline for the Dream Core Internship at Lakshmi Machine Works Limited?,Will be announced later
-What is the CTC for the regular internship offered by Tube Products of India?,"2x CTC (as per the provided text, the exact amount is not specified)"
-Is there any specified location for the regular internship at Tube Products of India?,Not specified in the text
-What is the deadline for applying to the regular internship at Tube Products of India?,Not specified in the text
-What is the CTC offered by Kirloskar Oil Engines Ltd for full-time positions?,"10,28,500"
-What is the stipend offered by Kirloskar Oil Engines Ltd for internship opportunities?,"26,400"
-What is the CGPA requirement for applying to Kirloskar Oil Engines Ltd's full-time positions or internships?,60% or 6.0 CGPA
-Which branches are eligible for full-time positions and internships at Kirloskar Oil Engines Ltd?,M.Tech (MECH / ECE/ EEE)
-For which batch is Kirloskar Oil Engines Ltd recruiting full-time positions and internships?,2027 Batch
-Where are the full-time positions and internships at Kirloskar Oil Engines Ltd located?,Pune
-What is the CTC range offered by Aganitha.ai for the Computer Vision Engineer - Biomedical Imaging internship role?,The CTC range offered by Aganitha.ai for the Computer Vision Engineer – Biomedical Imaging internship role is ₹5–10 LPA.
-What is the stipend amount for the Computer Vision Engineer – Biomedical Imaging internship role at Aganitha.ai?,"The stipend amount for the Computer Vision Engineer – Biomedical Imaging internship role at Aganitha.ai is ₹25,000."
-What is the minimum CGPA requirement for the Computer Vision Engineer – Biomedical Imaging internship role at Aganitha.ai?,The minimum CGPA requirement for the Computer Vision Engineer – Biomedical Imaging internship role at Aganitha.ai is 60% or 6.0 CGPA.
-Which branches are eligible for the Computer Vision Engineer – Biomedical Imaging internship role at Aganitha.ai?,M.Tech (CSE / IT) related branches only.
-Where is the location of the Computer Vision Engineer – Biomedical Imaging internship role at Aganitha.ai?,The location for the Computer Vision Engineer – Biomedical Imaging internship role at Aganitha.ai is Hyderabad.
-What is the deadline for registration for the Computer Vision Engineer – Biomedical Imaging internship role at Aganitha.ai?,The last date for Registration for the Computer Vision Engineer – Biomedical Imaging internship role at Aganitha.ai is 09th July 2026 (11.00 am).
-What is the CTC for the Super Dream Internship at Couchbase?,"26,11,466 INR per annum"
-What is the stipend for the Super Dream Internship at Couchbase?,"1,25,000"
-What is the minimum CGPA requirement for the Super Dream Internship at Couchbase?,80% or 8.0 CGPA
-Which branches are eligible for the Super Dream Internship at Couchbase?,"B.Tech (CSE / IT), B.Tech. Electronics and Computer Engineering, B.Tech. Electrical and Computer Science Engineering"
-What is the batch eligible for the Super Dream Internship at Couchbase?,2027 Batch
-Where does the Super Dream Internship at Couchbase take place?,Bangalore
-What is the CGPA requirement for the Dream Core Internship at Kcat Enzymatic Private Limited?,60% or 6.0 CGPA
-Which branches are eligible for the Dream Core Internship at Kcat Enzymatic Private Limited?,"M.Sc., Biotechnology, M.Tech Biotechnology, M.Sc., Data Science (2 Year), M.Sc., Chemistry (2 Years)"
-What is the eligibility batch for the Dream Core Internship at Kcat Enzymatic Private Limited?,2027 Batch
-Where will the Dream Core Internship at Kcat Enzymatic Private Limited be located?,Bangalore
-What is the stipend for the Dream Core Internship at Kcat Enzymatic Private Limited?,"12,000"
-Has the CTC been announced for the Dream Core Internship at Kcat Enzymatic Private Limited?,"No, the CTC is to be announced"
-"What is the CTC offered by Psemi for the intern role, if converted to annual salary?",14 LPA
-What is the stipend amount provided by Psemi for their internships?,40000
-What is the minimum CGPA requirement for applying to Psemi's internships?,60% or 6.0 CGPA
-Which branches are eligible for Psemi's internship opportunities?,M.Tech ECE related branches only
-"Where are the internships at Psemi located, according to this placement drive?",Chennai / Pan India
-What is the CTC offered by AVMI Foods for the Food Technologist internship?,3.6 LPA
-What is the minimum CGPA requirement for the Food Technologist internship at AVMI Foods?,60% or 6.0 CGPA
-Which branches are eligible for the M.Sc Food Science based Food Technologist internship offered by AVMI Foods?,M.Sc Food Science
-What is the stipend range for the Food Technologist internship at AVMI Foods?,"6,000 - 10,000"
-In which location will the Food Technologist internship at AVMI Foods be conducted?,AMALAPURAM ANDHRA PRADESH
-Which batch is eligible for the Food Technologist internship at AVMI Foods?,2027 Batch
-"What is the CTC offered by Innovate Labs for the Regular Internship role, if it gets converted?",3.6 LPA
-What is the stipend provided by Innovate Labs for the Regular Internship role?,20000
-What are the CGPA requirements for applying to the Regular Internship at Innovate Labs?,"75% or 7.5 CGPA in X and XII, 70% or 7.0 CGPA in Pursuing Degree, UG - 70% or 7.0 CGPA"
-Which branches are eligible for the Regular Internship at Innovate Labs?,"M.Tech CSE & Integrated CSE Branches, M.Tech. Automotive Electronics, M.Sc. Artificial Intelligence & Machine Learning, MCA"
-What is the eligible batch for the Regular Internship at Innovate Labs?,2027 Batch
-Where will the Regular Internship at Innovate Labs be located?,Gurugram
-What is the minimum CGPA required for eligibility in Ivanti's Internship program?,Minimum 8.5 CGPA from 10th grade onwards
-Which branches are eligible for Ivanti's Internship program?,"Computer Science, IT, AI/ML, Data Science, Cybersecurity"
-What is the eligibility criterion regarding the batch for Ivanti's Internship program?,2027 passing graduates only
-Where are the locations for Ivanti's Internship program?,Bangalore and Hyderabad
-"Does Ivanti provide a stipend for their Internship program, and if so, what is the amount?","₹35,000 per month"
-What is the CTC for the Forward Deployed Engineer position at Valuelabs LLP for Year 1 and Year 2?,₹22 Lakhs (Year 1) and ₹26 Lakhs (Year 2)
-What is the stipend offered for the Forward Deployed Engineer internship at Valuelabs LLP?,"₹50,000 per month"
-What is the CGPA requirement for the Forward Deployed Engineer position at Valuelabs LLP?,75% or 7.5 CGPA
-Which branches are eligible for the Forward Deployed Engineer position at Valuelabs LLP?,B.Tech/B.E. – CSE/IT/AI/ML/Python
-What is the eligibility batch for the Forward Deployed Engineer position at Valuelabs LLP?,2027 Batch
-Where will the Forward Deployed Engineer internship at Valuelabs LLP be located?,Hyderabad (Work from Office)
-What is the timeline or deadline for the Forward Deployed Engineer internship at Valuelabs LLP?,16th & 17th July 2026
-What is the CTC offered by Varroc Engineering Ltd for the Graduate Engineer Trainee role?,12.5 LPA
-What are the minimum CGPA requirements for applying to the Graduate Engineer Trainee role at Varroc Engineering Ltd?,"In X – 80% or 8.0 CGPA, In XII – 70% or 7.0 CGPA, in Pursuing Degree – 70% or 7.0 CGPA"
-Which branches are eligible for the Graduate Engineer Trainee role at Varroc Engineering Ltd?,"B. Tech - Electronics and Computer Engineering, B. Tech (Electronics & Communication Engg), B.Tech. Electronics and Communication Engineering with specialization in IOT, B. Tech (Mechanical Engg ), B.Tech. Mechanical Engineering  with specialization in Robotics, B.Tech - Mechanical Engineering (with specialization in Electric Vehicles), B. Tech Mechanical Engineering with specialization in Manufacturing Engineering, B.Tech. – Mechatronics and Automation, B.Tech - EEE related branches"
-What is the batch for which applications are being accepted for the Graduate Engineer Trainee role at Varroc Engineering Ltd?,2027 Batch
-Where can candidates apply for the Graduate Engineer Trainee role at Varroc Engineering Ltd?,PAN INDIA
-When is the pre-placement process for the Graduate Engineer Trainee role at Varroc Engineering Ltd?,7th July 2026 (10 AM)
-When will the online test for the Graduate Engineer Trainee role at Varroc Engineering Ltd take place?,8th July 2026 (Respective CDC Labs)
-Where and when will the selection process for the Graduate Engineer Trainee role at Varroc Engineering Ltd take place?,13.07.2026 (Physical at VIT Chennai campus)
-What is the CTC offered for the Forward Deployed Engineer position in Valuelabs LLP for Year 1 and Year 2?,₹22 Lakhs (Year 1) and ₹26 Lakhs (Year 2)
-What is the stipend provided for the Forward Deployed Engineer internship in Valuelabs LLP?,"₹50,000 per month"
-What is the CGPA requirement for the Forward Deployed Engineer position in Valuelabs LLP?,75% or 7.5 CGPA
-Which branches are eligible for the Forward Deployed Engineer position in Valuelabs LLP?,B.Tech/B.E. – CSE/IT/AI/ML/Python
-What is the batch eligible for the Forward Deployed Engineer position in Valuelabs LLP?,2027 Batch
-Where is the location for the Forward Deployed Engineer position in Valuelabs LLP?,Hyderabad (Work from Office)
-What is the timeline or deadline for the Forward Deployed Engineer position in Valuelabs LLP?,16th and 17th July 2026
-What is the CTC offered for the Dream Core Internship at Zetwerk Electronics?,5 LPA + 1L retention bonus (if converted)
-What are the eligible branches for the Dream Core Internship at Zetwerk Electronics?,"M.Tech - Control and Automation, M.Tech - Mechatronics, M.Tech - Power Electronics & Drives, M.Tech - Automotive Electronics, M.Tech - Smart Manufacturing"
-What is the CGPA requirement for the Dream Core Internship at Zetwerk Electronics?,"80% or 8.0 CGPA in X and XII, 70% or 7.0 CGPA in Pursuing Degree"
-What is the stipend for the Dream Core Internship at Zetwerk Electronics?,15000
-Which batches are eligible for the Dream Core Internship at Zetwerk Electronics?,2027 Batch
-Where can one find the Dream Core Internship at Zetwerk Electronics?,"Chennai (Tamil Nadu), Bangalore (Karnataka), Noida (Uttar Pradesh) & Dharuhera (Haryana)"
-What is the offered CTC for the Software Development Engineer Intern role at GROWW in Bengaluru?,"26,00,000 (if converted)"
-What is the stipend per month for the Software Development Engineer Intern role at GROWW?,"1,00,000"
-What is the CGPA requirement for the Software Development Engineer Intern role at GROWW?,80% or 8.0 CGPA
-Which branches are eligible for the Software Development Engineer Intern role at GROWW in Bengaluru?,"B.Tech (CSE, IT & related courses)"
-Which batch is eligible for the Software Development Engineer Intern role at GROWW in Bengaluru?,2027 Batch
-When is the last date for registration for the Software Development Engineer Intern role at GROWW in Bengaluru?,04th July 2026 (9**.00 a**m)
-What is the CGPA requirement for the Top Coder role without any backlogs?,Without backlogs
 Which campuses does the Top Coder program initially operate from?,Vellore campus (initially)
-Are all branches eligible for the Top Coder role?,"Yes, All branches"
 What is the CGPA requirement for the coding test at Topcoder online test?,Any CGPA without backlogs
 Which branches are eligible for the coding test at Topcoder online test held at Vellore campus?,All branches
-What is the CTC range offered by Decode Age for the Data Intelligence Intern / Trainee role?,₹8–10 LPA
-Which branches are eligible for the Data Intelligence Intern / Trainee role at Decode Age?,M.Tech (CSE / IT) related branches only
-What is the CGPA requirement to apply for the Data Intelligence Intern / Trainee role at Decode Age?,60% or 6.0 CGPA
-For which batch is Decode Age offering the Data Intelligence Intern / Trainee role?,2027 Batch
-Where will the Data Intelligence Intern / Trainee role by Decode Age be located?,Pan India
-What is the stipend offered by Project44 for the Intern - Software Engineer role?,"1,35,000 per month"
-Which branches are eligible for the Intern - Software Engineer role at Project44?,"M.Tech/M.Tech Integrated CSE, B.Tech/B.Tech Integrated CSE"
-What is the minimum CGPA requirement for the Intern - Software Engineer role at Project44?,9 CGPA throughout
-Where does the Intern - Software Engineer role at Project44 take place?,Chennai
-What is the CTC offered by AVMI Foods for the Food Technologist Internship?,3.6 LPA
-What is the stipend range for the Food Technologist Internship at AVMI Foods?,"6,000 - 10,000"
-What are the CGPA requirements for the Food Technologist Internship at AVMI Foods?,60% or 6.0 CGPA
-Which branches are eligible for the Food Technologist Internship at AVMI Foods?,M.Sc Food Science
-What is the batch that is eligible for the Food Technologist Internship at AVMI Foods?,2027 Batch
-Where will the Food Technologist Internship at AVMI Foods be located?,AMALAPURAM ANDHRA PRADESH
-When will the deadlines for the Food Technologist Internship at AVMI Foods be announced?,Will be announced later
-What is the CTC offered by ABSYZ for the Application Developer role if converted?,6 LPA
-What is the stipend provided by ABSYZ for the Application Developer internship?,22000 INR
-What is the CGPA requirement for the Application Developer role at ABSYZ?,80% or 8.0 CGPA
-Which branches are eligible for the Application Developer role at ABSYZ?,M. Tech 2 years and 5 year (CSE / IT)
-What is the eligibile batch for the Application Developer internship at ABSYZ?,2027
-Where are the locations for the Application Developer internship at ABSYZ?,Hyderabad & Pan India
-When is the deadline for applying to the Application Developer internship at ABSYZ?,26th June 2026 (11.00 Am)
-What is the CTC offered by ABSYZ for the Application Developer role?,The CTC offered by ABSYZ for the Application Developer role is 6 LPA.
-What is the stipend offered by ABSYZ for the Application Developer role?,"ABSYZ offers a stipend of INR 22,000 for the Application Developer role."
-What is the CGPA requirement to be eligible for the Application Developer role at ABSYZ?,"To be eligible for the Application Developer role at ABSYZ, a candidate should have an 80% or 8.0 CGPA."
-What is the eligibility batch for the Application Developer role at ABSYZ?,The eligible batch for the Application Developer role at ABSYZ is 2027.
-Where are the locations for the Application Developer role at ABSYZ?,The Application Developer role at ABSYZ is available in Hyderabad & Pan India.
-What is the deadline for applying to the Application Developer role at ABSYZ?,"The deadline for applying to the Application Developer role at ABSYZ is 26th June 2026, 10.00 Am."
-What is the type of the Ericsson Online Coding Assessment for the internship?,Internship+PPO
-Is there any specified branch eligible for the Ericsson Online Coding Assessment?,Not specified
-What is the starting CTC for the Software Developer Intern role at Talview?,8 LPA (subject to performance-based conversion)
-What is the stipend offered by Talview for the Software Developer Intern role?,25000
-What is the minimum CGPA requirement for the Software Developer Intern role at Talview?,60% or 6.0 CGPA
-Which branches are eligible for the Software Developer Intern role at Talview?,M. Tech 2 year & 5 year (CSE / IT) related branches
-For which batch is the Software Developer Intern position at Talview intended?,2027 Batch
-Where is the Software Developer Intern role at Talview located?,"HSR Layout, Bangalore (In Office)"
-What is the CTC offered by Aumovio for their internship role if converted?,7 LPA
-What is the stipend provided by Aumovio for their internship role?,30000
-What is the CGPA requirement to be eligible for Aumovio's internship role?,65% or 6.5 CGPA
-Which branches are eligible for Aumovio's internship role?,M.Tech Mechanical related branches only
-To which batch is Aumovio's internship open?,2027 Batch
-Where does Aumovio offer their internship role?,Bangalore
-What is the deadline for registration for Aumovio's internship?,24th June 2026 (10.00 AM )
-What is the CTC offered by Clayfin for the Regular Internship role?,4 LPA
-What is the stipend offered by Clayfin for the Regular Internship role?,"20,000"
-What is the CGPA requirement for the Clayfin Regular Internship role?,60% or 6.0 CGPA
-Which branches are eligible for the Clayfin Regular Internship?,"M. Tech (CSE / IT), MCA"
-What is the eligibile batch for the Clayfin Regular Internship in Chennai?,2027
-Where does the Clayfin Regular Internship take place?,Chennai
-When is the deadline for applying to the Clayfin Regular Internship?,24th June 2026 (2.00 pm)
-What is the CTC for the Regular Internship role at Credence Automation and Control Systems Pvt. Ltd?,3 LPA
-What is the stipend offered for the Regular Internship role at Credence Automation and Control Systems Pvt. Ltd?,15000
-What is the minimum CGPA requirement for the Regular Internship role at Credence Automation and Control Systems Pvt. Ltd?,60% or 6.0 CGPA
-Which branches are eligible for the Regular Internship role at Credence Automation and Control Systems Pvt. Ltd?,"M.Tech 5 Year Integrated – Software Engineering, M.Tech 5 Year Integrated – Computer Science Engineering, M.Tech 5 Year Integrated Computer Science & Engineering – Computational and Data Science, M.Tech 5 Year Integrated AI, M.Tech CSE – Specialization in Artificial Intelligence & Data Science, MCA, M.Tech VLSI Design, M.Tech Embedded Systems, M.Tech Power Electronics and Drives, M.Tech Control and Automation, M.Tech CAD/CAM, M.Tech Mechatronics, M.Tech Smart Manufacturing"
-What is the batch eligible for the Regular Internship role at Credence Automation and Control Systems Pvt. Ltd?,2027 Batch
-Where is the Regular Internship role at Credence Automation and Control Systems Pvt. Ltd located?,Pune
-What is the deadline for applying to the Regular Internship role at Credence Automation and Control Systems Pvt. Ltd?,24-06-2026 (10:00 AM)
-What is the CTC offered by WarpDrive for the Prompt Engineer Intern role?,Not specified
-"What is the stipend offered by WarpDrive for the Full Stack Developer Intern, Graphic Design Intern, Salesforce Developer Intern, and BA Intern roles?",9500
-What is the stipend offered by WarpDrive for the Prompt Engineer Intern role?,25000
-What is the CGPA requirement for interns at WarpDrive?,60% or 6.0 CGPA
-Which branches are eligible for internships at WarpDrive?,"Integrated M.Tech 2yrs and 5 Years (CSE / IT) related branches, MCA"
-What is the eligibility batch for interns at WarpDrive?,2027
-Where can I find WarpDrive internships in 2027?,"Bangalore, Madurai or Trichy"
-When is the deadline for applying to WarpDrive internships in 2027?,23rd June 2026 (04.00 PM)
-What is the stipend offered for the Hindustan Unilever Limited STEM Internship?,"Rs 40,000 per month (PG Courses)"
-Which cities are the locations for the Hindustan Unilever Limited STEM Internship?,Mumbai or Bangalore
-What is the minimum CGPA requirement for applying to the Hindustan Unilever Limited STEM Internship?,7.5 and above
-What is the CTC for the Regular Internship at Tube Products of India?,The CTC for the Regular Internship at Tube Products of India will be announced later.
-What is the stipend offered for the Regular Internship at Tube Products of India?,"10,000"
-What is the CGPA requirement for the Regular Internship at Tube Products of India?,60% or 6.0 CGPA
-Which branches are eligible for the Regular Internship at Tube Products of India?,MCA
-What is the batch eligible for the Regular Internship at Tube Products of India?,2027 Batch
-Where is the location of the Regular Internship at Tube Products of India?,Chennai
-When are the timeline or deadlines for the Regular Internship at Tube Products of India announced?,Will be announced later
-What is the CTC for the Dream Core Internship - Indoor Environment Quality Intern role at Blue Star Limited?,The CTC for this role will be announced later.
-What is the stipend offered for the Dream Core Internship - Indoor Environment Quality Intern role at Blue Star Limited?,"The stipend for this role is 15,000 INR."
-What is the minimum CGPA requirement for applying to the Dream Core Internship - Indoor Environment Quality Intern role at Blue Star Limited?,The CGPA requirement is 65% or 6.5 CGPA.
-Which branches are eligible for the Dream Core Internship - Indoor Environment Quality Intern role at Blue Star Limited?,M.Tech & M.Sc Life Science related courses are eligible.
-What is the batch eligible for the Dream Core Internship - Indoor Environment Quality Intern role at Blue Star Limited?,The eligible batch is the 2027 Batch.
-Where will the Dream Core Internship - Indoor Environment Quality Intern role take place at Blue Star Limited?,"The location for this role is Thane, Maharashtra."
-When is the deadline for applying to the Dream Core Internship - Indoor Environment Quality Intern role at Blue Star Limited?,The timeline or deadline will be announced later.
-What is the CTC offered by JW Consultants LLP for the Structural Design Engineer Internship role if it is converted?,4.55 L/ p.a.
-What is the stipend provided by JW Consultants LLP for the Structural Design Engineer Internship role?,10000
-What is the CGPA requirement for the Structural Design Engineer Internship role at JW Consultants LLP?,60% or 6.0 CGPA
-Which branches are eligible for the Structural Design Engineer Internship role at JW Consultants LLP?,All M.Tech Civil branches
-What is the batch eligible for the Structural Design Engineer Internship role at JW Consultants LLP?,2027 Batch
-Where will the Structural Design Engineer Internship role at JW Consultants LLP be located?,Pune
-When is the deadline for applying to the Structural Design Engineer Internship role at JW Consultants LLP?,19-06-2025  08:00Am
-What is the stipend offered by Bazaarvoice for the internship role in India?,<10 LPA
-In which locations in India is Bazaarvoice offering internships?,The location is not specified in the provided text.
-What is the CTC for the Software Development Intern role at Datagrokr?,6 LPA
-What is the stipend offered by Datagrokr for the Software Development Intern role?,20000
-What is the CGPA requirement for the Software Development Intern role at Datagrokr?,80% or 8.0 CGPA
-Which branches are eligible for the Software Development Intern role at Datagrokr?,"M. Tech (Software Engineering (5 Year Integrated Programme), M.Sc. Artificial Intelligence & Machine Learning - 2 Year, MCA, M. Tech (Computer Science & Engg), M. Tech CSE (with Big Data Analytics), M. Tech (CSE with Specialization in Artificial Intelligence and Machine Learning), M. Tech (CSE with Specialization in Artificial Intelligence and Data Science), M. Tech 5 year Integrated - (computer science Engineering), M.Tech 5 year Integrated- (Computer science Engineering with data science), M. Tech 5 year Integrated - (CSE in Artificial Intelligence and Machine Learning)}"
-Which batch is eligible for the Software Development Intern role at Datagrokr?,2027
-Where is the location of the Software Development Intern role at Datagrokr?,Bangalore
-What is the timeline or deadline for the Software Development Intern role at Datagrokr?,August 2026 - December 2026
-What is the CTC for the Student Interns (Software Development) role at Ericsson?,The CTC will be announced later.
-What is the stipend offered for the Student Interns (Software Development) role at Ericsson?,35000
-What is the CGPA requirement for the Student Interns (Software Development) role at Ericsson?,"75% or 7.5 CGPA in X and XII, 80% or 8.0 CGPA in Pursuing Degree, UG (for PGs) – 80% or 8.0 CGPA"
-Which branches are eligible for the Student Interns (Software Development) role at Ericsson?,M. Tech 2 year & 5 year (CSE / IT / EEE/ECE ) related branches only
-What is the eligible batch for the Student Interns (Software Development) role at Ericsson?,2027
-Where are the positions for the Student Interns (Software Development) role at Ericsson located?,Bangalore & Chennai
-When will the timeline or deadline be announced for the Student Interns (Software Development) role at Ericsson?,Will be announced later.
-What is the CTC range for the Dream Internship offered by Green Tiger Mobility?,4 LPA to 8 LPA (full-time conversion)
-What is the monthly stipend for the Dream Internship at Green Tiger Mobility?,"₹15,000 – ₹20,000 per month"
-What is the minimum CGPA requirement for the Dream Internship offered by Green Tiger Mobility?,60% or 6CGPA
-Which branches are eligible for the Dream Internship at Green Tiger Mobility?,"All M.Tech cse branches, All M.Tech ece branches, All M.Tech mechanical branches, All M.Tech Electrical branches"
-What is the eligibility batch for the Dream Internship offered by Green Tiger Mobility?,2027 Batch
-Where will the Dream Internship at Green Tiger Mobility be located?,"Bommanahalli, Bengaluru"
-When is the deadline for applying to the Dream Internship offered by Green Tiger Mobility?,Before 18-06-2026 8.00am
-What is the CTC range for Ziptrrip's Regular Internship role in INR?,4.2 LPA to 5.5 LPA
-What is the stipend offered by Ziptrrip for their Regular Internship role?,15000 INR
-What is the CGPA requirement for Ziptrrip's Regular Internship role?,60% or 6.0 CGPA
-Which branches are eligible for Ziptrrip's Regular Internship in M.Tech?,M.Tech 2 yrs & M.Tech 5 yrs Integrated (CSE/IT) related branches
-Where is Ziptrrip offering their Regular Internship role?,Bengaluru
-When are the deadlines for applying to Ziptrip's Regular Internship announced?,Will be announced later
-What is the CTC offered by Power School Dream for the internship role?,The CTC offered by Power School Dream for the internship role is less than 6 LPA.
-To which batch is the Power School Dream internship open for?,The Power School Dream internship is open for the batch of 2027.
-What is the stipend offered by Rubrik for the Offensive Security Intern role?,"1,50,000"
-What are the eligible branches for the Offensive Security Intern role at Rubrik?,"M. Tech (CSE specialization in Cyber Security and Digital Forensics), M.Tech Integrated CSE (Cyber Security), M. Tech. Computer Science and Engineering (Cyber Security) - 2 Year"
-What is the minimum CGPA requirement for the Offensive Security Intern role at Rubrik?,9 & above
-Which batch is eligible for the Offensive Security Intern role at Rubrik?,2027
-Where is the Offensive Security Intern role located at Rubrik?,Bangalore Office
-What are the locations for the placement drive by Bazaarvoice?,"VIT Vellore campus, VIT Chennai, VIT AP, VIT Bhopal"
-Is there a specified deadline for the Bazaarvoice placement drive?,The provided information does not mention a specific deadline.
-What is the CTC range for the Regular Internship role at Ziptrrip?,4.2 LPA to 5.5 LPA
-What is the stipend offered by Ziptrrip for the Regular Internship role?,15000
-What is the CGPA requirement for the Regular Internship at Ziptrrip?,60% or 6.0 CGPA
-Which branches are eligible for the Regular Internship role at Ziptrrip?,M.Tech 2 yrs & M.Tech 5 yrs Integrated (CSE/IT) related branches
-Where is the location of the Regular Internship role offered by Ziptrrip?,Bengaluru
-What is the CTC range for the Dream Internship offered by Ziptrrip in INR per annum?,4.2 LPA to 5.5 LPA
-What is the stipend offered by Ziptrrip for the Dream Internship?,15000 INR
-What is the minimum CGPA requirement to be eligible for the Dream Internship at Ziptrrip?,60% or 6.0 CGPA
-Which branches are eligible for the Dream Internship offered by Ziptrrip?,M.Tech 2 yrs & M.Tech 5 yrs Integrated (CSE/IT) related branches
-Where is the location of the Dream Internship provided by Ziptrrip?,Bengaluru
-When is the deadline for applying to the Dream Internship at Ziptrrip?,Will be announced later
-"What is the CTC offered by MatreComm Technologies for the Dream Internship role, if converted to annual salary?",8 LPA
-What is the stipend provided by MatreComm Technologies for the Dream Internship role?,25000
-What is the CGPA requirement for eligibility in the Dream Internship at MatreComm Technologies?,60% or 6.0 CGPA
-Which branches are eligible for the Dream Internship role at MatreComm Technologies?,M.Tech 2 yrs & M.Tech 5 yrs Integrated (CSE/IT) related branches.
-What is the location of the Dream Internship role offered by MatreComm Technologies?,Bengaluru
-Is there any specific batch eligible for the Dream Internship at MatreComm Technologies?,Not specified
-When will the timeline or deadline for the Dream Internship at MatreComm Technologies be announced?,Will be announced later
-What is the type of internship offered by Murf.ai?,Internship+PPO
-Which branches are eligible for the Murf.ai Online Coding Test & Interview?,Engineering
-Where will the Murf.ai internship take place?,VIT Vellore campus
-When is the deadline for the Murf.ai Online Coding Test & Interview?,11th June 2026
-What is the deadline for applying for the PPT & online test at Bazaarvoice for the VIT Vellore campus?,15th June 2026
-Which campuses are included in the Bazaarvoice placement drive for the PPT & online test?,"VIT Vellore, VIT Chennai, VIT AP, VIT Bhopal"
-What is the stipend offered for the Flender internship role?,20000
-What is the CTC offered by Flender if the internship is converted to a full-time position?,9 Lacs + Benefits
-What is the minimum CGPA requirement for the Flender internship role?,60% or 6.0 CGPA
-Which branches are eligible for the Flender internship role?,M. Tech (MECH) related branches only
-What is the batch that is eligible for the Flender internship in 2027?,2027 Batch
-Where is the Flender internship located?,Chennai
-What is the CGPA requirement for the AI Developer Intern role at Pharmnova Medical Research Private Limited?,"60% or 6.0 CGPA in X and XII, 80% or 8.0 CGPA in Pursuing Degree, 760% or 6.0 CGPA in UG (for PGs)"
-Which branches are eligible for the AI Developer Intern and Cloud Infrastructure-Intern roles at Pharmnova Medical Research Private Limited?,"M.Tech CSE with AIML & Business Statistics, MSc AIML, MSc Business Statistics"
-What is the eligibility batch for the internships at Pharmnova Medical Research Private Limited?,2027
-Where will the internships offered by Pharmnova Medical Research Private Limited be located?,Chennai
-"Does Pharmnova Medical Research Private Limited provide a stipend for their internship roles? If so, what is the amount?","Yes, INR 20,000"
-Is the CTC details available for the AI Developer Intern and Cloud Infrastructure-Intern roles at Pharmnova Medical Research Private Limited?,TBD
-"What is the CTC offered by Creative Cyber for the Regular Internship role, if converted?",4 LPA
-What is the stipend provided by Creative Cyber for the Regular Internship role?,20000
-What is the CGPA requirement for the Regular Internship role at Creative Cyber?,65% or 6.5 CGPA
-Which branches are eligible for the Regular Internship role at Creative Cyber?,M. Tech. Computer Science and Engineering (Cyber Security)
-Where is the location of the Regular Internship role offered by Creative Cyber?,Chennai
-What is the deadline for applying to the Regular Internship role at Creative Cyber?,09th June 2026 (03.00 pm)
-What is the CTC offered by CloudSEK for the Super Dream Internship in rupees per annum?,12 LPA (If converted)
-What is the stipend offered by CloudSEK for the Super Dream Internship including relocation expenses?,35000+10000
-What is the minimum CGPA requirement for the Super Dream Internship at CloudSEK?,60% or 6.0 CGPA
-Which branches are eligible for the Super Dream Internship at CloudSEK?,All Integrated M.Tech 2yrs and 5 Years (CSE / IT) related branches only
-What is the batch to which the Super Dream Internship at CloudSEK pertains?,2027 Batch
-Where will the Super Dream Internship at CloudSEK be located?,"Halasuru, Bengaluru"
-When is the deadline for applying to the Super Dream Internship at CloudSEK?,09th June 2026 (02.00 PM)
-What is the stipend offered for the Dream Core Internship at Molecular Connections Pvt Ltd?,"16,000"
-Which branches are eligible for the Dream Core Internship at Molecular Connections Pvt Ltd?,M.Sc. integrated Biotechnology
-What is the CGPA requirement for the Dream Core Internship at Molecular Connections Pvt Ltd?,65% or 6.5 CGPA
-Where does the Dream Core Internship at Molecular Connections Pvt Ltd take place?,Bangalore
-What is the stipend offered by Ninestar Information Technologies for the Dream Internship role?,35000
-What is the CGPA requirement for the Dream Internship role at Ninestar Information Technologies?,70% or 7.0 CGPA
-Which branches are eligible for the Dream Internship at Ninestar Information Technologies?,M.Tech 2 yrs & M.Tech 5 yrs Integrated (CSE/IT) related branches.
-Where is the location of the Dream Internship offered by Ninestar Information Technologies?,Bengaluru
-What is the stipend offered by Wabtec for the Intern Engineering role?,35000
-Which branches are eligible for the Intern Engineering role in Wabtec?,All M.TECH (EEE) Related Branches
-What is the minimum CGPA requirement for the Intern Engineering role at Wabtec?,"60% or 6.0 CGPA in X and XII, 80% or 8.0 CGPA in Pursuing Degree and UG (for PGs)"
-For which batch is the Intern Engineering role at Wabtec intended?,2027
-Where will the Intern Engineering role in Wabtec be located?,Bangalore
-When will the timeline or deadline for the Intern Engineering role at Wabtec be announced?,Will be informed later
-What is the Cost to Company (CTC) offered by Wabtec for the Intern Engineering role?,Will be announced later
-What is the location of the regular internship at Turbo Energy Private Limited for the batch of 2027?,India
-What type of internship is offered by Turbo Energy Private Limited for the batch of 2027?,Regular internship
-What is the CTC for the internship at Murf.ai in INR per annum?,11 LPA
-What is the stipend offered by Murf.ai for their internship role?,40000 INR
-What is the minimum CGPA requirement to be eligible for the internship at Murf.ai?,7.5 and above
-Which branches are eligible for the internship at Murf.ai?,Integrated M.Tech 5 Years (CSE / IT) related branches only
-Where is the internship at Murf.ai located?,Bangalore
-When is the deadline for applying to the internship at Murf.ai?,05th June 2026 (10.00 am)
-"What is the CTC offered by Whirlpool for the Intern role, if converted to annual salary?",12 LPA
-What is the stipend provided by Whirlpool for the Intern role?,"35,000"
-What is the minimum CGPA requirement for the Intern role at Whirlpool?,70% or 7.0 CGPA
-Which branches are eligible for the Internship role at Whirlpool in Pune?,"M. Tech Mechatronics, M. Tech Applied Computational Fluid Dynamics, M. Tech Smart Mobility, M.Tech ( Smart Manufacturing), M. Tech (CAD/CAM)"
-When is the deadline for applying to the Internship role at Whirlpool in Pune?,05th June 2026 (9.00 am)
-"What is the CTC offered by Unthinkable Solutions for the internship role, if converted?",6 LPA
-"How much stipend does Unthinkable Solutions provide for their internship, and for how long?",The stipend is 25K per month for the first three months and 30K per month for the next three months.
-What is the minimum CGPA requirement for the Unthinkable Solutions internship?,60% or 6.0 CGPA
-Which branches are eligible for the Unthinkable Solutions internship?,MCA
-For which batch is the Unthinkable Solutions internship intended?,2027
-Where does the Unthinkable Solutions internship take place?,Pan India
-What is the CTC offered by Ford for the internship role in IT related domain?,The exact CTC for the internship role at Ford in the IT related domain is not provided in the text.
-When is the application deadline for Ford's IT internship?,The application deadline for Ford's IT internship is not specified in the provided text.
-What is the location of PowerSchool Dream's internship for the batch of 2027?,The location for PowerSchool Dream's internship for the batch of 2027 is not specified.
-What is the timeline or deadline for applying to PowerSchool Dream's internship for the batch of 2027?,The timeline or deadline for applying to PowerSchool Dream's internship for the batch of 2027 is not specified.
-"What is the CTC offered by PowerSchool for their internship role, in Indian Rupees per annum?",7.5 LPA
-What is the deadline for applying to PowerSchool's internship program in Bangalore?,3rd May 2026 (5.30 pm)
-What CGPA requirement does PowerSchool have for their internship program?,70% or 7.0 CGPA
-What branches are eligible for the internship role at PowerSchool in Bangalore?,"M. Tech (5 Year Integrated Programme) all branches, M. Tech (Computer Science & Engg) related branches"
-"Does PowerSchool offer a stipend for their internship program? If so, what is the amount?",25000
-What is the CGPA requirement for the Dream Core Internship at APIC?,60% or 6.0 CGPA
-Which branches are eligible for the Dream Core Internship at APIC?,"M.Tech & M.Sc BioTechnology & related courses, M.Sc Food Technology"
-For which batch is the Dream Core Internship at APIC open?,2027 Batch
 What was the total amount disbursed for the VITEEE Scholarship given under the “GV School Development Programme”?,"3,14,27,500 INR"
 How many female students received the UG Science & Humanities Scholarship under the “GV School Development Programme”?,253
 What was the total number of students who received the Smt. Rajeswari Viswanathan Memorial Scholarship?,261
@@ -2721,7 +1826,6 @@ Can a student receive a study break for an accident?,"Yes. A temporary break of 
 "If a public/sectional holiday (e.g. Bakrid, Muharram) falls during an instructional week, and a student avails it as a holiday, what must they submit to account for the resulting attendance gap?","If the sectional holiday is declared as an instructional day and the student avails it, they must submit a request to the HoD Chair through their Proctor for consideration of attendance."
 "Does the arrear (backlog) exam registration deadline coincide with the regular semester's course registration deadline, or is it a separate cycle?","Registration for backlog courses takes place during the weekend or summer semester, each of which follows a separate registration timeline that does not overlap with the regular semester registration cycle."
 "What is the maximum grace period allowed for late course registration after the semester has commenced, and what approval is needed?","Maximum 10 calendar days from the commencement of the semester, with approval of the School Dean concerned and payment of a late registration fee."
-"If a student misses the CAT-I exam due to a scheduled internship abroad, what prior approval must they secure to become eligible for a Re-CAT?",A student who misses CAT-I due to a scheduled internship abroad must secure prior permission from the School Dean before availing the internship in order to become eligible for a Re-CAT.
 "Does the Add/Drop window and the Course Withdrawal window fall in the same period of the semester, or are they scheduled separately?","Separately - Add/Drop occurs during the first 3 instructional days of the semester, while Course Withdrawal opens later, after CAT-I marks are finalized (also a 3-instructional-day window)."
 "If a student withdraws from a course during the Course Withdrawal window, is the withdrawal fee refunded?","No. if a registered additional/re-registered course is withdrawn, no refund is made."
 "For students at their graduating year, does the minimum credit withdrawal limit of 16 credits still apply during Course Withdrawal?",No. final years and timed-out students are exempted from the minimum withdrawal credit limit.
@@ -2809,7 +1913,6 @@ What is the minimum laboratory hours per credit specified in the academic calend
 Does VIT observe a distinct exam schedule for PG (M.Tech/M.Sc) programmes versus UG programmes?,Yes. Exam schedules are subject to specific courses and schools.
 What is the standard format in which academic calendar circulars are numbered (e.g. VITCC/ACAD/...)?,Academic calendar circulars are numbered in a format such as VITCC/ACAD/2025-2026/27.
 "What is the minimum attendance percentage required to be eligible to write the FAT, and which students are exempt from this requirement?",75% minimum attendance is required. Students with CGPA â¥ 9.00 and no current backlog are exempt from the minimum attendance requirement (except during summer/weekend intra semesters).
-"If a student's CGPA drops below 9.00 after previously qualifying for the attendance exemption, at what point does the minimum attendance requirement get reapplied to them?","The exemption is reassessed dynamically at the time of preparing the debarred list for each exam component (CAT/FAT); if CGPA falls below 9.00 by then, the minimum attendance requirement applies again, with no retrospective effect on earlier decisions."
 What is the difference in consequence between a student being awarded an 'F' grade versus an 'N' grade in a course?,"'F' grade means the student failed due to poor performance despite completing all components; 'N' grade means one or more components weren't cleared, or the student was debarred/absent/involved in malpractice. Both require re-registration to clear, but they arise from different circumstances."
 "Under what specific medical circumstances can a student apply for a Re-FAT, and within how many calendar days of the FAT must they apply?","For hospitalization (in-patient treatment) exceeding one week, or death of a family member, applying to the Vice Chancellor through the School Dean, HoD, and Proctor with medical certification, within 14 calendar days after FAT completion."
 "If a student fails to appear for a scheduled Re-FAT for any reason, including medical, what grade do they retain and what must they do next?","They retain the 'N' grade already awarded, with no second chance to write the FAT â they must register the course again in a subsequent semester."
@@ -3138,7 +2241,6 @@ Which students are eligible for the Fall WEI Semester 2026-27 under the 3-year U
 Which batches are eligible for the Fall WEI Semester 2026-27 under the 5-year M.Tech (Integrated) programme?,"Students who are timed out, plus the 2022, 2023, and 2024 batches."
 What is the minimum attendance requirement to appear for exams in the Fall WEI Semester 2026-27?,"75% attendance is mandatory to appear for Mid Term Tests and Final Assessment Tests, although 100% attendance is expected overall with relaxation for genuine reasons."
 Who announces the FAT (Final Assessment Test) schedule for a given semester at VIT?,The Controller of Examinations (CoE) announces the FAT schedule at the appropriate time for both the regular Fall and Fall WEI semesters.
-"Which courses does the SCOPE Fall 2026-27 Project Calendar cover, and who is it applicable to?","BCSE497J (Project I), applicable to BAI, BCB, BCE, BCI, BCT, BDS, and BKT branches; and MACSE698 (Internship I / Dissertation I), applicable to MCS, MAI, MML, and Inline programmes."
 What is the deadline for submitting guide details for the Fall 2026-27 project courses?,"On or before 7 April 2026, before 8:00 pm, covering batch formation, guide selection, and Google form submission."
 How many peer meetings are minimally required during the Project Progress Meetings phase?,"A minimum of 5 online meetings among peers is required during the Project Progress Meetings phase, alongside meetings with the guide based on availability."
 During which period do Project Progress Meetings for the Fall 2026-27 project courses take place?,"Project Progress Meetings for the Fall 2026-27 project courses take place from 11 May 2026 to 5 July 2026, during the summer holidays."
@@ -3223,3 +2325,26 @@ How strict is the hostel disciplinary system compared to a typical college?,"VIT
 can I have guests or family visit me in the hostel?,"Bringing a Day Scholar, Day Boarder, or non-VITian into the hostel is penalized (Rs. 5,000/- first offence, escalating to a semester's suspension on repetition), so casual guest visits are restricted; specific visiting-hour policies for family are NOT FOUND in the sources gathered â verify manually with VIT hostel administration."
 "Will I be allowed to keep appliances like a kettle, iron, or heater in my VIT hostel room?","Possession or use of electrical appliances in the hostel room is subject to a Rs. 500/- fine plus confiscation, so such appliances are effectively restricted."
 What happens in the hostel if I'm caught with alcohol even just once?,"Suspension for One Year from the Institute for bringing/possessing alcohol on campus (even empty bottles) or drinking on campus, escalating to Two Years on repetition."
+What is the minimum attendance percentage a VIT student must maintain in each course to be eligible to write CAT/FAT exams?,"75% attendance (i.e., a student may be absent for at most 25% of instructional hours) in each course; falling below this makes the student 'debarred' from writing that exam component."
+"Which students are exempt from the minimum attendance requirement at VIT, and under what condition is this exemption withdrawn?","Students with a CGPA of 9.00 or above and no current backlog courses are exempt from the minimum attendance requirement. If their CGPA later falls below 9.00, they become subject to the minimum attendance requirement again."
+Does the 9.0-CGPA attendance exemption apply during VIT's summer or weekend intra semester?,"No. Because of the short duration of the summer/weekend intra semester, the attendance exemption for 9.0-CGPA students is not extended to those semesters."
+"What grade is awarded to a VIT student who is debarred from writing the FAT due to insufficient attendance, and what must they do to clear the course?",They are awarded an 'N' grade and must re-register the course in a subsequent semester and clear it with a performance grade.
+"Under VIT's Absolute Grading scale, what mark range corresponds to an 'S' grade and what range corresponds to an 'F' grade?","'S' grade requires marks of 90 or above (out of 100), while 'F' grade is any mark below 50."
+When does VIT apply Relative Grading versus Absolute Grading to a theory course?,"Relative Grading is applied to theory components of courses with a class strength greater than 10. If the class strength is 10 or fewer, Absolute Grading is used instead. Laboratory, soft-skills, extracurricular, NGCR, and project courses always use Absolute Grading regardless of class strength."
+"In VIT's Relative Grading formula, what total-marks condition (relative to the class mean and standard deviation) earns a student an 'S' grade?","Total marks must be at least (Mean + 1.5σ), with a minimum of 90% of total marks required."
+What weightage split does VIT use between Continuous Assessment and the Final Assessment Test (FAT) for a laboratory-only course?,60% weightage for continuous assessment (based on performance in each experiment) and 40% for the FAT.
+"At VIT, what happens if a re-evaluated CAT/FAT answer script shows more than a 5% deviation from the original marks?","The script is evaluated again by a different examiner, and the best of the three resulting marks (original, first re-evaluation, second re-evaluation) is used for grading."
+"Is there a provision at VIT for re-evaluation of Lab/Practical exams, Soft Skills, or Project viva-voce components?","No — VIT's regulations explicitly state there is no provision for re-evaluation of Lab/Practical exams, Soft Skills courses, Student Project viva voce exams, Seminar/Design/Mini-project courses, or 'project'-type exam components."
+"What penalty does a VIT student face if they are caught committing academic malpractice during a CAT, versus during the FAT?","Malpractice during a CAT results in zero marks in all subjects registered for that semester's corresponding CAT. Malpractice during the FAT results in an 'N' grade in all regular courses the student was eligible for and attended the FAT of, in that semester."
+"If a VIT student's CGPA falls below 4.00, how many credits are they allowed to register for in subsequent semesters?","A maximum of 16 credits per semester, until their CGPA rises above 4.00."
+"What minimum CGPA does a VIT B.Tech student need to register for an Audit course, and how many audit courses can they take across their whole programme?","A CGPA of at least 8.0 at the time of registration. B.Tech, M.Tech (SE), and 5-year Integrated M.Sc. students may register a maximum of two audit courses across their entire programme; students in other programmes may register only one."
+"What grade appears on a VIT Consolidated Grade Sheet for a successfully completed Audit course, and are audit courses counted toward CGPA?","A 'U' grade is shown for a successfully completed audit course, and since it carries no grade points, it is not counted toward GPA or CGPA calculations."
+"How many times can a VIT student register for 'Grade Improvement' in the same course, and is there an extra fee?","A student can avail the Grade Improvement option only once for a given course, and only one Grade Improvement course can be registered per semester (graduating-year or timed-out students are permitted more than one). An extra fee is charged for re-registering the course."
+"When a VIT student transfers programmes internally after their first year, are the credits earned under the old programme counted toward their new CGPA?","Yes — since the credit transfer happens within the same University, the performance grades earned are carried over to the new curriculum and are counted toward the student's GPA/CGPA."
+"How is a VIT course code structured, according to the Academic Regulations?","Each course code is eight alphanumeric characters: four alphabets (reflecting the discipline) followed by three digits (the first digit indicates cognitive level, the rest a running serial number) and one final alphabet."
+"How many lecture hours does one theory credit correspond to at VIT, and how many hours does one lab credit correspond to?","One credit requires 15 lecture hours for theory (also 15 hours for tutorial), and a minimum of 30 hours of laboratory work per credit."
+"For a senior student in VIT Vellore's Men's Hostel (2025-26), what is the admission fee and caution deposit, regardless of room type?","A non-refundable admission fee of ₹15,000 and a refundable caution deposit of ₹15,000, in addition to the room & mess fee for the chosen room type."
+"In VIT Vellore's Men's Hostel senior fee structure (2025-26), how much more does a '6 AC & Special Mess' room cost in total compared to a '6 NAC & Veg Mess' room?","₹188,200 total for 6 AC & Special Mess versus ₹142,400 total for 6 NAC & Veg Mess — a difference of ₹45,800."
+What is the penalty at VIT for a first-time offense of entering the campus/hostel gate without an ID card?,A penalty of Rs.100/- for the first time; repetition attracts a penalty of Rs.1000.
+What combined penalty applies at VIT for a first-time smoking offense inside the hostel?,"A fine of Rs.1000, plus cancellation of Shopping and Outing privileges for 3 months, plus mandatory Community Service (participation in an Anti-Smoking Campaign) and counseling."
+What is the penalty at VIT for giving false information during an enquiry into misconduct?,"A penalty of Rs.3,000/-."

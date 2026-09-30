@@ -1,0 +1,9 @@
+flask
+scikit-learn
+
+# Only needed for CHATBOT_BACKEND=lora (the fine-tuned model):
+# torch
+# transformers
+# peft
+# bitsandbytes
+# accelerate

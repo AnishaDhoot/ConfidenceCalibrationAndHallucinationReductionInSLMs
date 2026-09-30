@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "chatbot-site",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["chatbot_site/app.py"],
+      "port": 5000
+    }
+  ]
+}

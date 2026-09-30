@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}VIT Q&amp;A Demo{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <div class="notice-bar" role="note">
+    Student project &mdash; an independent demo inspired by the VIT website. Not affiliated with or endorsed by VIT.
+  </div>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="{{ url_for('home') }}" aria-label="Home">
+        <span class="brand-mark" aria-hidden="true">VIT</span>
+        <span class="brand-text">
+          <strong>Vellore Institute of Technology</strong>
+          <small>Curriculum &amp; Campus Q&amp;A demo</small>
+        </span>
+      </a>
+      <nav class="main-nav" aria-label="Main">
+        <a href="{{ url_for('home') }}" {% if page == 'home' %}aria-current="page"{% endif %}>Home</a>
+        <a href="{{ url_for('academics') }}" {% if page == 'academics' %}aria-current="page"{% endif %}>Academics</a>
+        <a href="{{ url_for('campus_life') }}" {% if page == 'campus' %}aria-current="page"{% endif %}>Campus Life</a>
+        <button type="button" class="btn btn-gold" data-open-chat>Ask VIT</button>
+      </nav>
+    </div>
+  </header>
+
+  <main id="content">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div>
+        <h3>About this demo</h3>
+        <p>A course project on reducing hallucination with confidence calibration. The assistant answers questions about VIT programmes, regulations and campus life from public VIT documents, and abstains when it is not sure.</p>
+      </div>
+      <div>
+        <h3>Explore</h3>
+        <ul>
+          <li><a href="{{ url_for('academics') }}">Programmes &amp; curriculum</a></li>
+          <li><a href="{{ url_for('academics') }}#regulations">Academic regulations</a></li>
+          <li><a href="{{ url_for('campus_life') }}#hostels">Hostels</a></li>
+          <li><a href="{{ url_for('campus_life') }}#clubs">Clubs &amp; fests</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Please note</h3>
+        <p>Answers can be wrong or out of date. For anything that matters &mdash; fees, dates, eligibility &mdash; confirm on the official site, <a href="https://vit.ac.in" rel="noopener" target="_blank">vit.ac.in</a>.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Chat widget -->
+  <button type="button" class="chat-fab" data-open-chat aria-label="Open the VIT assistant">
+    <svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true"><path fill="currentColor" d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z"/></svg>
+    <span>Ask VIT</span>
+  </button>
+
+  <section class="chat-panel" id="chat-panel" role="dialog" aria-modal="false" aria-labelledby="chat-title" hidden>
+    <header class="chat-head">
+      <div>
+        <h2 id="chat-title">VIT Assistant</h2>
+        <span class="chat-backend" title="Which engine produced the answers">{{ backend_label }}</span>
+      </div>
+      <button type="button" class="chat-close" data-close-chat aria-label="Close chat">&times;</button>
+    </header>
+
+    <div class="chat-log" id="chat-log" aria-live="polite">
+      <div class="msg bot">
+        <div class="bubble">Hi! Ask me about VIT programmes, course credits, academic rules, hostels or clubs. If I am not sure, I will say so rather than guess.</div>
+      </div>
+    </div>
+
+    <div class="chat-suggest" id="chat-suggest">
+      <button type="button" data-ask="What is the minimum attendance required to write CAT and FAT exams?">Attendance rule</button>
+      <button type="button" data-ask="What is the total credit requirement for the M.Sc. Biotechnology (MSB) program?">MSB credits</button>
+      <button type="button" data-ask="Between what hours must silence be maintained in the hostel?">Hostel silence hours</button>
+    </div>
+
+    <form class="chat-form" id="chat-form" autocomplete="off">
+      <label class="sr-only" for="chat-input">Your question</label>
+      <input id="chat-input" name="question" type="text" maxlength="500" placeholder="Type your question..." required>
+      <button type="submit" class="btn btn-navy" id="chat-send">Send</button>
+    </form>
+  </section>
+
+  <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+</body>
+</html>

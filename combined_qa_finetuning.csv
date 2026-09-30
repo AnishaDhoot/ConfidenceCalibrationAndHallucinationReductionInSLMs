@@ -1,4 +1,4 @@
-question,answer
+﻿question,answer
 What is the current hostel fee per semester?,I don't know — that information isn't in the curriculum documents I have.
 Which semester is BENG960E Underwater Robotics offered in?,I don't know — that information isn't in the curriculum documents I have.
 "According to the B.Tech Biotechnology syllabus, what textbook is prescribed for BACHE311 Chemical Process Technology and Economics?",I don't know — that information isn't in the curriculum documents I have.
@@ -480,7 +480,6 @@ Who is currently teaching BCSE309L Cryptography and Network Security this semest
 What are the average placement package and top recruiters for B.Tech CSE (Information Security) graduates?,I don't know. Placement statistics are not part of the curriculum and syllabi document.
 What was the JEE Main or VITEEE cutoff rank for admission into the Data Science program in 2024?,I don't know. Admission cutoffs are handled separately from the curriculum and are not stated in this document.
 On what date and time is the BCSE302L Database Systems exam scheduled this semester?,"I don't know. The document specifies the mode of evaluation (CAT, Assignment, Quiz, FAT) but not actual exam dates or timetables."
-How many students are enrolled in the B.Tech CSE and Business Systems (TCS) program for AY 2024-2025?,I don't know. Enrollment numbers are not reported anywhere in the curriculum and syllabi document.
 Which classroom or lab block is BCSE202P (Data Structures and Algorithms Lab) held in?,"I don't know. The document lists lab hours and indicative experiments, but not room or block assignments."
 What edition and publisher is used for the reference material in BCSE319L Penetration Testing and Vulnerability Analysis for the *next* academic year's revision?,I don't know. The document only specifies the current (2024-2025) textbook and reference books; future revisions aren't covered.
 What is the passing/minimum grade requirement for BCSE301L Software Engineering?,I don't know. The document states the mode of evaluation but not the specific minimum passing grade or marks threshold.
@@ -771,7 +770,6 @@ Can you contact my Proctor to explain my absence?,"I do not have the ability to 
 Can you file my internal marks discrepancy complaint for me?,I am not able to do that for you. You would need to file that complaint yourself via your Proctor.
 Can you check my exam eligibility status and fix it if it is wrong?,That is an action I cannot perform on your behalf. Please verify and correct your eligibility status directly through the Controller of Examinations (CoE) office.
 Can you apply for my Semester Abroad Program on my behalf?,"I cannot submit or process that for you. You will need to submit your SAP application yourself, typically via the Dean Academics office."
-Can you get my late registration fee waived?,"I do not have the ability to take that action. You will need to request a fee waiver yourself, via the Dean Academics office."
 Has my academic malpractice case been resolved yet?,"I do not have access to your personal student record, so I cannot tell you the status of your case. Check this on VTOP, or ask your Proctor directly."
 What is my current disciplinary record?,"This depends on your individual academic or hostel record, which I have no access to. You would need to look this up yourself via your Proctor."
 Am I currently on academic probation?,"I cannot see your personal account details, so I am not able to answer this for you specifically. This is available via VTOP."
@@ -825,8 +823,6 @@ What is the exact number of members on the Grievance Redressal Cell?,I do not ha
 Is there a specific appeal fee for the Examination Appellate Committee?,I cannot verify this confidently from the sources I have. Best to check this specific fee amount directly with the Controller of Examinations (CoE) office.
 "What is the average, real-world turnaround time for a disciplinary enquiry, as opposed to the 90-day maximum limit?",I do not have a confirmed answer to this from the VIT documents available to me. Please verify the typical actual turnaround time directly with the Office of Student Welfare rather than take my word for it.
 Is there a formal leaderboard or public list published for Honours Club members?,This is not something I can confirm from what I have access to. I would recommend checking whether such a public list exists with the Honours Club coordinating office for an accurate answer.
-What exact criteria define a 'reputed organization' for the mandatory internship requirement?,I do not have reliable information on this specific detail. The Dean Academics office would be able to confirm this specific eligibility criteria.
-Is there a minimum stipend requirement for an internship to count toward academic credit?,I cannot verify this confidently from the sources I have. Best to check whether such a minimum exists directly with the Dean Academics office.
 What is the specific number of faculty typically on a Malpractice Committee for a given case?,I do not have a confirmed answer to this from the VIT documents available to me. Please verify this specific committee composition directly with the Office of Student Welfare rather than take my word for it.
 "Is a formal certificate issued for completing an Ancillary basket, similar to a Minor certificate?",This is not something I can confirm from what I have access to. I would recommend checking whether such a certificate is issued with the Dean Academics office for an accurate answer.
 What is the exact list of journals or conferences accepted as 'reputed' for the internship publication bonus?,I do not have reliable information on this specific detail. The Dean Academics office would be able to confirm this specific accepted list.
@@ -857,7 +853,6 @@ Can you tell me whether I will get placed if I have one backlog?,"I do not have 
 "Should I take the Grade Improvement option or not, given my situation?",I am not able to do that for you. You would need to make that decision for you yourself via your Proctor.
 Can you argue my case to the Disciplinary Committee on my behalf?,That is an action I cannot perform on your behalf. Please represent you at the hearing directly through the Office of Student Welfare.
 Can you predict what grade I will get in my FAT?,"I cannot submit or process that for you. You will need to predict your exam outcome yourself, typically via your Proctor."
-Will I definitely get into the Honours Club if I maintain this CGPA?,"I do not have the ability to take that action. You will need to guarantee that outcome for you yourself, via the Honours Club coordinating office."
 Can you file my grievance complaint for me?,I am not able to do that for you. You would need to file that complaint yourself via the Grievance Redressal Cell.
 Can you approve my Second Major application?,That is an action I cannot perform on your behalf. Please approve that application directly through your Proctor.
 Can you change my grade if you think the evaluation was unfair?,"I cannot submit or process that for you. You will need to change your grade yourself, typically via the Controller of Examinations (CoE) office."
@@ -970,392 +965,17 @@ Can you reserve the amphitheatre for a club event I am planning?,I am not able t
 Can you extend my baggage deposit deadline for summer vacation?,That is an action I cannot perform on your behalf. Please request that extension directly through your Block Supervisor.
 Can you increase my outing permission hours for this week?,"I cannot submit or process that for you. You will need to request that increase yourself, typically via your Block Supervisor."
 Can you confirm my room change and update it in the system?,"I do not have the ability to take that action. You will need to update that in the system yourself, via your hostel office / Block Supervisor."
-Will Stellantis offer any relocation support for interns joining in Chennai or Pune? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"What kind of additional bonuses, if any, are given to engineers at Stellantis during their tenure as a graduate engineering trainee? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Palo Alto provide any relocation assistance for the Software Engineer Intern role? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What are the chances of a performance bonus during the internship at Palo Alto as a Software Engineer Intern? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will the internship at ALE India Private Limited include any relocation support for students from outside Tamil Nadu? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect to receive a housing stipend or assistance finding accommodation during my time as an intern at ALE India Private Limited? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Sidana Innovations Lab offer any relocation assistance for interns coming from outside of Gurgaon? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Can I expect a sign-on bonus for the PPO at Sidana Innovations Lab, aside from the 5 LPA CTC mentioned? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-"Does Epsilon provide any relocation assistance for the PS Associate Software Engineer, Associate Software Engineer, or Associate Data Scientist roles? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-"Can I expect a sign-on bonus for the internship+PPO role at Epsilon as a PS Associate Software Engineer, Associate Software Engineer, or Associate Data Scientist? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Workday India Private Limited provide any relocation assistance for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I know if there are any opportunities for a permanent role after completing the internship at Workday India Private Limited? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Schmersal India provide any relocation assistance for interns moving to Pune? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a bonus or performance-based rewards as an AI-Intern at Schmersal India? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Societe Generale Global Solution Centre provide any relocation assistance for interns joining in Bangalore or Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the typical work schedule for Software Engineer interns at Societe Generale Global Solution Centre? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Do I need to go through any specific interview rounds after the online coding test for Natwest's Software Engineer position? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the relocation support provided by Natwest for Software Engineers joining directly from this university? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Aditya Birla Group offer any internships or summer placements for students before the final year? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the stipend amount for interns at Aditya Birla Group during the campus round? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Fastenal provide any relocation assistance for interns in Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Can I expect a sign-on bonus as a developer intern at Fastenal, apart from the stipend mentioned? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Futures First offer any relocation assistance or accommodation support for interns joining in Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will the Financial Market Intern role at Futures First provide any specific project work during the internship period? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Bruhat Logistics Private Limited provide any relocation assistance for interns joining from outside Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"If I'm an MBA (Finance) student, would Bruhat Logistics Private Limited still consider me eligible for the Sales / Pricing / Operations internship+PPO? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-"Will ExxonMobil provide relocation assistance for students moving to Bangalore, Mumbai or Gurgaon? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-"Does ExxonMobil offer any specific internship opportunities or training programs before joining as a Discipline Engineer, Data Analyst, Sales Account Manager, or Market Developer? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Spritle Software provide relocation assistance for interns moving to Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect any performance-based bonuses or rewards during my Internship at Spritle Software's Robotics Manipulation team? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will Apple provide any relocation assistance for the Operations Reliability Intern role in Hyderabad? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a sign-on bonus or any additional benefits besides the stipend and housing stipend for the IS&T SDET Intern role? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Cloud Brite Systems India Private Limited offer any relocation assistance for interns moving to Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Will there be any chances of getting a signing bonus during the placement at Cloud Brite Systems India Private Limited, in addition to the CTC offered? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Can I apply for a full-time role at Zluri after completing the internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Zluri offer any relocation assistance or accommodation help for interns moving to Vellore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Do I need to apply separately for the PPO after completing the summer internship at VISA Super Dream? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the stipend offered during the Summer Internship by VISA Super Dream? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does MUFG offer any relocation assistance for interns moving to Bengaluru? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Can I expect a bonus or other financial incentives during the Super Dream Internship at MUFG aside from the INR 65,000 stipend and travel expenses? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Will Fynro Advisory Services provide relocation assistance for the Financial Advisory Executive internship in Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Fynro Advisory Services offer any on-the-job training or mentorship program for Financial Advisory Executives? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Wakefit Dream Core provide accommodation assistance for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the interview process like at Wakefit Dream Core for internships in 2027 batch - SET3? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will BluBridge Technologies provide relocation assistance for those not from Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does BluBridge Technologies offer any special training or workshops during the internship period for AI & ML Engineers? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will Ameliorate Biotech Pvt. Ltd provide relocation assistance for students joining the Dream Core Internship from outside Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Ameliorate Biotech Pvt. Ltd offer any performance-based bonuses or rewards during the Dream Core Internship apart from the stipend mentioned in the placement record? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect any relocation assistance from Fidas Ventura Automation for the internship in Vellore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What are the chances of receiving a stipend increase during my tenure at Fidas Ventura Automation as an intern? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does EY Global Delivery Services provide any relocation assistance for interns who are selected from outside of the city? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will there be a signing bonus offered to the final offer letter recipients at EY Global Delivery Services drive this year? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Wakefit dream core offer any accommodation assistance for interns relocating to a new city? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"What is the typical work schedule during this Wakefit dream core internship, and are there opportunities for flexible hours? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Marvell Super Dream provide relocation support for summer interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the deadline to apply for Marvell Super Dream's Summer Internship PPO in 2026? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Zavity provide relocation assistance for interns moving to Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will there be any chances of full-time offers after completing the internship at Zativity? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will Cisco provide relocation assistance for the spring internship and full-time role in Vellore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Do I need to go through a background check to secure the Cisco internship and full-time position? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Play Simple Games provide any relocation assistance for interns joining from outside Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Is there a chance of a stipend increase or bonus during the internship at Play Simple Games, aside from the initial 30,000 stipend mentioned? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does WorkIndia provide any specific training or onboarding for new hires? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Can I expect a relocation stipend if I'm offered a role at WorkIndia, considering I don't have a local address? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Will WAFA Biological Laboratory provide any relocation assistance for the Dream Core Internship role if I need to move cities? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Can I expect any performance bonuses or incentives during the Dream Core Internship at WAFA Biological Laboratory, apart from the given stipend? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Amazon internship offer a relocation allowance for interns who are not from the city where they've been assigned? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I negotiate my stipend amount once I receive the offer letter from Amazon? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Does BlackRock provide any relocation assistance for interns joining in Bangalore, Mumbai, or Gurgaon? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-"What is the company culture like at BlackRock's Software Engineering and Aladdin Data internships, especially for students from the 2026 batch who are interested in applying next year? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does WorkIndia offer any relocation assistance for interns joining virtually? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the usual timeline for receiving an offer letter after getting selected for the PPO at WorkIndia? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Euler Motors offer any relocation assistance for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the process for extending the internship at Euler Motors beyond 6 months? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Foodhub provide any relocation assistance or accommodation support for interns moving to Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the typical work schedule or hours expected during this Foodhub internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Gnani.ai provide relocation assistance for interns joining on-site? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"If I get an internship at Gnani.ai, will there be any opportunities to convert the internship into a full-time role in the future? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Gnani.ai offer any relocation assistance for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I negotiate the stipend offered by Gnani.ai during the internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will Cummins India provide relocation assistance for interns from outside Pune? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a sign-on bonus along with the internship at Cummins India? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Flipkart's Assistant Manager – NEEV role offer any relocation assistance for students from outside the city? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Will there be a sign-on bonus for the Assistant Manager – NEEV role at Flipkart, or is it only the CTC mentioned in the placement record? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Chargepoint offer any relocation assistance for interns moving to Bangalore or Gurgaon? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the maximum number of internships a student can apply for at Chargepoint during their academic career? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Flipkart offer any relocation assistance for the Assistant Manager – NEEV role in case I'm not based in a city where they have an office? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I know if there are any opportunities for skill enhancement programs or training sessions provided by Flipkart during the Assistant Manager – NEEV role? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Flipkart offer relocation assistance for the Assistant Manager – NEEV role if I'm not from a metropolitan city? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will there be any opportunities for travel or international exposure during my tenure as an Assistant Manager – NEEV at Flipkart? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Blackrock offer any relocation assistance or accommodation help for interns during the Pan India internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the maximum work experience limit for applying to the Blackrock Intern role in 2027? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Rhogenites Biotech provide relocation assistance for interns moving to Vellore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a signing bonus as part of the internship offer at Rhogenites Biotech? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect any accommodation assistance from Marvell Super Dream for the summer internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the relocation policy for Marvell Super Dream during their full-time offers after the internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Altair Engineering India Pvt Ltd provide any relocation assistance for fresh graduates joining the company? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the typical project rotation schedule for a new hire at Altair Engineering India Pvt Ltd in their first year? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Omnicloud offer any relocation assistance for the Dream Internship in Hyderabad? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I negotiate the stipend for the Dream Internship at Omnicloud if I have a higher CGPA than the required 8.5? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Tekion offer any relocation assistance for interns joining from outside the city? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will there be any opportunities for full-time employment after completing the internship at Tekion? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Nyork Foods provide any relocation assistance for interns coming from outside of Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"What is the duration of the Dream Core Internship at Nyork Foods, and are there chances of extension or conversion to a permanent role after completion? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Q2 Software provide any relocation assistance for interns moving to Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What kind of projects will I be working on during my super dream internship at Q2 Software? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect any relocation assistance from ZS Associates if I get selected as a Business Technology Solutions Associate? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Do I need to apply separately for the Decision Analytics Associate role or will it be considered along with the BTSA application at ZS Associates? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does ZS Associates provide any relocation assistance for the Business Technology Solutions Associate and Decision Analytics Associate roles? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a sign-on bonus as a Business Technology Solutions Associate or Decision Analytics Associate at ZS Associates? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does ZS Associates provide any relocation assistance for the Business Technology Solutions Associate (BTSA) and Decision Analytics Associate (DAA) roles if the selected candidate is not from the same city as the office location? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the typical duration of the internship for the Business Technology Solutions Associate (BTSA) and Decision Analytics Associate (DAA) roles at ZS Associates before they are offered a full-time position? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect any relocation assistance if offered the internship at BNP Paribas India COE? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does BNP Paribas India COE offer any specific bonus or incentive for interns who perform exceptionally well? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Saviynt offer any relocation assistance or accommodation help for interns moving to Bengaluru? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"As an Associate Engineer at Saviynt, would I be eligible for any performance-based bonuses or stock options in addition to the CTC and stipend mentioned? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does ProcDNA Analytics Pvt. Ltd offer any relocation assistance or help with finding accommodation in Pune/Gurgaon? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the expected work-life balance for a Business Analyst/Associate Data Scientist at ProcDNA Analytics Pvt. Ltd? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does ZS Associates offer any relocation assistance for the Business Technology Solutions Associate (BTSA) and Decision Analytics Associate (DAA) roles? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a stipend during my internship as a BTSA or DAA at ZS Associates? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Pallav Technologies provide any relocation assistance for interns moving to Gurgaon? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the average workload or projects that Data Analyst Interns at Pallav Technologies can expect during their internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Zanskar Tech Pvt Ltd provide any relocation assistance for interns moving to Bangalore or GIFT City? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the bonus structure like for Full Stack Developers/Product Analysts at Zanskar Tech Pvt Ltd during their internship period? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will Altair Engineering India Pvt Ltd provide any relocation assistance for the QA intern role in Pan India? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Does Altair Engineering India Pvt Ltd have a policy on work-life balance for their interns, like flexible working hours or work from home options? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Divum Corporate Services offer any relocation assistance for interns moving to Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Is there a possibility of getting a housing allowance along with the stipend offered by Divum Corporate Services? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will IDFC provide accommodation for out-of-town students attending the Leadership Talk & PPT Session? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Does IDFC offer any stipend or allowance for participating in the Leadership Talk & PPT Session at VIT, Vellore, India? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Will Intel India Ltd provide relocation assistance for the hardware and software intern role? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Do I need to undergo a background check before starting the hardware and software internship at Intel India Ltd? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Intel India Ltd offer any housing assistance for the interns in the pan India locations? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the process for applying to a full-time position at Intel India Ltd after completion of the hardware and software internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Do I need to apply separately for different roles within Wakefit during the internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the accommodation arrangement or stipend provided for interns at Wakefit's location? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will AXA Global Business Services provide any accommodation assistance for interns during their stay in Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does AXA Global Business Services offer any opportunities for full-time positions after the completion of the Dream Internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Averixis Solutions Pvt. Ltd provide any relocation assistance for interns joining from outside Bengaluru? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a sign-on bonus or any other incentives apart from the stipend mentioned in my Averixis Solutions Pvt. Ltd offer letter? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will Hindustan Unilever provide any relocation assistance for the Dream Core Internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a signing bonus or equity as part of the Dream Core Internship at Hindustan Unilever? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will Danfoss Industries Pvt Ltd provide relocation assistance for the Super Dream Internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a sign-on bonus during the Super Dream Internship at Danfoss Industries Pvt Ltd? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Visteon offer any housing assistance for interns in Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a sign-on bonus as a Software Engineer at Visteon's Product Development? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I know if LSEG provides any relocation assistance for the Early Career Graduate Hire role? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will there be any internships or on-campus events offered by LSEG before the 2027 batch application process starts? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Eternal (Zomoto) provide any relocation assistance for interns joining in Vellore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the average bonus offered to SDE interns at Eternal (Zomato) after the successful completion of their internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Does Prodapt offer any relocation assistance for interns who are not from Chennai, Bangalore, Hyderabad, or Pune? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-"If I'm offered a Software Engineer internship at Prodapt, will there be any opportunities for bonuses or other incentives during the course of the internship? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Mondelez International provide any relocation assistance for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect any project-based work or practical assignments during the Dream Core Internship at Mondelez International? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Mondelez International provide any accommodation assistance for interns during the Dream Core Internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the policy regarding flexible work hours or work-from-home options for interns at Mondelez International's Dream Core Internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does KLA Super Dream offer any relocation assistance for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I know the exact location of the internship project at KLA Super Dream for this summer? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Uniqcore Construction offer any relocation assistance for interns moving to Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a bonus or incentives in addition to the stipend for the Dream Core Internship at Uniqcore Construction? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does IDFC FIRST Bank offer any relocation assistance for interns in the Super Dream Internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a signing bonus or joining incentive as part of the Super Dream Internship at IDFC FIRST Bank? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does IDFC FIRST Bank provide relocation assistance for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will there be any on-campus coding challenges or technical interviews for the Application Engineer role at IDFC FIRST Bank in the upcoming semester? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Nutanix provide any relocation assistance for interns moving to Bengaluru or Pune? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will there be any coding test or interview round after the initial application process for the Super Dream Internship at Nutanix? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Valeo provide any relocation assistance for interns moving to Vellore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the typical timeline for receiving an offer letter after the Valeo internship interview process? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Zluri offer any relocation assistance for the Software Engineer Intern role? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the maximum duration of the Software Engineer Internship at Zluri? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Tekion India Pvt Ltd offer relocation assistance for interns from outside the city? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will there be any chance of a permanent job offer after completing the internship at Tekion India Pvt Ltd for the 2027 Batch? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does MCare offer any relocation assistance for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"If I'm selected as a Business Development Executive intern at MCare, will there be any opportunities for a full-time position after the internship ends? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Do I need to apply separately for the full-time role at Hindustan Unilever after completing my internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"What is the accommodation arrangement for interns at Hindustan Unilever's VIT, Vellore location? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does ResMed Technology Pvt Ltd provide any relocation assistance for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the typical stipend offered by ResMed Technology Pvt Ltd during their internships in Hyderabad? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Walmart offer relocation assistance for summer internships? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the dress code during work hours at Walmart's summer internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Can I expect any relocation assistance from Human Resocia co. Ltd., if I get selected for the role? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Will there be any internship opportunities available in Human Resocia co. Ltd. before the final placement drive? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Ejadah Asset Management Group LLC provide any opportunities for internships or summer trainings before the official placement drive in 2026? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"What is the typical work-life balance like at Ejadah Asset Management Group LLC, considering the role is not specified? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Intain offer any relocation assistance for interns joining from outside the city? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will there be any opportunities for permanent positions after completion of the internship at Intain? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does TCS offer a relocation package for freshers joining from outside the city? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the internship opportunity situation at Sabre during summer 2026? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Do I need to relocate for the Rhogenites Biotech internship? If so, are they providing any assistance with finding accommodation in Vellore? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Is there a chance for permanent employment after completing the internship at Rhogenites Biotech? What's their typical process for converting interns into full-time employees? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Pepagora offer any relocation assistance for the AI intern role in Coimbatore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect to receive any bonuses or additional perks as an AI intern at Pepagora apart from the stipend mentioned? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Fischer Jordan offer relocation assistance for interns who are not based in a major city? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Can I negotiate the stipend for the Data Analyst/SWE internship at Fischer Jordan, if I have multiple offers? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Do I need to apply separately for the PPO after completing the internship at Infosys? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the CTC for the role offered at Infosys in the Vellore campus for students from Computer Science and Engineering branch? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Work India provide housing assistance for interns in Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the work-life balance like as a Software Development Engineer at Work India? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does UBS provide any relocation assistance for interns moving to Pune or Hyderabad? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will there be a chance for UBS interns to get a full-time offer after their internship is over? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Wakefit offer relocation assistance for interns who don't live in Vellore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Is there a chance of getting an extension for the 6-month internship at Wakefit, if I perform exceptionally well? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does UBS offer any relocation assistance for the Super Dream Internship in Pune or Hyderabad? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a sign-on bonus as part of the UBS Super Dream Internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Nyork Foods provide accommodation for interns during the Dream Core Internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the bonus structure or any performance-based rewards for the Dream Core Interns at Nyork Foods? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does ZS Associates provide any housing assistance for interns who are relocating from a different city? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I negotiate the CTC offered by ZS Associates for the Pre Placement Offer - FTE role? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does ResMed Technology Pvt Ltd offer any relocation assistance for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the stipend offered by ResMed Technology Pvt Ltd during their internships? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does ION Group offer any relocation assistance for the online test role? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"If I perform exceptionally well in the online test, will ION Group consider me for an internship opportunity later? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Do I need to go through an on-site interview for the role at ION Group? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the expected stipend structure for interns at ION Group's Noida office? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Honeywell Technologies offer any relocation assistance for interns moving from different cities? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the expected stipend amount for the internship role at Honeywell Technologies during summer breaks? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Do I need to apply separately for the full-time position after completing the internship at ION Group? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"What are the accommodation options provided by ION Group for interns in Vellore, or are there any suggestions for affordable housing nearby? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Multiple offer a relocation package for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will Eternal (Zomato) offer any relocation assistance for the Software Development Engineer internship in Gurugram? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Eternal (Zomato) provide any stipend increase or bonus during the Software Development Engineer internship period? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Juspay offer any relocation assistance for those joining from outside Vellore or Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will the software development engineers at Juspay be eligible for any performance-based bonuses or stock options in addition to their CTC? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does TCS offer any relocation assistance for the role in the 2027 batch? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"If I get selected for the TCS drive, will there be a coding round or only HR interviews? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does TCS offer any relocation assistance for new hires moving to the location they'll be working at? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"If I join TCS in 2027, can I expect a signing bonus along with the offered CTC? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Pixel Compute Technologies offer any relocation assistance for interns joining the Bhubaneswar office? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I negotiate my stipend amount during the interview process at Pixel Compute Technologies? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Sabre Corporation provide any relocation assistance for interns moving to Bengaluru? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will there be a sign-on bonus for the AI Engineer role at Sabre Corporation's 2027 drive? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Wakefit offer any relocation assistance for the Graduate Engineering Trainee role in Hosur? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the process for renewing or extending the stipend for the Graduate Engineering Trainee role at Wakefit beyond 1 year? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a sign-on bonus or joining incentive along with the stipend for the Wakefit internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Visteon offer any relocation assistance for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I negotiate the CTC for my Visteon internship as a 2026 batch student? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Valuelabs offer any relocation assistance for students who are not from Vellore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the typical work-life balance like at Valuelabs in this role? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Human Resocia co. Ltd offer any relocation assistance for new hires? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"If I'm offered the Super Dream role at Human Resocia, would there be any opportunities for performance-based bonuses or promotions within the first year? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Inflection.io provide any relocation support for interns who are not based in the city where they've been selected? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"If I secure the Super Dream Internship at Inflection.io, would there be any opportunities for a permanent role after the internship ends? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Prescience (A part of Movate) provide any housing assistance for interns moving to Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Is there a possibility of a full-time offer after successful completion of the internship at Prescience (A part of Movate)? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Zetta Tech Hospitality LLP provide any accommodation assistance for interns moving to Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the process for converting the internship at Zetta Tech Hospitality LLP into a full-time role after completion? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does ION Group provide a housing allowance or assistance during the internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the work-life balance like for Software Developers and Technical Product Analysts at ION Group? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Lakshmi Machine Works Limited offer any relocation assistance for interns moving to a different city? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Will there be any coding rounds or technical interviews for the Dream Core Internship at Lakshmi Machine Works Limited, apart from the initial screening based on CGPA and branch eligibility? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect any relocation assistance from UBS for the VIT campus? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does UBS at VIT offer a sign-on bonus to new hires in addition to the CTC? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will Valeo provide any relocation assistance or accommodation in Chennai for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Valeo have a performance bonus structure during the internship period? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Tube Products of India provide any housing assistance for interns during their tenure? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I negotiate the location of my internship with Tube Products of India? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Infosys offer any relocation assistance for students joining the Vellore drive? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will there be any additional rounds or interviews after the initial selection process for the Infosys role in the 2027 Batch? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Kirloskar Oil Engines Ltd offer any relocation assistance for the internships in Pune? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I know if there are any chances of on-site training or international exposure during the internship at Kirloskar Oil Engines Ltd? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Aganitha.ai offer any relocation assistance for interns moving to Hyderabad? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I negotiate the stipend offered by Aganitha.ai as a Computer Vision Engineer – Biomedical Imaging intern? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Couchbase provide any relocation support for interns moving to Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Is there a chance of getting a housing allowance along with the 1,25,000 stipend at Couchbase's Super Dream Internship? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Will Kcat Enzymatic Private Limited provide relocation assistance for interns joining the Dream Core Internship in Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Kcat Enzymatic Private Limited offer any bonuses or incentives beyond the given stipend for the Dream Core Internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Psemi provide any relocation assistance for interns moving to Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Can I expect a performance bonus during my internship at Psemi, or is it only eligible for full-time positions? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does ResMed Technology Pvt Ltd provide any accommodation for interns in Hyderabad? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a signing bonus if I get the Software Engineer Intern position at ResMed Technology Pvt Ltd? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Does Danfoss Industries offer any relocation assistance for interns joining at Oragadam, Chennai? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-"What is the interview process like for Danfoss Industries' internship roles? (The placement record only mentions the CGPA requirement and eligible branches, not the selection process) <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-"Does AVMI Foods provide accommodation for interns during the Food Technologist internship in Amalapuram, Andhra Pradesh? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-What is the chance of a bonus or increment for the Food Technologist role at AVMI Foods during the internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Infosys offer relocation assistance for the Specialist Programmer roles in case I'm not from Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a performance bonus as a Specialist Programmer L3 at Infosys beyond the joining bonus mentioned in the record? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Innovate Labs provide any relocation assistance for interns joining from outside Gurugram? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I negotiate the stipend offered by Innovate Labs if I convert my internship into a full-time role? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Ivanti offer any relocation assistance for interns moving to Bangalore or Hyderabad? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"What is the interview process like for internships at Ivanti, and do they typically have multiple rounds? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Will Valuelabs LLP be offering any relocation assistance for the Forward Deployed Engineer position in Hyderabad? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I negotiate the stipend amount for the internship at Valuelabs LLP as a Forward Deployed Engineer? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Varroc Engineering Ltd offer any relocation assistance for the Graduate Engineer Trainee role in other cities? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What are the chances of getting a bonus or incentive as a Graduate Engineer Trainee at Varroc Engineering Ltd? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I negotiate the stipend for my internship at Valuelabs LLP? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Valuelabs LLP provide relocation assistance for interns moving to Hyderabad? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Does Zetwerk Electronics offer relocation assistance for interns who are not from Chennai, Bangalore, Noida or Dharuhera? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Can I negotiate the retention bonus for the Dream Core Internship at Zetwerk Electronics before accepting the offer? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Valeo offer any housing assistance for interns in Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the minimum number of years of work experience required to be eligible for full-time positions at Valeo after completing this internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does GROWW offer relocation assistance to interns joining from outside Bengaluru? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a sign-on bonus or any other incentives along with the stipend at GROWW as an intern? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does UBS provide any relocation assistance for students joining from VIT Chennai campus? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What are the chances of interns at UBS being converted to full-time roles after completion of their internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Do I need to clear additional rounds after the Top Coder online test for this role? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the stipend structure for Top Coders at the Vellore campus during their initial placement? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Top Coder online test offer relocation assistance for students from different cities? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the bonus structure or any performance-based incentives provided at Top coder online test for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Decode Age offer any relocation assistance for interns joining from outside of their home city? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the process for receiving a salary increase during the internship period at Decode Age? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Project44 offer any relocation assistance for interns moving to Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the work-life balance like as a Software Engineer Intern at Project44 in Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Does AVMI Foods offer any housing assistance for interns in Amalapuram, Andhra Pradesh? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a sign-on bonus or relocation allowance as a Food Technologist intern at AVMI Foods? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does ABSYZ provide any relocation assistance for interns joining from outside Hyderabad? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"If I secure the internship at ABSYZ, will there be opportunities to work on exciting projects or participate in hackathons during my internship tenure? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does ABSYZ provide any relocation assistance for the Application Developer role in Hyderabad? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the typical timeline for the application-to-offer process for the Application Developer role at ABSYZ? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Ericsson provide any relocation assistance for interns during their stay in the city where they're assigned? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the average duration of the PPO offer after completing the internship at Ericsson? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will Talview provide a relocation allowance for students moving to Bangalore for the internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect any training or mentorship program alongside the Software Developer Intern role at Talview? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Will Aumovio provide relocation assistance for the Bangalore position, if I'm coming from a different city? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-"Can I negotiate the stipend amount for my internship at Aumovio, since it's on the lower side compared to other companies offering similar roles? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Clayfin offer any relocation assistance for interns moving to Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a sign-on bonus along with the internship at Clayfin? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will Credence Automation and Control Systems Pvt. Ltd provide a relocation allowance for interns joining from outside Pune? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Credence Automation and Control Systems Pvt. Ltd have any specific requirements or preferences regarding the project topics or areas of focus for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does UBS offer any relocation assistance for interns moving to Mumbai or Pune? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Can I expect any performance bonuses during the UBS internship, other than the stipend of 60000? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-"Does WarpDrive offer relocation assistance for interns who are not from Bangalore, Madurai or Trichy? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect any kind of performance bonus as a Full Stack Developer Intern at WarpDrive? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will Hindustan Unilever Limited provide accommodation for interns in Mumbai or Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"What is the duration of the STEM Internship at Hindustan Unilever Limited, apart from the mid-July timeline mentioned? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Tube Products of India offer any relocation assistance for interns from outside Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the selection process for M Tech students at Tube Products of India? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will Blue Star Limited provide relocation assistance for the Dream Core Internship in Thane? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I negotiate the stipend offered for the Dream Core Internship at Blue Star Limited? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does JW Consultants LLP provide any relocation assistance for the Structural Design Engineer internship in Pune? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the process for a direct hire after completing the Structural Design Engineer internship at JW Consultants LLP? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Bazaarvoice offer any relocation assistance for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a signing bonus at Bazaarvoice as an intern? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Datagrokr offer any relocation assistance for interns joining from outside Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the process for converting the internship at Datagrokr to a full-time role after completion? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I negotiate the stipend amount for the Ericsson internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Ericsson provide any housing assistance or accommodation for interns in Bangalore and Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will ResMed Technology Pvt Ltd provide any relocation assistance for the internship in Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does ResMed Technology Pvt Ltd have any specific coding challenges or technical tests during their selection process for the M. Tech (Computer Science & Engg) related branches internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Green Tiger Mobility offer any relocation assistance for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"If I'm offered the Dream Internship at Green Tiger Mobility, will there be any opportunities for performance bonuses during the internship period? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Ziptrrip offer any relocation assistance for interns moving to Bengaluru? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I negotiate the CTC for the Ziptrrip internship if I have an offer letter? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Do I need to provide a detailed project report for the internship at Power School Dream? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will Power School Dream offer any accommodation assistance or housing allowance for the interns relocating for the role? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Rubrik offer any relocation assistance for interns moving to Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect any bonuses or other rewards besides the stipend mentioned for the Offensive Security Intern role at Rubrik? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Bazaarvoice offer any relocation assistance for students placed in VIT Bhopal? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"If I'm placed at Bazaarvoice, will there be an internship opportunity during the summer of 2023 before starting full-time in 2026? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Can I negotiate the CTC for the Ziptrip internship if I have a higher CGPA than the stated requirement? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Ziptrrip provide any relocation assistance for interns moving to Bengaluru? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will there be a sign-on bonus offered alongside the internship at Ziptrrip in addition to the stipend mentioned? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect any accommodation assistance from MatreComm Technologies for the Dream Internship in Bengaluru? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does MatreComm Technologies offer any bonus or additional compensation during the Dream Internship apart from the 25000 stipend mentioned in the record? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Murf.ai offer any relocation assistance for the internship at VIT Vellore campus? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a sign-on bonus or any other incentives during the PPO after the Murf.ai internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Does Bazaarvoice provide relocation assistance for students who are not located at VIT Vellore, Chennai, AP, or Bhopal? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-What is the maximum CGPA required to apply for the PPT & online test role in Bazaarvoice's recruitment drive? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Flender offer any relocation assistance for interns joining in Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"If I get an internship at Flender, will they provide a stipend increase during my second month? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Does Pharmnova Medical Research offer any relocation assistance for interns moving to Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a sign-on bonus or any other incentives as an AI Developer Intern at Pharmnova Medical Research in addition to the stated stipend? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Creative Cyber offer any relocation assistance for interns moving to Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will there be a signing bonus or joining bonus offered along with the internship at Creative Cyber? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does CloudSEK offer any relocation assistance other than the mentioned stipend for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a sign-on bonus or any other compensation beyond the stated CTC during my Super Dream Internship at CloudSEK? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Molecular Connections Pvt Ltd provide any travel or accommodation assistance for interns moving to Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the future hiring policy for Dream Core Interns at Molecular Connections Pvt Ltd after completing the internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Ninestar Information Technologies offer any housing assistance for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will there be any project presentations during the internship at Ninestar Information Technologies? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will Wabtec provide relocation assistance for the internship in Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a sign-on bonus as an Intern Engineering at Wabtec's Bangalore office? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect any relocation assistance if I get selected for the internship at Turbo Energy Private Limited? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Turbo Energy Private Limited provide any additional training or workshops during their regular internships aside from the assigned projects? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Murf.ai provide accommodation assistance for interns in Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect a signing bonus along with the 11 LPA package at Murf.ai if I get selected? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Whirlpool offer any relocation assistance for interns moving to Pune? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect any bonuses or performance-based incentives during the Whirlpool internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Unthinkable Solutions offer any housing assistance for interns in the Pan India location? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"If I get selected for the internship at Unthinkable Solutions, will there be opportunities for a full-time role after completion? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
-Do I need to have a car for this Ford internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the work-life balance like during this Ford internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does Valeo offer any relocation assistance for interns moving to Chennai? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-What is the process for accepting or declining the internship offer from Valeo once selected? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does PowerSchool Dream provide any relocation assistance for interns? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Can I expect any on-site training or workshops during the internship at PowerSchool Dream? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does PowerSchool provide any accommodation assistance for interns relocating to Bangalore? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Will there be any opportunities for further employment or full-time roles at PowerSchool after completing the internship? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-Does APIC offer any relocation assistance for interns moving to a new city? <|end|>,I don't have enough information in my knowledge base to answer this question accurately.
-"Can I negotiate the CTC for the Dream Core Internship at APIC, or is it fixed? <|end|>",I don't have enough information in my knowledge base to answer this question accurately.
+"Will ExxonMobil provide relocation assistance for students moving to Bangalore, Mumbai or Gurgaon?",I don't have enough information in my knowledge base to answer this question accurately.
+Will BluBridge Technologies provide relocation assistance for those not from Chennai?,I don't have enough information in my knowledge base to answer this question accurately.
+Does BluBridge Technologies offer any special training or workshops during the internship period for AI & ML Engineers?,I don't have enough information in my knowledge base to answer this question accurately.
+Will there be a signing bonus offered to the final offer letter recipients at EY Global Delivery Services drive this year?,I don't have enough information in my knowledge base to answer this question accurately.
+Do I need to go through a background check to secure the Cisco internship and full-time position?,I don't have enough information in my knowledge base to answer this question accurately.
+Will IDFC provide accommodation for out-of-town students attending the Leadership Talk & PPT Session?,I don't have enough information in my knowledge base to answer this question accurately.
+"Does IDFC offer any stipend or allowance for participating in the Leadership Talk & PPT Session at VIT, Vellore, India?",I don't have enough information in my knowledge base to answer this question accurately.
+What is the dress code during work hours at Walmart's summer internship?,I don't have enough information in my knowledge base to answer this question accurately.
+Will there be a chance for UBS interns to get a full-time offer after their internship is over?,I don't have enough information in my knowledge base to answer this question accurately.
+What are the chances of interns at UBS being converted to full-time roles after completion of their internship?,I don't have enough information in my knowledge base to answer this question accurately.
+Does Top Coder online test offer relocation assistance for students from different cities?,I don't have enough information in my knowledge base to answer this question accurately.
+Can I expect any training or mentorship program alongside the Software Developer Intern role at Talview?,I don't have enough information in my knowledge base to answer this question accurately.
+Do I need to have a car for this Ford internship?,I don't have enough information in my knowledge base to answer this question accurately.
+What is the work-life balance like during this Ford internship?,I don't have enough information in my knowledge base to answer this question accurately.
