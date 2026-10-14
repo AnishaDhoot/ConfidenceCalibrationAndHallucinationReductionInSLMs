@@ -1,0 +1,10 @@
+transformers>=4.44
+peft>=0.12
+bitsandbytes>=0.43
+accelerate>=0.33
+datasets
+scikit-learn
+matplotlib
+pandas
+numpy
+tqdm

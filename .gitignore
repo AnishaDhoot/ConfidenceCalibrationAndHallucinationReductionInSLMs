@@ -1,0 +1,7 @@
+
+# v3 generated outputs
+data_v3/
+results_v3/
+adapters/
+__pycache__/
+*.pyc
