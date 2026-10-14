@@ -12,6 +12,7 @@ The best adapter is saved to <output-dir>/best.
 """
 
 import argparse
+import inspect
 import json
 import random
 from pathlib import Path
@@ -115,13 +116,19 @@ def main():
     fp16 = torch.cuda.is_available() and not torch.cuda.is_bf16_supported()
     steps_per_epoch = -(-len(train_ds) // (a.batch_size * a.grad_accum))
     warmup_steps = max(1, int(0.03 * steps_per_epoch * a.epochs))  # warmup_ratio was removed in newer transformers
-    targs = TrainingArguments(
+    train_kwargs = dict(
         output_dir=a.output_dir, per_device_train_batch_size=a.batch_size,
         gradient_accumulation_steps=a.grad_accum, num_train_epochs=a.epochs, learning_rate=a.lr,
         lr_scheduler_type="cosine", warmup_steps=warmup_steps, logging_steps=20, eval_strategy="no",
         save_strategy="no", bf16=torch.cuda.is_available() and torch.cuda.is_bf16_supported(), fp16=fp16,
         seed=a.seed, gradient_checkpointing=True, gradient_checkpointing_kwargs={"use_reentrant": False},
         optim="paged_adamw_8bit", remove_unused_columns=False, report_to="none", group_by_length=True)
+    # transformers keeps renaming/removing arguments; drop any this version does not know instead of crashing
+    supported = set(inspect.signature(TrainingArguments.__init__).parameters)
+    skipped = sorted(k for k in train_kwargs if k not in supported)
+    if skipped:
+        print(f"note: this transformers version does not accept {skipped}; ignoring them")
+    targs = TrainingArguments(**{k: v for k, v in train_kwargs.items() if k in supported})
 
     Path(a.output_dir).mkdir(parents=True, exist_ok=True)
     cb = ValAccuracyCallback(tokenizer, a.model, valid_rows, a.output_dir, a.patience, a.eval_batch)
