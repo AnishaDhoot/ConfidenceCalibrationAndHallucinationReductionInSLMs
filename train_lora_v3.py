@@ -113,10 +113,12 @@ def main():
     valid_rows = valid_rows[:a.eval_n]
 
     fp16 = torch.cuda.is_available() and not torch.cuda.is_bf16_supported()
+    steps_per_epoch = -(-len(train_ds) // (a.batch_size * a.grad_accum))
+    warmup_steps = max(1, int(0.03 * steps_per_epoch * a.epochs))  # warmup_ratio was removed in newer transformers
     targs = TrainingArguments(
         output_dir=a.output_dir, per_device_train_batch_size=a.batch_size,
         gradient_accumulation_steps=a.grad_accum, num_train_epochs=a.epochs, learning_rate=a.lr,
-        lr_scheduler_type="cosine", warmup_ratio=0.03, logging_steps=20, eval_strategy="no",
+        lr_scheduler_type="cosine", warmup_steps=warmup_steps, logging_steps=20, eval_strategy="no",
         save_strategy="no", bf16=torch.cuda.is_available() and torch.cuda.is_bf16_supported(), fp16=fp16,
         seed=a.seed, gradient_checkpointing=True, gradient_checkpointing_kwargs={"use_reentrant": False},
         optim="paged_adamw_8bit", remove_unused_columns=False, report_to="none", group_by_length=True)
