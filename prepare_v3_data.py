@@ -85,6 +85,10 @@ def main():
     p.add_argument("--seed", type=int, default=42)
     p.add_argument("--paraphrases", help="jsonl from augment_v3.py; adds rewrites of TRAIN questions only")
     p.add_argument("--max-para", type=int, default=3)
+    p.add_argument("--extra", help="extra_course_qa.jsonl from make_course_qa.py; appended to TRAIN only")
+    p.add_argument("--extra-kinds", default="credits,ltpc,title,code",
+                   help="which kinds of extra rows to use (credits, ltpc, title, code)")
+    p.add_argument("--max-extra", type=int, default=0, help="cap on extra rows (0 = all of the chosen kinds)")
     p.add_argument("--out-dir", default="data_v3")
     a = p.parse_args()
 
@@ -107,7 +111,10 @@ def main():
     for name, part in zip(("train", "valid", "test"), split_frame(pool, a.split_by, a.seed)):
         reg, idk = part[~part["is_idk"]], part[part["is_idk"]]
         k = min(int(round(len(reg) * a.idk_ratio / (1 - a.idk_ratio))), len(idk))
-        idk = idk.sample(n=k, random_state=a.seed) if k else idk.iloc[0:0]
+        picked = idk.sample(n=k, random_state=a.seed) if k else idk.iloc[0:0]
+        if name == "train":
+            spare_idk = idk.drop(picked.index)  # unused unanswerable rows, used to top up when extra rows are added
+        idk = picked
         splits[name] = pd.concat([reg, idk]).sample(frac=1, random_state=a.seed).reset_index(drop=True)
 
     out = Path(a.out_dir)
@@ -118,6 +125,19 @@ def main():
         for r in read_jsonl(a.paraphrases):
             paras[r["question"]] = r["paraphrases"][:a.max_para]
 
+    extra_rows = []
+    if a.extra:
+        kinds = set(a.extra_kinds.split(","))
+        blocked = {normalize(q) for part in splits.values() for q in part["question"]}  # never duplicate any existing question
+        for r in read_jsonl(a.extra):
+            if r["kind"] in kinds and normalize(r["question"]) not in blocked:
+                extra_rows.append({"question": r["question"], "answer": r["answer"], "is_idk": False,
+                                   "source": "pdf_table"})
+        random.Random(a.seed).shuffle(extra_rows)
+        if a.max_extra:
+            extra_rows = extra_rows[:a.max_extra]
+        print(f"extra course-table rows for train: {len(extra_rows)} (kinds: {sorted(kinds)})")
+
     stats = {"split_by": a.split_by, "idk_ratio": a.idk_ratio, "seed": a.seed}
     for name, part in splits.items():
         rows = [{"question": q, "answer": ans, "is_idk": bool(i), "source": "original"}
@@ -126,12 +146,25 @@ def main():
             extra = [{"question": pq, "answer": r["answer"], "is_idk": r["is_idk"], "source": "paraphrase"}
                      for r in rows for pq in paras.get(r["question"], [])]
             rows += extra
-            random.Random(a.seed).shuffle(rows)
             print(f"train: added {len(extra)} paraphrased rows")
+        if name == "train" and extra_rows:
+            rows += extra_rows
+            # keep the unanswerable share at --idk-ratio so abstention is not diluted by the extra rows
+            have = sum(r["is_idk"] for r in rows)
+            want = int(round((len(rows) - have) * a.idk_ratio / (1 - a.idk_ratio)))
+            take = max(0, min(want - have, len(spare_idk)))
+            topup = spare_idk.sample(n=take, random_state=a.seed) if take else spare_idk.iloc[0:0]
+            rows += [{"question": q, "answer": ans, "is_idk": True, "source": "original"}
+                     for q, ans in zip(topup["question"], topup["answer"])]
+            print(f"train: topped up with {take} more unanswerable rows "
+                  f"(wanted {max(want - have, 0)}, {len(spare_idk)} available)")
+        if name == "train":
+            random.Random(a.seed).shuffle(rows)
         write_jsonl(out / f"{name}.jsonl", rows)
         n_idk = sum(r["is_idk"] for r in rows)
         stats[name] = {"rows": len(rows), "idk": n_idk, "answerable": len(rows) - n_idk,
-                       "paraphrased": sum(r["source"] == "paraphrase" for r in rows)}
+                       "paraphrased": sum(r["source"] == "paraphrase" for r in rows),
+                       "pdf_table": sum(r["source"] == "pdf_table" for r in rows)}
         print(f"{name}: {len(rows)} rows ({n_idk} unanswerable)")
 
     tq = [normalize(q) for q in splits["train"]["question"]]

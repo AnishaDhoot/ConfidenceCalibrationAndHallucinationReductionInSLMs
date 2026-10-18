@@ -51,13 +51,23 @@ def build_dataset(path, tokenizer, model_name, max_len):
 class ValAccuracyCallback(TrainerCallback):
     """After each epoch: greedy-decode a validation subset, keep the adapter if accuracy improved."""
 
-    def __init__(self, tokenizer, model_name, valid_rows, out_dir, patience, eval_batch):
+    def __init__(self, tokenizer, model_name, valid_rows, out_dir, patience, eval_batch, eval_steps=0):
+        self.eval_steps = eval_steps
         self.tok, self.model_name, self.rows = tokenizer, model_name, valid_rows
         self.out_dir, self.patience, self.eval_batch = Path(out_dir), patience, eval_batch
         self.best, self.best_epoch, self.curve = -1.0, 0, []
 
+    def on_step_end(self, args, state, control, model=None, **kwargs):
+        # with big training sets an epoch is hours long; evaluating every N steps saves the best
+        # adapter much more often, so a Colab disconnect costs little
+        if self.eval_steps and state.global_step % self.eval_steps == 0 and model is not None:
+            self.evaluate(args, state, control, model, f"step {state.global_step}")
+
     def on_epoch_end(self, args, state, control, model=None, **kwargs):
-        epoch = int(round(state.epoch))
+        self.evaluate(args, state, control, model, f"epoch {int(round(state.epoch))}")
+
+    def evaluate(self, args, state, control, model, label):
+        epoch = len(self.curve) + 1  # evaluation count (patience is counted in evaluations)
         use_cache = model.config.use_cache
         model.config.use_cache = True
         self.tok.padding_side = "left"  # batched generation needs left padding; training uses right
@@ -69,8 +79,8 @@ class ValAccuracyCallback(TrainerCallback):
         scored = [correctness(p, r["answer"], r["is_idk"]) for p, r in zip(preds, self.rows)]
         strict = sum(s[0] for s in scored) / len(scored)
         keyfact = sum(s[1] for s in scored) / len(scored)
-        self.curve.append({"epoch": epoch, "val_acc_keyfact": keyfact, "val_acc_f1": strict})
-        print(f"[epoch {epoch}] val accuracy key-fact {keyfact:.3f}  F1 {strict:.3f}  (best {max(self.best, keyfact):.3f})")
+        self.curve.append({"eval": epoch, "at": label, "val_acc_keyfact": keyfact, "val_acc_f1": strict})
+        print(f"[{label}] val accuracy key-fact {keyfact:.3f}  F1 {strict:.3f}  (best {max(self.best, keyfact):.3f})")
         if keyfact > self.best:
             self.best, self.best_epoch = keyfact, epoch
             model.save_pretrained(self.out_dir / "best")
@@ -97,6 +107,10 @@ def main():
     p.add_argument("--grad-accum", type=int, default=2)
     p.add_argument("--eval-n", type=int, default=200, help="validation questions decoded after each epoch")
     p.add_argument("--eval-batch", type=int, default=16)
+    p.add_argument("--eval-steps", type=int, default=0,
+                   help="also evaluate every N optimizer steps (0 = only at the end of each epoch)")
+    p.add_argument("--no-grad-ckpt", action="store_true",
+                   help="faster per step but uses more memory; try it first, drop it on out-of-memory")
     p.add_argument("--seed", type=int, default=42)
     p.add_argument("--init-adapter", help="start from this saved adapter instead of a fresh one")
     a = p.parse_args()
@@ -125,7 +139,7 @@ def main():
         gradient_accumulation_steps=a.grad_accum, num_train_epochs=a.epochs, learning_rate=a.lr,
         lr_scheduler_type="cosine", warmup_steps=warmup_steps, logging_steps=20, eval_strategy="no",
         save_strategy="no", bf16=torch.cuda.is_available() and torch.cuda.is_bf16_supported(), fp16=fp16,
-        seed=a.seed, gradient_checkpointing=True, gradient_checkpointing_kwargs={"use_reentrant": False},
+        seed=a.seed, gradient_checkpointing=not a.no_grad_ckpt, gradient_checkpointing_kwargs={"use_reentrant": False},
         optim="paged_adamw_8bit", remove_unused_columns=False, report_to="none", group_by_length=True)
     # transformers keeps renaming/removing arguments; drop any this version does not know instead of crashing
     supported = set(inspect.signature(TrainingArguments.__init__).parameters)
@@ -135,7 +149,7 @@ def main():
     targs = TrainingArguments(**{k: v for k, v in train_kwargs.items() if k in supported})
 
     Path(a.output_dir).mkdir(parents=True, exist_ok=True)
-    cb = ValAccuracyCallback(tokenizer, a.model, valid_rows, a.output_dir, a.patience, a.eval_batch)
+    cb = ValAccuracyCallback(tokenizer, a.model, valid_rows, a.output_dir, a.patience, a.eval_batch, a.eval_steps)
     trainer = Trainer(model=model, args=targs, train_dataset=train_ds, callbacks=[cb],
                       data_collator=DataCollatorForSeq2Seq(tokenizer, padding=True, label_pad_token_id=-100))
     trainer.train()

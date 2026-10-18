@@ -36,6 +36,20 @@ What changed from v1/v2:
   split. The abstention threshold is also chosen on validation. Test data is used only for reporting.
 - Reports ECE, Brier, AUROC, hallucination rate, false-refusal rate, selective accuracy and a risk-coverage table.
 
+## Extra training rows from the curriculum PDFs (optional, train split only)
+
+The existing dataset is never modified. `extract_courses.py` reads the course tables (code, title, L-T-P-C,
+credits) out of the curriculum PDFs by rule, and `make_course_qa.py` turns them into extra Q&A rows
+(`extra_course_qa.jsonl`). `prepare_v3_data.py --extra ...` appends a chosen number of them to the TRAIN split
+only; valid and test stay identical, and any question already in valid/test is excluded. Unanswerable rows are
+topped up so the IDK share stays near `--idk-ratio`.
+
+```bash
+python extract_courses.py "<folder with the PDFs>" --out course_tables.jsonl   # needs: pip install pymupdf
+python make_course_qa.py                                                       # -> extra_course_qa.jsonl
+python prepare_v3_data.py --extra extra_course_qa.jsonl --extra-kinds credits --max-extra 4000
+```
+
 ## Run the chatbot site
 
 ```powershell

@@ -10,9 +10,8 @@ import string
 import numpy as np
 
 SYSTEM_PROMPT = (
-    "You are a question-answering assistant for Vellore Institute of Technology (VIT) curricula, "
-    "academic regulations and campus life. Answer in one short sentence and state the key fact first. "
-    "If the answer is not something you reliably know, say that you do not have enough information."
+    "Answer VIT curriculum, regulation and campus questions in one short sentence, key fact first. "
+    "If unsure, say you don't have enough information."
 )
 
 IDK_ANSWER = "I don't have enough information in my knowledge base to answer this question accurately."
