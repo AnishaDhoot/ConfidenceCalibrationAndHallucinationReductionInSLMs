@@ -19,7 +19,7 @@ from pathlib import Path
 
 import torch
 from datasets import Dataset
-from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
+from peft import LoraConfig, PeftModel, get_peft_model, prepare_model_for_kbit_training
 from transformers import (DataCollatorForSeq2Seq, Trainer, TrainerCallback, TrainingArguments)
 
 from v3_common import correctness, read_jsonl
@@ -98,14 +98,18 @@ def main():
     p.add_argument("--eval-n", type=int, default=200, help="validation questions decoded after each epoch")
     p.add_argument("--eval-batch", type=int, default=16)
     p.add_argument("--seed", type=int, default=42)
+    p.add_argument("--init-adapter", help="start from this saved adapter instead of a fresh one")
     a = p.parse_args()
 
     tokenizer = load_tokenizer(a.model, "right")
     model = load_model(a.model, four_bit=not a.no_4bit)
     model = prepare_model_for_kbit_training(model)
     model.config.use_cache = False
-    model = get_peft_model(model, LoraConfig(r=a.rank, lora_alpha=2 * a.rank, target_modules="all-linear",
-                                             lora_dropout=0.05, bias="none", task_type="CAUSAL_LM"))
+    if a.init_adapter:  # continue from a saved adapter (e.g. after a Colab disconnect)
+        model = PeftModel.from_pretrained(model, a.init_adapter, is_trainable=True)
+    else:
+        model = get_peft_model(model, LoraConfig(r=a.rank, lora_alpha=2 * a.rank, target_modules="all-linear",
+                                                 lora_dropout=0.05, bias="none", task_type="CAUSAL_LM"))
     model.print_trainable_parameters()
 
     train_ds = build_dataset(a.train, tokenizer, a.model, a.max_len)
