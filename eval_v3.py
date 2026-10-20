@@ -14,7 +14,7 @@ from pathlib import Path
 from peft import PeftModel
 from tqdm import tqdm
 
-from v3_common import read_jsonl
+from v3_common import correctness, read_jsonl
 from v3_llm import (DEFAULT_MODEL, generate_greedy, generate_samples, load_model, load_tokenizer)
 
 
@@ -24,7 +24,7 @@ def main():
     p.add_argument("--model", default=None, help="base model; defaults to the one recorded with the adapter")
     p.add_argument("--data-dir", default="data_v3")
     p.add_argument("--splits", nargs="+", default=["valid", "test"])
-    p.add_argument("--n-samples", type=int, default=5)
+    p.add_argument("--n-samples", type=int, default=5, help="0 = greedy answers only (fast; enough to compare accuracy)")
     p.add_argument("--temperature", type=float, default=0.7)
     p.add_argument("--out-dir", default="results_v3")
     p.add_argument("--tag", default="", help="suffix for output files, e.g. the run name")
@@ -53,10 +53,20 @@ def main():
         qs = [r["question"] for r in rows]
         print(f"{split}: {len(rows)} questions -- greedy pass")
         greedy, conf, minp = generate_greedy(model, tok, model_name, qs)
-        print(f"{split}: sampling {a.n_samples} answers each")
         samples = []
-        for i in tqdm(range(0, len(qs), 64)):
-            samples.extend(generate_samples(model, tok, model_name, qs[i:i + 64], a.n_samples, a.temperature))
+        if a.n_samples > 0:
+            print(f"{split}: sampling {a.n_samples} answers each")
+            for i in tqdm(range(0, len(qs), 64)):
+                samples.extend(generate_samples(model, tok, model_name, qs[i:i + 64], a.n_samples, a.temperature))
+        else:
+            samples = [[] for _ in qs]
+        scored = [correctness(g, r["answer"], r["is_idk"]) for g, r in zip(greedy, rows)]
+        ans = [sc for sc, r in zip(scored, rows) if not r["is_idk"]]
+        idk = [sc for sc, r in zip(scored, rows) if r["is_idk"]]
+        print(f"{split}: accuracy  F1>=0.5 {sum(x[0] for x in scored) / len(scored):.3f}   "
+              f"key-fact {sum(x[1] for x in scored) / len(scored):.3f}   "
+              f"answerable F1 {sum(x[0] for x in ans) / max(len(ans), 1):.3f}   "
+              f"correct refusals {sum(x[0] for x in idk) / max(len(idk), 1):.3f}")
         path = out / f"rows_{split}{a.tag}.jsonl"
         with open(path, "w", encoding="utf-8") as f:
             for r, g, c, m, s in zip(rows, greedy, conf, minp, samples):
