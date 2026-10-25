@@ -1,7 +1,19 @@
-# VIT Q&A Project
+# Confidence Calibration and Hallucination Detection
 
-A VIT question-answering project on hallucination reduction and confidence calibration: dataset preparation,
-LoRA fine-tuning, calibration evaluation, and a Flask chatbot demo site.
+Controlled abstention fine-tuning of a small language model (Phi-3-mini, QLoRA) on VIT curriculum question
+answering: dataset preparation, LoRA fine-tuning, calibration and hallucination evaluation, a paper, and a Flask
+chatbot demo site.
+
+## Headline results (v1, 449 test queries, 79 unanswerable)
+
+| System | Hallucination rate | IDK F1 | Answerable acc. | ECE | AUROC |
+|---|---|---|---|---|---|
+| Base Phi-3-mini | 0.506 | 0.333 | 0.227 | 0.622 | 0.557 |
+| Standard fine-tune (0% IDK) | 1.000 | 0.000 | 0.451 | 0.408 | 0.764 |
+| Abstention-aware fine-tune (15% IDK) | **0.139** | **0.840** | 0.408 | **0.304** | **0.810** |
+
+The paper is in `paper_content/` (section drafts, figures, `build_paper.py`, and the built `paper.docx`).
+Rebuild it with `python paper_content/build_paper.py --template <splnproc2510.docm>` (needs `pillow`).
 
 ## Layout
 
@@ -11,7 +23,7 @@ LoRA fine-tuning, calibration evaluation, and a Flask chatbot demo site.
 | `final_qa_dataset.csv`, `combined_qa_finetuning.csv` | Source data used by v3 and the demo site |
 | `v1/` | Earlier experiments (v1 scripts and datasets, plus `v1/v2_files/`) kept for reference |
 | `chatbot_site/` | Flask demo site |
-| `paper_content/` | Paper section drafts |
+| `paper_content/` | Paper: section drafts, figures, `build_paper.py` (Springer LNCS Word template), `paper.docx` |
 
 ## v3 pipeline (Google Colab T4)
 

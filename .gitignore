@@ -5,3 +5,7 @@ results_v3/
 adapters/
 __pycache__/
 *.pyc
+
+# paper build
+paper_content/template/
+~$*
