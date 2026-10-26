@@ -9,20 +9,30 @@
 </head>
 
 <body>
+  <div class="topbar">
+    <div class="wrap topbar-inner">
+      <button type="button" class="pill" data-open-chat>Ask the assistant</button>
+      <div class="ticker" aria-hidden="true">
+        <span>Course project demo &nbsp;&bull;&nbsp; Answers come from public VIT documents &nbsp;&bull;&nbsp; Every answer shows a confidence score &nbsp;&bull;&nbsp; Unsure? The assistant says &ldquo;I don&rsquo;t know&rdquo; &nbsp;&bull;&nbsp; Confirm anything important on vit.ac.in</span>
+      </div>
+      <a class="pill" href="https://vit.ac.in" target="_blank" rel="noopener">Official VIT site</a>
+    </div>
+  </div>
+
   <header class="site-header">
     <div class="wrap header-inner">
       <a class="brand" href="{{ url_for('home') }}" aria-label="Home">
         <span class="brand-mark" aria-hidden="true">VIT</span>
         <span class="brand-text">
           <strong>Vellore Institute of Technology</strong>
-          <small>Curriculum &amp; Campus Q&amp;A demo</small>
+          <small>Curriculum &amp; campus Q&amp;A (student project)</small>
         </span>
       </a>
       <nav class="main-nav" aria-label="Main">
         <a href="{{ url_for('home') }}" {% if page=='home' %}aria-current="page" {% endif %}>Home</a>
         <a href="{{ url_for('academics') }}" {% if page=='academics' %}aria-current="page" {% endif %}>Academics</a>
         <a href="{{ url_for('campus_life') }}" {% if page=='campus' %}aria-current="page" {% endif %}>Campus Life</a>
-        <button type="button" class="btn btn-gold" data-open-chat>Ask VIT</button>
+        <a href="#" data-open-chat onclick="event.preventDefault()">Ask VIT</a>
       </nav>
     </div>
   </header>
@@ -34,12 +44,13 @@
   <footer class="site-footer">
     <div class="wrap footer-grid">
       <div>
-        <h3>About this demo</h3>
-        <p>A course project on reducing hallucination with confidence calibration. The assistant answers questions about
-          VIT programmes, regulations and campus life from public VIT documents, and abstains when it is not sure.</p>
+        <h3>About this site</h3>
+        <p>A student project on reducing hallucination with confidence calibration. The assistant answers questions about
+          VIT programmes, regulations and campus life from public VIT documents, and abstains when it is not sure.
+          It is not an official VIT website.</p>
       </div>
       <div>
-        <h3>Explore</h3>
+        <h3>Quick links</h3>
         <ul>
           <li><a href="{{ url_for('academics') }}">Programmes &amp; curriculum</a></li>
           <li><a href="{{ url_for('academics') }}#regulations">Academic regulations</a></li>
@@ -54,13 +65,16 @@
       </div>
     </div>
   </footer>
+  <div class="legal">Student project &middot; not affiliated with or endorsed by VIT</div>
+
+  <button type="button" class="side-tab" data-open-chat>Ask VIT</button>
 
   <!-- Chat widget -->
   <button type="button" class="chat-fab" data-open-chat aria-label="Open the VIT assistant">
-    <svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true">
+    <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
       <path fill="currentColor" d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z" />
     </svg>
-    <span>Ask VIT</span>
+    <span>Chat</span>
   </button>
 
   <section class="chat-panel" id="chat-panel" role="dialog" aria-modal="false" aria-labelledby="chat-title" hidden>

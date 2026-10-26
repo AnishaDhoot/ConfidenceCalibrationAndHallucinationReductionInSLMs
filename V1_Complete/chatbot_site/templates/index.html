@@ -1,0 +1,97 @@
+{% extends "base.html" %}
+{% block title %}VIT Q&amp;A Demo &mdash; Home{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <div class="wrap">
+    <h1>Ask about VIT programmes, rules and campus life</h1>
+    <p>An assistant built from public VIT documents. It shows how confident it is, and says &ldquo;I don&rsquo;t know&rdquo; instead of guessing.</p>
+
+    <form class="hero-ask" id="hero-ask" autocomplete="off">
+      <label class="sr-only" for="hero-input">Ask a question</label>
+      <input id="hero-input" type="text" maxlength="500" placeholder="e.g. What is the minimum attendance to write the FAT?" required>
+      <button class="btn btn-gold" type="submit">Ask</button>
+    </form>
+    <div class="chips">
+      <button type="button" class="chip" data-ask="What is the minimum attendance required to write CAT and FAT exams?">Attendance rule</button>
+      <button type="button" class="chip" data-ask="How is a VIT course code structured?">Course codes</button>
+      <button type="button" class="chip" data-ask="What penalty applies at VIT for using electrical appliances inside a hostel room?">Hostel penalties</button>
+      <button type="button" class="chip" data-ask="What is the monthly fellowship stipend for a Ph.D. scholar at the Vellore campus during the Second and Third Years?">Ph.D. stipend</button>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="title-center">
+      <h2>Vellore Institute of Technology</h2>
+      <p class="tagline">Find what you need, or ask the assistant</p>
+    </div>
+    <div class="grid cols-3">
+      <article class="card">
+        <div class="icon" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24"><path fill="currentColor" d="M12 3 1 9l11 6 9-4.9V17h2V9L12 3zM5 13.2v4L12 21l7-3.8v-4L12 17l-7-3.8z"/></svg></div>
+        <h3>Programmes &amp; curriculum</h3>
+        <p>Credit structure, course codes, prerequisites and evaluation modes for B.Tech, M.Tech, M.Sc, MCA and more.</p>
+        <a class="card-link" href="{{ url_for('academics') }}">Browse programmes &rarr;</a>
+      </article>
+      <article class="card">
+        <div class="icon" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24"><path fill="currentColor" d="M6 2h9l5 5v15H6V2zm8 1.5V8h4.5L14 3.5zM8 12h8v1.6H8V12zm0 3.4h8V17H8v-1.6z"/></svg></div>
+        <h3>Academic regulations</h3>
+        <p>Attendance, grading, re-evaluation, audit courses and what happens in case of malpractice.</p>
+        <a class="card-link" href="{{ url_for('academics') }}#regulations">Read the key rules &rarr;</a>
+      </article>
+      <article class="card">
+        <div class="icon" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24"><path fill="currentColor" d="M12 3 2 12h3v8h5v-5h4v5h5v-8h3L12 3z"/></svg></div>
+        <h3>Hostels, clubs &amp; fests</h3>
+        <p>Hostel fee structure, code of conduct, and the clubs, chapters and teams on campus.</p>
+        <a class="card-link" href="{{ url_for('campus_life') }}">See campus life &rarr;</a>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section alt">
+  <div class="wrap grid cols-2">
+    <div>
+      <p class="eyebrow">Fall Semester 2026&ndash;27</p>
+      <h2>Key Dates</h2>
+      <ul class="dates">
+        <li><span>Semester commences</span><time>6 July 2026</time></li>
+        <li><span>CAT-I begins</span><time>9 Aug 2026</time></li>
+        <li><span>CAT-II begins</span><time>29 Sep 2026</time></li>
+        <li><span>Last instructional day (theory)</span><time>3 Nov 2026</time></li>
+        <li><span>FAT window</span><time>12 Nov &ndash; 5 Dec 2026</time></li>
+      </ul>
+      <p class="fineprint">From this project&rsquo;s dataset of the Fall 2026&ndash;27 calendar. Only the semester start and the FAT start were cross-checked against a public copy; the other dates were not. Always confirm on the official site.</p>
+    </div>
+    <div>
+      <p class="eyebrow">From the academic regulations</p>
+      <h2>Rules Students Ask About Most</h2>
+      <ul class="facts">
+        <li>Minimum <strong>75% attendance</strong> in each course to write the next CAT/FAT.</li>
+        <li>Students with <strong>CGPA &ge; 9.00</strong> and no backlogs are exempt from the attendance minimum.</li>
+        <li>CAT: 90 minutes, 50 marks. FAT: 3 hours, 100 marks. Continuous assessment carries <strong>60%</strong>, FAT <strong>40%</strong>.</li>
+        <li>Absent from or debarred in the FAT means an <strong>N grade</strong> and re-registration.</li>
+      </ul>
+      <p style="margin-top:18px"><button type="button" class="btn btn-navy" data-ask="What grade is awarded to a VIT student who is debarred from writing the FAT due to insufficient attendance?">Ask about it</button></p>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band">
+  <div class="wrap">
+    <h2>Not sure where to look?</h2>
+    <p>Type your question in the assistant. Every answer shows a confidence score, and low-confidence questions get an honest &ldquo;I don&rsquo;t know&rdquo;.</p>
+    <button type="button" class="btn btn-gold" data-open-chat>Open the assistant</button>
+  </div>
+</section>
+
+<script>
+  document.getElementById("hero-ask").addEventListener("submit", function (e) {
+    e.preventDefault();
+    var input = document.getElementById("hero-input");
+    var q = input.value.trim();
+    if (q) { window.askVIT(q); input.value = ""; }
+  });
+</script>
+{% endblock %}

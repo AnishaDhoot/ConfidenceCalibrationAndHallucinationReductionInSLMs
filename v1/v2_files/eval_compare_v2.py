@@ -283,6 +283,14 @@ def save_md(summaries):
     print(f"Wrote {RESULTS_DIR}/comparison_fixed.md")
 
 
+def pack(res):
+    """Per-example calibration data plus the generated text, so refusal metrics can be computed later."""
+    return {"confidences": [r["confidence"] for r in res],
+            "corrects": [r["correct"] for r in res],
+            "predictions": [r["prediction"] for r in res],
+            "f1": [r["f1"] for r in res]}
+
+
 def main():
     eval_set = load_eval_set(TEST_PATH)
     n_idk = sum(e["is_idk"] for e in eval_set)
@@ -291,10 +299,15 @@ def main():
     summaries, calib = [], {}
 
     # base model is slow, so cache it per test file
+    cached = None
     if os.path.exists(BASE_CACHE):
-        print(f"Using cached base results ({BASE_CACHE})")
         with open(BASE_CACHE, encoding="utf-8") as f:
             cached = json.load(f)
+        if "predictions" not in cached["calib"]:
+            print("Base cache has no generated text; re-running the base model")
+            cached = None
+    if cached:
+        print(f"Using cached base results ({BASE_CACHE})")
         summaries.append(cached["summary"])
         calib["Base"] = cached["calib"]
     else:
@@ -303,8 +316,7 @@ def main():
         res = run_model(m, tok, eval_set, "base")
         free(m)
         base_summary = summarize(res, "Base")
-        calib["Base"] = {"confidences": [r["confidence"] for r in res],
-                         "corrects": [r["correct"] for r in res]}
+        calib["Base"] = pack(res)
         with open(BASE_CACHE, "w", encoding="utf-8") as f:
             json.dump({"summary": base_summary, "calib": calib["Base"]}, f, indent=2)
         summaries.append(base_summary)
@@ -315,8 +327,7 @@ def main():
         res = run_model(m, tok, eval_set, "normal-ft")
         free(m)
         summaries.append(summarize(res, "Normal FT"))
-        calib["Normal FT"] = {"confidences": [r["confidence"] for r in res],
-                              "corrects": [r["correct"] for r in res]}
+        calib["Normal FT"] = pack(res)
 
     if not args.skip_idk:
         print(f"Loading IDK fine-tune ({args.idk_adapter})...")
@@ -324,8 +335,7 @@ def main():
         res = run_model(m, tok, eval_set, "idk-ft")
         free(m)
         summaries.append(summarize(res, "IDK FT"))
-        calib["IDK FT"] = {"confidences": [r["confidence"] for r in res],
-                           "corrects": [r["correct"] for r in res]}
+        calib["IDK FT"] = pack(res)
 
     print_table(summaries)
     save_md(summaries)

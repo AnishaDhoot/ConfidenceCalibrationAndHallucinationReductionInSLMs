@@ -1,0 +1,93 @@
+{% extends "base.html" %}
+{% block title %}Academics &mdash; VIT Q&amp;A Demo{% endblock %}
+
+{% block content %}
+<section class="hero" style="padding:44px 0 50px">
+  <div class="wrap">
+    <p class="eyebrow" style="color:#ffd46b">Academics</p>
+    <h1>Programmes &amp; curriculum</h1>
+    <p>Pick a programme to ask the assistant about its credit structure, courses and projects. Each button sends a real question to the chatbot.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="grid cols-3">
+
+      <article class="card prog-group">
+        <h3>Undergraduate <span class="tag">B.Tech</span></h3>
+        <ul class="prog-list">
+          <li><button type="button" data-ask="In the B.Tech CSE (Internet of Things), 2024-2025 curriculum, how many credits is Project - I (BCSE497J) worth?">CSE (Internet of Things) <span>Ask &rarr;</span></button></li>
+          <li><button type="button" data-ask="In the B.Tech CSE (Artificial Intelligence and Data Engineering), 2024-2025 curriculum, how many credits does the Projects and Internship category require in total?">CSE (AI &amp; Data Engineering) <span>Ask &rarr;</span></button></li>
+          <li><button type="button" data-ask="In the B.Tech CSE (Bioinformatics), 2024-2025 curriculum, under what condition can Project - II (BCSE498J) extend across two semesters instead of one, and how many credits is Project - II worth?">CSE (Bioinformatics) <span>Ask &rarr;</span></button></li>
+          <li><button type="button" data-ask="Which reference books are listed for Artificial Intelligence (BCSE306L) besides the primary textbook by Russell and Norvig?">CSE core: Artificial Intelligence <span>Ask &rarr;</span></button></li>
+          <li><button type="button" data-ask="In the B.Tech CSE and Business Systems (in collaboration with TCS), AY 2024-2025 curriculum, can the Capstone Project (CBS1904) run for more than one semester?">CSE &amp; Business Systems (TCS) <span>Ask &rarr;</span></button></li>
+          <li><button type="button" data-ask="In the B.Tech Mechanical Engineering, Specialisation in Manufacturing Engineering, 2024-2025 curriculum, is Advanced Material Characterization Methods (BMEE319E) worth the same number of credits as Manufacturing Systems Design (BMEE412E)?">Mechanical Engineering <span>Ask &rarr;</span></button></li>
+          <li><button type="button" data-ask="In the B.Tech ECE with Specialization in Biomedical Engineering, 2023-24 curriculum, are the project-type courses BECE391J to BECE398J categorized under Open Elective?">ECE (Biomedical) <span>Ask &rarr;</span></button></li>
+        </ul>
+      </article>
+
+      <article class="card prog-group">
+        <h3>Postgraduate <span class="tag">M.Tech &middot; M.Sc &middot; M.Arch</span></h3>
+        <ul class="prog-list">
+          <li><button type="button" data-ask="What is the total credit requirement for the M.Sc. Biotechnology (MSB) program, and how is it split across categories?">M.Sc. Biotechnology <span>Ask &rarr;</span></button></li>
+          <li><button type="button" data-ask="What is the total credit requirement for the M.Sc. Biomedical Genetics program, and how is it split across categories?">M.Sc. Biomedical Genetics <span>Ask &rarr;</span></button></li>
+          <li><button type="button" data-ask="What is the total credit requirement for the M.Tech Embedded Systems (MES) program, and how is it distributed?">M.Tech Embedded Systems <span>Ask &rarr;</span></button></li>
+          <li><button type="button" data-ask="What is the total credit requirement for the M.Tech Automotive Electronics (MEA) program, and how is it distributed?">M.Tech Automotive Electronics <span>Ask &rarr;</span></button></li>
+          <li><button type="button" data-ask="What is the total graded credit requirement for the M.Tech Manufacturing Engineering program at VIT?">M.Tech Manufacturing Engineering <span>Ask &rarr;</span></button></li>
+          <li><button type="button" data-ask="What is the total credit requirement for the Master in Architecture in Digital Technologies for Buildings program?">M.Arch (Digital Technologies) <span>Ask &rarr;</span></button></li>
+          <li><button type="button" data-ask="How many credits does the Discipline Core category contribute to the M.Sc. exit level of the IMSP program?">Integrated M.Sc. Physics <span>Ask &rarr;</span></button></li>
+        </ul>
+      </article>
+
+      <article class="card prog-group">
+        <h3>Research <span class="tag">Ph.D.</span></h3>
+        <ul class="prog-list">
+          <li><button type="button" data-ask="What is the monthly fellowship stipend for a Ph.D. scholar at the Vellore campus during the Second and Third Years?">Fellowship stipend <span>Ask &rarr;</span></button></li>
+          <li><button type="button" data-ask="For how many years is a regular Ph.D. candidate at VIT appointed as a Teaching cum Research Assistant (TRA) under the institutional fellowship?">Teaching cum Research Assistant <span>Ask &rarr;</span></button></li>
+          <li><button type="button" data-ask="For how many years is the monthly fellowship stipend awarded to Direct Ph.D. candidates, compared to regular Ph.D. candidates?">Direct Ph.D. vs regular <span>Ask &rarr;</span></button></li>
+          <li><button type="button" data-ask="Which SELECT faculty member researches AI-driven decision support systems with a specific focus on cancer research and neurological disorders?">Find a research guide <span>Ask &rarr;</span></button></li>
+        </ul>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+<section class="section alt" id="regulations">
+  <div class="wrap grid cols-2">
+    <div>
+      <p class="eyebrow">FFCS Academic Regulations, v4.0</p>
+      <h2>Key regulations</h2>
+      <ul class="facts">
+        <li><strong>Attendance:</strong> 75% minimum per course; below that you are debarred from the next CAT/FAT.</li>
+        <li><strong>Course code:</strong> four letters, three digits, one letter (e.g. BCSE306L). The first digit shows the cognitive level.</li>
+        <li><strong>Credits:</strong> one theory credit is 15 lecture hours; one lab credit is at least 30 hours.</li>
+        <li><strong>Re-evaluation:</strong> a change of more than 5% sends the script to a different examiner; the best of the three marks counts.</li>
+        <li><strong>Malpractice in a CAT:</strong> zero marks in that CAT for every course registered that semester. In the FAT: an N grade in the courses attended.</li>
+        <li><strong>Audit courses:</strong> need a CGPA of at least 8.0 and show as a U grade; they do not count toward CGPA.</li>
+      </ul>
+      <p style="margin-top:18px">
+        <button type="button" class="btn btn-navy" data-ask="What penalty does a VIT student face if they are caught committing academic malpractice during a CAT, versus during the FAT?">Ask about malpractice</button>
+        <button type="button" class="btn btn-gold" data-ask="How many lecture hours does one theory credit correspond to at VIT, and how many hours does one lab credit correspond to?">Ask about credits</button>
+      </p>
+    </div>
+    <div class="table-scroll">
+      <table>
+        <caption>Absolute grading scale (marks out of 100)</caption>
+        <thead><tr><th>Grade</th><th class="num">Marks</th></tr></thead>
+        <tbody>
+          <tr><td>S</td><td class="num">90 and above</td></tr>
+          <tr><td>A</td><td class="num">80 &ndash; 89</td></tr>
+          <tr><td>B</td><td class="num">70 &ndash; 79</td></tr>
+          <tr><td>C</td><td class="num">60 &ndash; 69</td></tr>
+          <tr><td>D</td><td class="num">55 &ndash; 59</td></tr>
+          <tr><td>E</td><td class="num">50 &ndash; 54</td></tr>
+          <tr><td>F</td><td class="num">Below 50</td></tr>
+        </tbody>
+      </table>
+      <p class="fineprint">Theory courses with more than 10 students use relative grading instead; labs and projects always use this absolute scale.</p>
+    </div>
+  </div>
+</section>
+{% endblock %}
